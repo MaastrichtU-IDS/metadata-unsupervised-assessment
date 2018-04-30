@@ -1,0 +1,59 @@
+{'accuracy': 0.9380281690140845,
+ 'auc': 0.9981909040275943,
+ 'confusion_matrix': Columns:
+ 	target_label	str
+ 	predicted_label	str
+ 	count	int
+ 
+ Rows: 13
+ 
+ Data:
+ +--------------+-----------------+-------+
+ | target_label | predicted_label | count |
+ +--------------+-----------------+-------+
+ |  cell line   |       age       |   1   |
+ |   disease    |    treatment    |   1   |
+ |     age      |       age       |   30  |
+ |    strain    |      strain     |   40  |
+ |   disease    |       age       |   3   |
+ |  treatment   |       age       |   7   |
+ |    strain    |       age       |   1   |
+ |  treatment   |    treatment    |  103  |
+ |  cell line   |      tissue     |   4   |
+ |   disease    |     disease     |   46  |
+ +--------------+-----------------+-------+
+ [13 rows x 3 columns]
+ Note: Only the head of the SFrame is printed.
+ You can use print_rows(num_rows=m, num_columns=n) to print more rows and columns.,
+ 'f1_score': 0.9243110976185193,
+ 'log_loss': 0.18010579242988628,
+ 'precision': 0.9310215493726132,
+ 'recall': 0.93448800340173,
+ 'roc_curve': Columns:
+ 	threshold	float
+ 	fpr	float
+ 	tpr	float
+ 	p	int
+ 	n	int
+ 	class	int
+ 
+ Rows: 600006
+ 
+ Data:
+ +-----------+-----+-----+----+-----+-------+
+ | threshold | fpr | tpr | p  |  n  | class |
+ +-----------+-----+-----+----+-----+-------+
+ |    0.0    | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   1e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   2e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   3e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   4e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   5e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   6e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   7e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   8e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ |   9e-05   | 1.0 | 1.0 | 30 | 325 |   0   |
+ +-----------+-----+-----+----+-----+-------+
+ [600006 rows x 6 columns]
+ Note: Only the head of the SFrame is printed.
+ You can use print_rows(num_rows=m, num_columns=n) to print more rows and columns.}

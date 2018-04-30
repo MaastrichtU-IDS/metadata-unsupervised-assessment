@@ -1,0 +1,356 @@
+key,cat
+age at diagnosis,no
+age at diagnosis (years),no
+age unit,no
+age at sample (months),no
+age group,no
+age_years,no
+patient age (yrs),no
+age (y),no
+age in years,no
+donor_age,no
+age (years),no
+age (months),no
+age.brain,no
+age (weeks),no
+gestational age (weeks),no
+age (yrs),no
+patient age,no
+age.blood,no
+sample age,no
+age at surgery,no
+age,no
+age months,no
+age(years),no
+stage,no
+pathological_stage,no
+growth/development stage,no
+growth stage,no
+pathological stage,no
+development stage,no
+tumor stage,no
+cell line name,cell line
+cell line type,cell line
+cell lines,cell line
+cell lineage,cell line
+cell line/clone,cell line
+tumour cell line used for conditioning medium,cell line
+dendritic cell lineages,cell line
+insect cell line,cell line
+cell line,cell line
+parental cell line,cell line
+tumor cell line,cell line
+primary cell line,cell line
+donor cell line,cell line
+injected cell line,cell line
+coriell cell line repository identifier,cell line
+growth pattern of cell line,cell line
+cell line passage,cell line
+tissue/cell line,cell line
+origin of a cell line,cell line
+tissue/cell lines,cell line
+cell line background,cell line
+source cell line,cell line
+cell line source tissue,cell line
+cell line origin,cell line
+cell line tissue source,cell line
+cell line source,cell line
+cell line source age,cell line
+cell line source gender,cell line
+cell line source ethnicity,cell line
+disease,no
+primary disease,no
+disease exposure,no
+disease/cell type,no
+disease type,no
+disease subtype,no
+disease model,no
+disease-state,no
+meibomian gland disease state,no
+subject's disease state,no
+disease/treatment status,no
+disease status of patient,no
+disease stage,no
+disease progression,no
+status of disease,no
+clinical characteristic/disease status,no
+disease development,no
+diseasestatus,no
+stage of disease,no
+disease outcome,no
+duration of disease,no
+disease_status,no
+advanced disease stage,no
+disease state (host),no
+disease_state,no
+disease severity,no
+histology (disease state),no
+stage of disease (inss),no
+advanced disease state,no
+disease status,no
+patient disease status,no
+disease phase,no
+diseased,no
+disease state,no
+extent of disease,no
+disease_specific_survival_years,no
+disease-free survival (dfs),no
+disease_free_survival_years,no
+disease-free interval (months),no
+disease free interval (days),no
+disease specific survival (years),no
+disease free interval (months),no
+age at disease onset,no
+disease free survival in months,no
+disease free survival time (months),no
+disease-free survival (dfs) event,no
+disease progression (event),no
+disease_specific_survival_event,no
+disease relapse (event),no
+disease_free_survival_event,no
+strain,no
+strain or line,no
+strain/line,no
+strain description,no
+strain source,no
+strain/genotype,no
+strain/ecotype,no
+strains,no
+strain name,no
+host strain,no
+strain details,no
+strain phenotype,no
+host strain background,no
+background mouse strain,no
+strain/background,no
+background/strain,no
+background strains,no
+strain background (bloomington stock number),no
+strain [background],no
+strain background,no
+strain/accession,no
+siv strain,no
+toxoplasma parasite strain,no
+viral strain,no
+infection (virus strain),no
+recipient strain,no
+substrain,no
+parent strain,no
+parental strain,no
+strain number,no
+maternal strain,no
+human cytomegalovirus strain,no
+scanstrain,no
+strain fgsc number,no
+strain (donor),no
+bacteria strain,no
+virus strain,no
+mouse strain,no
+mice strain,no
+plant strain,no
+parasite strain,no
+tissuer type,no
+tissue_detail,no
+tissuetype,no
+cell line source tissue,no
+cell/tissue type,no
+tissue,no
+tissue-type,no
+original tissue,no
+tissue/cell lines,no
+primary tissue,no
+tumor/tissue type,no
+tissue lineage,no
+sample type,no
+cell tissue,no
+harvested tissue type,no
+tissue or cell type,no
+organ/tissue type,no
+tissue isolated,no
+tissue/cell type,no
+tissue typ,no
+tissue/cell line,no
+host tissue,no
+tissues,no
+tissue type,no
+tissue_surgery,no
+cell line tissue source,no
+tissue or cells,no
+tissue/cell,no
+tissue diagnosis,no
+tissue (organ),no
+sample tissue type,no
+tissuet type,no
+source tissue type,no
+tissue_type,no
+sample tissue of origin,no
+tissue_source,no
+tissue derivation,no
+tumor tissue source,no
+tissue_depot,no
+tissue/origin,no
+source tissue,no
+tissue source site,no
+organ/tissue,no
+tissue/source,no
+tissue of origin,no
+tissue origination,no
+tissue site,no
+tissue provider,no
+tissue-of-origin,no
+tissue morphology,no
+original tissue source,no
+tissue_biological,no
+tissue location,no
+tissue compartment,no
+tissue origin of primary cultures,no
+tissue source,no
+tissue origin,no
+tissue derived,no
+stage/tissue,no
+tissue & age,no
+age of ffpe tissue,no
+tissue status,no
+day of tissue dissection,no
+tissue collection time,no
+tissue stage,no
+age at tissue collection (days),no
+tissue age,no
+tissue condition,no
+tissue state,no
+tissue/development stage,no
+tissue and developemental stage,no
+tissue archive method,no
+tissue separation,no
+tissue preservation,no
+tissue archive,no
+tissue preserve method,no
+tissue processing,no
+tissue storage,no
+tissue preparation,no
+tissue harvest,no
+tissue collection,no
+tissue harvest methods,no
+tissue collection method,no
+tissue extraction,no
+tissue part,no
+tissue subtype,no
+tissue sub-type,no
+tissue/tumor subtype,no
+tissuebank,no
+tissue bank,no
+tissue weigth,no
+tissue_mg,no
+tissue section,no
+tissue subregion,no
+tissue region,no
+disease/treatment status,no
+treatment2_in vivo treatment,no
+treatment stage,no
+treatments,no
+treatment agent,no
+treatment_molecule,no
+lighttreatment,no
+treatment result,no
+treatment_2,no
+treatment_1,no
+tissue treatment,no
+cactus host treatment,no
+oxygen treatment,no
+tap treatment,no
+inducer treatment,no
+treatment/exposure,no
+order of treatment,no
+treatment_dose,no
+treatment dosage,no
+treatment_category,no
+globin treatment,no
+dht treatment,no
+treatment protocol,no
+art treatment,no
+treatment 1,no
+dox treatment,no
+treatment 2,no
+response to treatment,no
+ms treatment,no
+chx treatment,no
+uv treatment,no
+dopamine-agonists treatment,no
+treatment before sampling,no
+l-dopa treatment,no
+c local treatment,no
+treatment,no
+response to tzd treatment,no
+nrti treatment status,no
+tamoxifen-citrate treatment,no
+treatment status,no
+pbmc treatment,no
+treatment description,no
+in vitro treatment,no
+hormone treatment,no
+treatment type,no
+hormonal treatment,no
+animal treatment,no
+stress treatment,no
+ligand treatment,no
+c systemic treatment,no
+treatment_response,no
+genotype/treatment,no
+lenolidamide treatment,no
+treatments comments,no
+culture conditions/treatment,no
+experimental treatment,no
+heat treatment,no
+treatment dose,no
+in vivo treatment,no
+drug treatment,no
+cell treatment,no
+previoustreatment,no
+treatment response for gene profiling,no
+treatment response,no
+tet1/tet2 treatment,no
+msc treatment,no
+treatment compound,no
+sample treatment,no
+treatment time,no
+time of treatment,no
+treatment period,no
+treatment duration,no
+days after treatment,no
+drug treatment time point,no
+weeks of treatment,no
+treatment time (rhgaa),no
+tnfa treatment time point,no
+treatment_time,no
+treatment length,no
+time (days post-treatment),no
+patient treatment plan,no
+treatment-time,no
+time after treatment,no
+day of dss treatment,no
+time post treatment,no
+time of tamoxifen treatment,no
+days of ddc treatment,no
+weeks after treatment,no
+post-treatment time,no
+length of treatment,no
+duration of il-6 treatment,no
+treatment start age,no
+days of treatment,no
+duration of treatment,no
+treatment code,no
+time post-treatment,no
+treatment age,no
+pre-treatment psa,no
+treatment protocol (post-agent),no
+pretreatment drug & dose,no
+pre-treatment,no
+pretreatment,no
+treatment group,no
+sirna treatment group,no
+h2o2 treatment level,no
+maternal treatment group,no
+bl treatment level,no
+prior treatment,no
+treatment category,no
+tissue/treatment id,no
