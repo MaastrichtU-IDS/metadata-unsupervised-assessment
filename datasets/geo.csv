@@ -1,0 +1,356 @@
+key,key_class
+age at diagnosis,age
+age at diagnosis (years),age
+age unit,age
+age at sample (months),age
+age group,age
+age_years,age
+patient age (yrs),age
+age (y),age
+age in years,age
+donor_age,age
+age (years),age
+age (months),age
+age.brain,age
+age (weeks),age
+gestational age (weeks),age
+age (yrs),age
+patient age,age
+age.blood,age
+sample age,age
+age at surgery,age
+age,age
+age months,age
+age(years),age
+stage,age
+pathological_stage,age
+growth/development stage,age
+growth stage,age
+pathological stage,age
+development stage,age
+tumor stage,age
+cell line name,cell line
+cell line type,cell line
+cell lines,cell line
+cell lineage,cell line
+cell line/clone,cell line
+tumour cell line used for conditioning medium,cell line
+dendritic cell lineages,cell line
+insect cell line,cell line
+cell line,cell line
+parental cell line,cell line
+tumor cell line,cell line
+primary cell line,cell line
+donor cell line,cell line
+injected cell line,cell line
+coriell cell line repository identifier,cell line
+growth pattern of cell line,cell line
+cell line passage,cell line
+tissue/cell line,cell line
+origin of a cell line,cell line
+tissue/cell lines,cell line
+cell line background,cell line
+source cell line,cell line
+cell line source tissue,cell line
+cell line origin,cell line
+cell line tissue source,cell line
+cell line source,cell line
+cell line source age,cell line
+cell line source gender,cell line
+cell line source ethnicity,cell line
+disease,disease
+primary disease,disease
+disease exposure,disease
+disease/cell type,disease
+disease type,disease
+disease subtype,disease
+disease model,disease
+disease-state,disease
+meibomian gland disease state,disease
+subject's disease state,disease
+disease/treatment status,disease
+disease status of patient,disease
+disease stage,disease
+disease progression,disease
+status of disease,disease
+clinical characteristic/disease status,disease
+disease development,disease
+diseasestatus,disease
+stage of disease,disease
+disease outcome,disease
+duration of disease,disease
+disease_status,disease
+advanced disease stage,disease
+disease state (host),disease
+disease_state,disease
+disease severity,disease
+histology (disease state),disease
+stage of disease (inss),disease
+advanced disease state,disease
+disease status,disease
+patient disease status,disease
+disease phase,disease
+diseased,disease
+disease state,disease
+extent of disease,disease
+disease_specific_survival_years,disease
+disease-free survival (dfs),disease
+disease_free_survival_years,disease
+disease-free interval (months),disease
+disease free interval (days),disease
+disease specific survival (years),disease
+disease free interval (months),disease
+age at disease onset,disease
+disease free survival in months,disease
+disease free survival time (months),disease
+disease-free survival (dfs) event,disease
+disease progression (event),disease
+disease_specific_survival_event,disease
+disease relapse (event),disease
+disease_free_survival_event,disease
+strain,strain
+strain or line,strain
+strain/line,strain
+strain description,strain
+strain source,strain
+strain/genotype,strain
+strain/ecotype,strain
+strains,strain
+strain name,strain
+host strain,strain
+strain details,strain
+strain phenotype,strain
+host strain background,strain
+background mouse strain,strain
+strain/background,strain
+background/strain,strain
+background strains,strain
+strain background (bloomington stock number),strain
+strain [background],strain
+strain background,strain
+strain/accession,strain
+siv strain,strain
+toxoplasma parasite strain,strain
+viral strain,strain
+infection (virus strain),strain
+recipient strain,strain
+substrain,strain
+parent strain,strain
+parental strain,strain
+strain number,strain
+maternal strain,strain
+human cytomegalovirus strain,strain
+scanstrain,strain
+strain fgsc number,strain
+strain (donor),strain
+bacteria strain,strain
+virus strain,strain
+mouse strain,strain
+mice strain,strain
+plant strain,strain
+parasite strain,strain
+tissuer type,tissue
+tissue_detail,tissue
+tissuetype,tissue
+cell line source tissue,tissue
+cell/tissue type,tissue
+tissue,tissue
+tissue-type,tissue
+original tissue,tissue
+tissue/cell lines,tissue
+primary tissue,tissue
+tumor/tissue type,tissue
+tissue lineage,tissue
+sample type,tissue
+cell tissue,tissue
+harvested tissue type,tissue
+tissue or cell type,tissue
+organ/tissue type,tissue
+tissue isolated,tissue
+tissue/cell type,tissue
+tissue typ,tissue
+tissue/cell line,tissue
+host tissue,tissue
+tissues,tissue
+tissue type,tissue
+tissue_surgery,tissue
+cell line tissue source,tissue
+tissue or cells,tissue
+tissue/cell,tissue
+tissue diagnosis,tissue
+tissue (organ),tissue
+sample tissue type,tissue
+tissuet type,tissue
+source tissue type,tissue
+tissue_type,tissue
+sample tissue of origin,tissue
+tissue_source,tissue
+tissue derivation,tissue
+tumor tissue source,tissue
+tissue_depot,tissue
+tissue/origin,tissue
+source tissue,tissue
+tissue source site,tissue
+organ/tissue,tissue
+tissue/source,tissue
+tissue of origin,tissue
+tissue origination,tissue
+tissue site,tissue
+tissue provider,tissue
+tissue-of-origin,tissue
+tissue morphology,tissue
+original tissue source,tissue
+tissue_biological,tissue
+tissue location,tissue
+tissue compartment,tissue
+tissue origin of primary cultures,tissue
+tissue source,tissue
+tissue origin,tissue
+tissue derived,tissue
+stage/tissue,tissue
+tissue & age,tissue
+age of ffpe tissue,tissue
+tissue status,tissue
+day of tissue dissection,tissue
+tissue collection time,tissue
+tissue stage,tissue
+age at tissue collection (days),tissue
+tissue age,tissue
+tissue condition,tissue
+tissue state,tissue
+tissue/development stage,tissue
+tissue and developemental stage,tissue
+tissue archive method,tissue
+tissue separation,tissue
+tissue preservation,tissue
+tissue archive,tissue
+tissue preserve method,tissue
+tissue processing,tissue
+tissue storage,tissue
+tissue preparation,tissue
+tissue harvest,tissue
+tissue collection,tissue
+tissue harvest methods,tissue
+tissue collection method,tissue
+tissue extraction,tissue
+tissue part,tissue
+tissue subtype,tissue
+tissue sub-type,tissue
+tissue/tumor subtype,tissue
+tissuebank,tissue
+tissue bank,tissue
+tissue weigth,tissue
+tissue_mg,tissue
+tissue section,tissue
+tissue subregion,tissue
+tissue region,tissue
+disease/treatment status,treatment
+treatment2_in vivo treatment,treatment
+treatment stage,treatment
+treatments,treatment
+treatment agent,treatment
+treatment_molecule,treatment
+lighttreatment,treatment
+treatment result,treatment
+treatment_2,treatment
+treatment_1,treatment
+tissue treatment,treatment
+cactus host treatment,treatment
+oxygen treatment,treatment
+tap treatment,treatment
+inducer treatment,treatment
+treatment/exposure,treatment
+order of treatment,treatment
+treatment_dose,treatment
+treatment dosage,treatment
+treatment_category,treatment
+globin treatment,treatment
+dht treatment,treatment
+treatment protocol,treatment
+art treatment,treatment
+treatment 1,treatment
+dox treatment,treatment
+treatment 2,treatment
+response to treatment,treatment
+ms treatment,treatment
+chx treatment,treatment
+uv treatment,treatment
+dopamine-agonists treatment,treatment
+treatment before sampling,treatment
+l-dopa treatment,treatment
+c local treatment,treatment
+treatment,treatment
+response to tzd treatment,treatment
+nrti treatment status,treatment
+tamoxifen-citrate treatment,treatment
+treatment status,treatment
+pbmc treatment,treatment
+treatment description,treatment
+in vitro treatment,treatment
+hormone treatment,treatment
+treatment type,treatment
+hormonal treatment,treatment
+animal treatment,treatment
+stress treatment,treatment
+ligand treatment,treatment
+c systemic treatment,treatment
+treatment_response,treatment
+genotype/treatment,treatment
+lenolidamide treatment,treatment
+treatments comments,treatment
+culture conditions/treatment,treatment
+experimental treatment,treatment
+heat treatment,treatment
+treatment dose,treatment
+in vivo treatment,treatment
+drug treatment,treatment
+cell treatment,treatment
+previoustreatment,treatment
+treatment response for gene profiling,treatment
+treatment response,treatment
+tet1/tet2 treatment,treatment
+msc treatment,treatment
+treatment compound,treatment
+sample treatment,treatment
+treatment time,treatment
+time of treatment,treatment
+treatment period,treatment
+treatment duration,treatment
+days after treatment,treatment
+drug treatment time point,treatment
+weeks of treatment,treatment
+treatment time (rhgaa),treatment
+tnfa treatment time point,treatment
+treatment_time,treatment
+treatment length,treatment
+time (days post-treatment),treatment
+patient treatment plan,treatment
+treatment-time,treatment
+time after treatment,treatment
+day of dss treatment,treatment
+time post treatment,treatment
+time of tamoxifen treatment,treatment
+days of ddc treatment,treatment
+weeks after treatment,treatment
+post-treatment time,treatment
+length of treatment,treatment
+duration of il-6 treatment,treatment
+treatment start age,treatment
+days of treatment,treatment
+duration of treatment,treatment
+treatment code,treatment
+time post-treatment,treatment
+treatment age,treatment
+pre-treatment psa,treatment
+treatment protocol (post-agent),treatment
+pretreatment drug & dose,treatment
+pre-treatment,treatment
+pretreatment,treatment
+treatment group,treatment
+sirna treatment group,treatment
+h2o2 treatment level,treatment
+maternal treatment group,treatment
+bl treatment level,treatment
+prior treatment,treatment
+treatment category,treatment
+tissue/treatment id,treatment
