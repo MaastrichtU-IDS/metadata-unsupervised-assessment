@@ -1,0 +1,503 @@
+class,probability,KEY CLASS,key
+no,0.999999,no,# of tissue = 38 tissue
+no,0.999999,no,a.thaliana tissue
+no,0.997271,no,age of ffpe tissue
+no,0.999999,no,day of tissue dissection
+no,0.999999,no,somatic tissue
+no,0.999999,no,pig tissue
+no,0.999999,no,donor tissue
+no,0.999999,no,mammary tissue
+no,0.999999,no,source  tissue
+no,0.999999,no,tissuer type
+no,1,no,tissue/treatment id
+no,0.999999,no,tissue origination
+no,0.999999,no,tissue processing
+no,1,no,tissue treatment
+no,0.999999,no,tissue (donor)
+no,0.999999,no,tissue_source
+no,0.999999,no,tissue_code
+no,0.999999,no,number of pooled tissues
+no,0.997271,no,tissue and developmental stage
+no,0.999999,no,tissue-cy3
+no,0.999999,no,tissue ph
+no,0.999999,no,tissue histology
+no,0.999999,no,tissuetype
+no,0.999999,no,tissue_depot
+no,0.999999,no,tissue weigth
+no,0.999999,no,tissue-of-origin
+no,0.999999,no,tissue extraction
+no,1,no,tissue collection time
+no,0.999999,no,tissue source site
+no,0.997271,no,tissue stage
+no,0.999895,no,tissue diagnosis
+no,0.999999,no,tissue archive method
+no,0.999999,no,tissuebank
+no,0.999999,no,tissue morphology
+no,0.999999,no,tissue compartment
+no,0.999999,no,tissue origin
+no,0.999999,no,thyroid tissue type
+no,0.999999,no,tumor tissue source
+no,1,no,tissue/cell type
+no,1,no,tissue/cell
+no,1,no,tissue/cell line
+no,0.997271,no,tissue/developmental stage
+no,1,no,cell line source tissue
+no,0.993623,no,gender of human sera
+no,0.993623,no,gender of mice
+no,0.993623,no,gender
+age,0.965933,no,gender and age
+no,0.993623,no,gender (male/female)
+no,0.993623,no,female gender
+no,0.993623,no,mc2 gender
+no,0.993623,no,mc5 gender
+no,0.993623,no,mc4 gender
+no,0.993623,no,xenograft recipient gender
+no,0.993623,no,strain gender
+age,0.965933,age,age of plants
+age,0.965933,age,age (1#pfu_1)
+age,0.993874,age,age of ffpe block (years)
+age,0.965933,age,age-at-examination
+age,0.965933,age,age (1#pvu_1)
+no,0.997271,age,age of ffpe tissue
+age,0.998791,age,age of sampling
+age,0.965933,age,age of biopsy
+age,0.993874,age,mother's age (years)
+age,0.998398,age,host age (yr)
+age,0.999697,age,age at death (years)
+age,0.965933,age,age in vitro
+age,0.965933,age,age (pup)
+age,0.965933,age,age_diag
+age,0.990307,age,age harvested (days)
+age,0.965933,age,age description
+age,0.993874,age,age at diagonosis (years)
+age,0.965933,age,age(yrs.)
+age,0.993874,age,age(years)
+age,0.999998,age,age of diagnosis (year)
+age,0.965933,age,age at sacrafice
+no,0.98709,age,age time point
+age,0.999981,age,agegroupatsampledraw
+no,0.997271,age,age and tissue
+age,0.965933,age,age at metastases
+age,0.998257,age,age (days old)
+age,0.965933,age,agenotype
+no,0.98709,age,age/disease timepoint
+age,0.965933,age,gender and age
+age,0.99784,age,age_group
+age,0.999577,age,age at blood sample collection
+age,0.965933,age,age quit smoking
+age,0.965933,age,age months
+age,0.990307,age,age induced (days)
+age,0.998267,age,age at death
+age,0.999992,age,age_at_blooddraw
+age,0.994159,age,age at infection (yrs)
+age,0.999792,age,age.at.diagnosis
+age,0.896468,age,age at start
+age,0.994159,age,age at operation (yrs)
+age,0.99983,age,age at onset
+age,0.999792,age,ageatdiagnosis
+age,0.999997,age,age at surgery (yrs)
+age,0.998398,age,age (yr)
+age,0.99999,age,age in days at diagnosis
+age,0.99983,age,age of onset
+no,0.98709,age,age at time of resection
+age,0.999792,age,age at 2nd diagnosis
+age,0.965933,age,age of source
+age,0.994159,age,age (yrs) at rrp
+age,0.965933,age,agegrp
+age,0.993874,age,age(years)/gender
+age,0.999792,age,age diagnosis
+age,0.965933,age,age of woman [years]
+age,0.99997,age,age of onset (years)
+age,0.965933,age,age bin
+age,0.965933,age,age (yr-old)
+age,0.999886,age,gestational age at delivery
+age,0.965933,age,embryo age
+age,0.99983,age,onset of age
+age,0.999886,age,gestational age of pups
+age,0.993874,age,baseline age (years)
+age,0.965933,age,ctl bone age
+age,0.965933,age,op bone age
+age,0.965933,age,animal age
+age,0.965933,age,in a diurnal environment. age
+age,0.993874,age,age at enrollment (years)
+no,0.938742,age,age at start of treatment
+age,0.999981,age,age (month) at surgery
+age,0.993874,age,age_at_prostatectomy_(years)
+age,0.896468,age,age at start of experiment
+age,0.896468,age,age at start therapy
+age,0.965933,age,mutant age
+no,0.997271,age,tissue & age
+age,0.965933,age,ma5 age
+age,0.965933,age,pig age
+age,0.998257,age,mean age in days
+age,0.965933,age,neuron age
+age,0.965933,age,units of age
+age,0.965933,age,proband age
+age,0.965933,age,infant age
+age,0.965933,age,age(weeks)
+age,0.99856,age,sample age group
+no,0.997271,age,tissue age
+age,0.977037,age,sample age
+age,0.965933,age,recipient age
+age,0.999198,age,culture age
+age,0.965933,age,estimated age
+age,0.965933,age,current age (2007)
+no,0.938742,age,treatment start age
+age,0.999777,age,culture age (days)
+no,0.82394,age,treatment age
+age,0.965933,age,not current age
+no,0.993623,no,b virus strain
+no,0.993623,no,recipient strain
+no,0.993623,no,host strain
+no,0.993623,no,parental strains
+no,0.993623,no,hcmel3 strain
+no,0.993623,no,progeny strain
+no,0.993623,no,parent strain
+no,0.993623,no,host strain background
+no,0.993623,no,vaccine strain
+no,0.993623,no,strain/background
+no,0.993623,no,basal strain
+no,0.993623,no,host mouse strain
+no,0.993623,no,control strain o157
+no,0.993623,no,rrf-3 mutant strain
+no,0.993623,no,animal/plant strain or line
+no,0.993623,no,background strain(s)
+no,0.993623,no,human cytomegalovirus strain
+no,0.993623,no,xenograft recipient strain
+no,0.993623,no,strain by4741 ptc2
+no,0.993623,no,strain by4741 ptc4
+no,0.993623,no,strain y3403
+no,0.993623,no,strain sr959
+no,0.993623,no,strain description
+no,0.993623,no,strain sr595
+no,0.993623,no,strain jlrela
+no,0.993623,no,strain (mouse)
+no,0.993623,no,strain y2197
+no,0.993623,no,strain tw1
+no,0.993623,no,strain (or line)
+no,0.993623,no,strain y3272
+no,0.993623,no,strain y2460
+no,0.993623,no,strain jam1
+no,0.993623,no,strain y2699
+no,0.993623,no,strain of ooplasm
+no,0.999666,no,strain/cell line background
+no,0.993623,no,strain (yeast)
+no,0.993623,no,strain sr453
+no,0.993623,no,strain tw14
+no,0.993623,no,strain type
+no,0.993623,no,strain by4741-rco1
+no,0.993623,no,strain by4741-ume6
+no,0.993623,no,strain crl
+no,0.993623,no,strain/genotype
+no,0.706024,no,infection (influenza strain)
+no,0.993623,no,infrequent clonal strain code
+no,0.999666,no,cell type (immunophenotype)
+no,0.999666,no,cell type subpopulation
+no,0.999666,no,sarcoma and primary cell type
+no,0.999666,no,cell type/growth condition
+no,0.999666,no,cell type origin
+no,0.999666,no,cell type [c]
+no,0.999666,no,cell type (human)
+no,0.999666,no,test cell type
+no,0.999666,no,melanoma cell type
+no,0.999666,no,background cell type
+no,0.999666,no,sorted cell type
+no,0.999666,no,primary cell type
+no,0.999666,no,source cell type
+no,1,no,tissue or cell type
+no,1,no,time (days of dss treatment)
+no,0.999952,no,duration of treatment (hours)
+no,0.999952,no,euthanasia day post treatment
+no,1,no,time post treatment
+no,0.82394,no,rai stage before treatment
+no,0.999952,no,weeks after treatment
+no,0.999952,no,rna treatment
+no,0.999952,no,5-aza-c treatment
+no,0.999952,no,nature of treatment
+no,0.999952,no,ddc treatment
+no,0.999952,no,light treatment
+no,0.999952,no,tap treatment
+no,0.999952,no,art treatment
+no,0.999952,no,dox treatment
+no,0.999952,no,chx treatment
+no,0.999952,no,uv treatment
+no,0.999952,no,dna treatment
+no,0.999952,no,in vitro treatment
+no,0.999952,no,s2 treatment
+no,0.999952,no,experimental treatment
+no,0.999952,no,drug treatment
+no,0.999952,no,tet1/tet2 treatment
+no,0.999952,no,adjuvant treatment
+no,0.999826,no,length of treatment (days)
+no,0.999952,no,vaccine or treatment
+no,0.999952,no,sirna or shrna treatment
+no,0.999952,no,cytokine treatment
+no,0.999952,no,gefitinib treatment
+no,1,no,tissue treatment
+no,0.999952,no,oxygen treatment
+no,0.999952,no,hygromycin treatment
+no,0.999952,no,c local treatment
+no,1,no,time of treatment
+no,0.999952,no,chemical treatment condition
+no,0.999952,no,enrichment treatment
+no,0.999952,no,chemical treatment conditon
+no,0.999952,no,immunogen treatment
+no,0.999952,no,c systemic treatment
+no,0.999952,no,lenolidamide treatment
+no,0.999952,no,in vivo treatment
+no,0.999952,no,shrna treatment
+no,0.999952,no,post surgical treatment
+no,0.999952,no,peptide treatment
+no,0.999952,no,acidification treatment
+no,0.999927,no,sample treatment
+no,1,no,treatment time-point
+no,0.82394,no,treatment stage
+no,0.999952,no,treatment period
+no,0.999952,no,treatment result
+no,0.999952,no,treatment response in vivo
+no,0.999952,no,treatment length
+no,0.999952,no,treatment of estrogen
+no,0.999952,no,treatment (short label)
+no,1,no,treatment time(minutes)
+no,0.999952,no,treatment class
+no,0.999952,no,treatment
+no,0.999952,no,treatment batch
+no,0.999952,no,treatment description
+no,0.999952,no,treatment type
+no,0.999952,no,treatment delivery
+no,0.999952,no,treatment drug
+no,0.999952,no,treatments comments
+no,0.999952,no,treatment dose
+no,0.999212,no,treatment group
+no,0.999666,no,human cell line
+no,0.999666,no,tumor cell line
+no,0.999682,no,donor cell line
+no,0.999666,no,fibrosarcoma cell line
+no,0.999666,no,stable cell line
+no,0.999666,no,injected cell line
+no,0.999666,no,leukemia cell line
+age,0.596373,no,cell line source age
+no,1,no,cell line source tissue
+no,0.999666,no,cell line ebv-status
+no,0.999666,no,cell line stably expressing
+no,0.999666,no,cell line description
+no,0.999666,no,cell line origin
+no,0.999666,no,cell line population
+age,0.596373,no,cell line lineage
+no,0.999666,no,cell line derivation
+no,0.999666,no,cell line source ethnicity
+no,1,no,cell line tissue source
+no,0.999666,no,cell line id
+no,0.999666,no,cell line(s)
+age,0.596373,no,cell lineage
+no,0.999666,no,cell line initiation date
+no,0.999666,no,cell line conditioning
+no,0.999666,no,cell line resistance
+no,0.999666,no,human colon cancer cell line
+no,0.999666,no,origin of a cell line
+no,0.999666,no,source cell line
+no,0.999666,no,growth pattern of cell line
+no,0.993939,no,donor sex
+no,0.993623,no,baby's sex
+no,0.993623,no,ctl bone 64 years  sex
+no,0.993623,no,sexual maturity
+no,0.993623,no,sexual differentiation
+no,0.993623,no,sex (gender)
+no,0.989123,no,sex of patient
+no,0.993623,no,sex chromosome complement
+no,0.993623,no,recipient sex
+age,0.999964,no,sex/age at diagnosis (years)
+no,0.977398,no,disease free interval (days)
+no,0.964578,no,diseaseduration(years)
+no,0.993623,no,disease activity (das28_v3)
+no,0.993623,no,disease_free_survival_years
+no,0.993623,no,disease activity (das28_v1)
+no,0.993623,no,disease_severity
+no,0.993623,no,trg disease state
+no,0.993623,no,code disease-specific survival
+no,0.993623,no,disease free survival (month)
+age,0.570576,no,disease_onset
+age,0.99983,no,age at disease onset
+no,0.993623,no,disease-state
+no,0.993623,no,disease extension
+no,0.993623,no,disease outcome
+no,0.993623,no,disease_state
+no,0.993623,no,disease
+no,0.993623,no,diseased
+no,0.993623,no,disease state (phenotype)
+no,0.905323,no,disease group
+no,0.999952,no,disease/treatment status
+no,0.993623,no,lung disease
+no,0.993623,no,celiac disease
+age,0.965933,no,advanced disease stage
+no,0.993623,no,chronic diseases
+no,0.993623,no,ocular disease
+age,0.965933,no,clinical disease stage
+no,0.993623,no,source disease status
+no,0.993623,no,disease resistance
+age,0.999457,no,stage of disease (inss)
+no,0.993623,no,extent of disease
+no,0.993623,no,9q24 genotype rs10975552
+no,0.993623,no,nod2 genotype
+no,0.993623,no,16q22 genotype rs2059254
+no,0.993623,no,12q13 genotype rs11169544
+no,0.993623,no,8q23 genotype rs16892766
+no,0.993623,no,rs7956957 genotype
+no,0.993623,no,1q41 genotype rs11579490
+no,0.993623,no,rnasel r462q genotype
+no,0.993623,no,genotype/varitaion
+no,0.988977,no,maternal genotype/variation
+no,0.993623,no,pathogen genotype/variation
+no,0.993623,no,parental genotype/variation
+no,0.993623,no,genotype/background
+no,0.999999,no,tissue genotype/variation
+no,0.993623,no,genotype/variation (host)
+no,0.993623,no,genotype/varaiation
+no,0.993623,no,genotypes
+no,0.999666,no,genotype of the cells
+no,0.993623,no,genotype (transgenic line)
+no,0.993623,no,genotype
+no,0.993623,no,genotype (brdt)
+no,0.993623,no,genotype of ecat15-1
+no,0.993623,no,genotype rb
+no,0.993623,no,plant genotype
+no,0.993623,no,hd genotype
+no,0.993623,no,host soybean genotype
+no,0.993623,no,esr1 genotype
+no,0.993623,no,meis1 genotype
+no,0.993623,no,background genotype
+no,0.993623,no,sdad2 genotype
+no,0.993623,no,spea2 genotype
+no,0.993623,no,strain genotype
+no,0.993623,no,hla-dqb1 genotype
+no,0.993623,no,mecp2 genotype
+no,0.993623,no,apoe genotype
+no,0.993623,no,hal genotype
+no,0.993623,no,tbx1 genotype
+no,0.988977,no,maternal genotype
+no,0.993623,no,a.thaliana genotype
+no,0.993623,no,mouse genotype
+no,0.999997,no,rna degradation time
+no,0.999997,no,circadian time point
+no,0.999997,no,meiotic timepoint
+no,1,no,tnfa treatment time point
+no,0.99994,no,overall survival time_days
+no,1,no,cell collection time
+no,0.999997,no,collection time
+no,1,no,cell sorting time
+no,0.999997,no,pos-harvest time
+no,0.98709,no,timepoint/developmental stage
+no,0.999997,no,post-injury time
+no,0.999997,no,developmental time point
+no,0.999983,no,event time (years)
+no,0.999997,no,post-mixing time
+no,0.999997,no,infection_control time
+no,0.999997,no,incubation time
+no,0.999997,no,injected timepoint
+no,0.99994,no,differentiation time days
+no,0.999997,no,injection timepoint
+no,0.999997,no,brain ph at time of freezing
+no,0.999983,no,survival time (years)
+no,0.999997,no,doubling time (hrs)
+no,0.999983,no,os time (years)
+no,0.999997,no,zt time
+no,0.999997,no,dsn time
+no,0.999997,no,time_after_resection
+no,1,no,time of treatment
+no,0.999992,no,follow up time (months)
+no,1,no,time of treatment with fk866
+no,1,no,treatment time
+no,0.99987,no,culture time
+no,0.999997,no,seizure time
+no,0.99987,no,culture time (hrs)
+no,0.999997,no,sk-mel-103 time
+no,1,no,treatment time (rhgaa)
+no,0.99987,no,culture doubling time
+no,0.999997,no,harvested time after dose
+no,0.999997,no,harvest time
+no,0.999997,no,sacrifice time
+no,0.999997,no,induction time (hours)
+no,0.999997,no,training timepoint
+no,0.999997,no,fermentation time point
+no,0.999914,no,sampling time point
+no,0.999997,no,extraction time
+no,0.999989,no,survival time (days)
+no,0.999997,no,stimulation time and condition
+no,0.999997,no,sporulation timepoint
+no,0.999996,no,sample collection time
+no,0.999997,no,time clin rec
+no,0.999997,no,time sac
+no,0.999914,no,time of sampling
+no,0.999997,no,time of hcmv infection
+no,0.999997,no,time to outcome
+no,0.999997,no,time p.i.
+no,0.999997,no,time post-stimulation
+no,0.999997,no,time of pseudo-pregnancy
+age,0.960912,no,age at the time of surgery
+no,0.999997,no,time since lif removal
+no,0.999997,no,time after actd
+no,1,no,time (days of dss treatment)
+no,0.999997,no,time (post-inoculation)
+no,0.999997,no,time period of attachment
+no,0.999997,no,time bcr
+no,0.999997,no,time stimulated with anti-igm
+no,0.999997,no,time post-wound
+no,0.999997,no,time (wpi)
+no,0.999997,no,time point after stress
+no,0.999997,no,time of sacrifice
+no,0.999997,no,time post-induction
+no,0.999997,no,time point (min)
+no,0.999365,no,time point (day)
+no,0.999997,no,time [h]
+no,0.999997,no,time [hours]
+no,1,no,time (post-treatment)
+no,0.999983,no,time.to.recurrence (years)
+no,0.999992,no,time_to_dod_(months)
+no,0.999997,no,time of exposure
+age,0.960912,no,age at time of surgery
+no,0.999997,no,time to distant metastasis
+no,0.999656,no,time.to.death (years)
+no,0.999997,no,time point (post-inoculation)
+no,0.999997,no,time injected
+no,0.999997,no,time (min.)
+no,0.999997,no,time of harvest
+no,0.999997,no,time
+no,0.999997,no,timepoint (hrs)
+no,0.999983,no,time to recurrence (years)
+no,0.999997,no,time after infection
+no,0.999997,no,time post-injection
+no,1,no,time after h2o2 treatment
+no,0.999997,no,time after injury (hours)
+no,0.999997,no,time (min)
+no,0.999997,no,time post-copulation
+no,0.999997,no,time(absolute)
+no,0.999997,no,time post-inoculation
+no,0.999997,no,time of cacrifice
+no,0.999989,no,time (days)
+no,0.999997,no,time of gut bacteria
+no,0.999997,no,time fter actd
+no,0.999997,no,time post injury
+no,0.999997,no,time after adoptive transfer
+no,0.999997,no,time point after hepatectomy
+no,0.999997,no,time points
+no,1,no,timepoint 4h treatment
+no,0.999997,no,time to survival
+no,0.99994,no,time after induction [days]
+no,0.999997,no,timepoints
+no,0.999997,no,time post-infection
+no,0.999997,no,time of euthanasia
+no,0.999989,no,time to hcc recurrence (days)
+no,0.999997,no,time in spo (hours)
+no,0.999997,no,time exposure
+no,0.999997,no,time after stimulation
+no,0.999997,no,time(wpi)
+no,0.999997,no,time of relapse
+no,1,no,tissue collection time
+no,0.999997,no,timeunit
+no,0.999997,no,time to meta or recurrence
+no,0.999983,no,time_rec (years)
+no,0.999997,no,time post injection
+no,0.999997,no,time (doxorubicin)
+no,0.999914,no,sampling time
+no,0.999997,no,secondary time course
+no,0.999996,no,sample time

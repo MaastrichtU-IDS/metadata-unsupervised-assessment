@@ -1,0 +1,296 @@
+key,values
+age (1#pfu_1),21
+age (1#pvu_1),26
+sampling age,38
+gestational age at delivery,40
+age (1#pfu_2),42
+average age (days after birth),47
+age at rc,51.33
+cell line source age,56
+age (at specimen collection),67.73
+age_dx,68
+sac age (wks),12/16/17
+age of diagnosis (year),"""--"", 34, 57, 32, 35"
+age at onset (years),"""-"", na, 47, 48, 78"
+age of onset,"""=-n/a"", 20yr, -, 17 yr, 25 yr"
+age at diagnosis (months),"<18m, 1, >18m, 6, 4"
+age of trees,">30, 3, 9, 2, 1"
+infant age,0 day
+ageing at 29 c in days,"2000, 2, 14"
+culture age (days),"0, 40, 20, 7, 42"
+age (year),"0, 68, 55, 59, 54"
+donor age (years),"0.35, 54, 50, 82, 92"
+host age (yr),"0.50-0.66, 24, 26, 25, 55"
+age in vitro,"0h, 24h, 48h, 72h"
+age of the mice,1 month old
+age at vaccination,"1 month, newborn"
+age (bin),"1, 0, na"
+age bin,"1, 0, na"
+agebin,"1, 0, na"
+age (postnatal days),"1, 14, 2007"
+age (day),"1, 15, 5, 50, 30"
+agegrp,"1, 2"
+agestatus,"1, 2, na"
+age and tissue,10 days-old seedlings.
+age at start of experiment,"10 wks, 8 wks"
+age (days old),"10, 52, 66, 68, 57"
+age of ffpe block (years),"11, 10, 12, 13"
+age of ffpe tissue,"11, 10, 12, 21, 19"
+conidial age,12 days
+age months,"12, 1.5, 6, 3, 20"
+vitis (41528 population) - age,13 month
+age (at the end of treatment),13 wks
+estimated age,130 days gestation
+age harvested (days),"14, 12, 16, 17, 24"
+age of mice (wk),"14, 15, 12"
+age at surgery,"14, 8, 6-8 weeks, 71, 65"
+age in days at diagnosis,"1429, 6306, 6733"
+age of sampling,15 years
+mean age in days,"150, 141.5, 77.25"
+fetus age,"16.1 weeks, 13.6 weeks, 13.9 weeks, 11 weeks, 9.6 weeks"
+age (weeks of gestation),"17, 16, 19"
+age/weight,170g
+gestional age,"18 weeks, 17 weeks"
+serum culture age,"180 days, 40 days, 60 days"
+age post partum,"19 days + 24 hrs, 8 days, 3 days, 19 days, 13 days"
+age at sacrifice,19 weeks old
+mother's age (years),"19, 18, 20, 22, 26"
+postnatal age,"2 months, 17 days, 20-38 years, 25 years, 31 years"
+gender and age,2 year old caucasian female
+plant age,"2-year old vine, 19 days, 28 days old, 20 days, 30 days"
+age (in days post-partum),"20 dpp, 17 dpp"
+age at harvest,20 weeks
+proband age,"20-38 years, 25 years, 31 years, 22 years"
+age_at_blooddraw,"20, 19, 18, 21, 22"
+cell culture age,"21 days, week 27, week 53, week 4, week 8"
+culture age,"21 days, week 27, week 53, week 4, week 8"
+biofilm age,"21 hours, 30 hours, 34 hours, 24 hours"
+age of epilepsy duration (yr),"21, 29"
+hoechst- (viable) cells. age,22 days of age
+age of plants,"23 months, 3 years"
+age of mouse,"23 weeks, 35 days, na"
+age (in years),"23, 26, 28, 21, 25"
+age at collection months,"24, 13, 12, 49, 37"
+donor age (y),"24, 28, 23, 30"
+age (weeks),"26, 12, 6, 8/12/2017, 9"
+age at examination,"26, 29, 46, 30, 28"
+maternal age (year),"27, 22, 23, 24, 32"
+age of gestation,"28 weeks, 25 weeks"
+ageatdraw,"28, 27, 38, 29, 36"
+age of the clone,"29 months, 24 months"
+paternal age,"29, 32, n/a, 31, 26"
+gestational age (w+d),"29+6, 29+2, 40+2"
+age group (years),"3 (>15 yrs), 2 (5-14 yrs), 1 (0-4 yrs), n/a"
+treatment age,3 days post-germination
+age of rat,"3 months, 30 months"
+mouse age,"3 weeks, p56, 2 days, xenograft cells injected at 6-10 weeks, 8 weeks"
+age at biopsy,"3 years, 42, 52, 76, 7 years"
+animal age,"30 days embryo, 2 yr, 8-12 weeks, 2-months"
+age in years,"30, 25, 23, 43, 32"
+current age (2007),"30, 40, 24, 29, 66"
+maternal age (yrs),"32, 29, 28, 35, 33"
+age at sacrifice (days),"35, 50"
+gestational age (wk),"37, 38, 36, 34, 32"
+gestational age,"37, 38, 39, 14wk, e16"
+age at collection,"38 weeks, 53, 58, 65, 54"
+age of woman [years],"38, 34, 35, 27, 32"
+gestational age (wks),"39, 39, 38, 39.43, 39.71"
+age at 1st diagnosis,"39, 44, 52, 47, 36"
+diagnosis age,"39, 45, 47, 49, 54"
+age time point,"4 hours, 12 hours, 2 hours, 28 hours after nutrient removal, 14h timepoint"
+mouse model age,4 weeks
+taqman pool by age,"4, 5, 2, 6, 3"
+age of epilepsy onset (yr),"4, 7, 13, 14, 2"
+age at infection,"4.6, 11.5, 8.1, 5 weeks, 9.5"
+age at tumor,40 days
+gestational age (weeks),"40, 39, 38, 41, 26"
+age diagnosis,"405, 348, 188, 709, 231"
+age at disease onset,"41, 35, 30, 37, 32"
+average age,"41.42 _± 9.72, 43.17 _± 8.66, 64.7, 49, 29.7"
+age (postnatal day),"42, 3, 10, pnd 0 (<24 hrs), 0"
+donor's age,"43 years old, 53 years old, 56 years old, 16 years old, 6 years old"
+age_tx,"43, 26, 41, 42, 55.2"
+age at sample (months),"43, 67, 19, 22, 37"
+agedx,"44, 34"
+cell age,"44, 50, 31, 34"
+age_years,"46, 51, 42, 47, 58"
+age range,"48-92 years old, 18-25 yr old, pediatric patient"
+patient age (yrs),"48, 46, 56, 53, 50"
+age at blood sample collection,"48, 49, 55, 47, 46"
+age-at-biopsy-years,"49, 39, 41"
+subject age,"49, 9, na, 4, 52"
+age of ipi (yr/mo),"4yr, 2yr, 13yr, 3yr"
+age at sampling,"4yr, 6yr, 3yr, 8yr, 5yr"
+mutant age,"5 week-old tissue48 hpi with pst dc3000(avrrpt2) leaves, 5 week-old tissueuninoculated leaves"
+wild-type (col-0) age,"5 week-old tissueuninoculated leaves, 5 week-old tissue48 hpi with pst dc3000(avrrpt2) leaves"
+in a diurnal environment. age,5 weeks old
+age (month),"5, 10, 3, 17, 2"
+age at diagonosis (years),"5.2, 5.6, 15.7, 5.3, 6.4"
+median age,"51, 33, 42, 30"
+age on study,"51, 33, 59, 38, 22"
+age at surgery (yrs),"51, 75, 78, 39, 40"
+donor age,"52, 40, 53, 23, adult"
+recipient age,"52, 50, 48, 43, 30"
+age at death,"52, 87 years, 44, 57, 61"
+age of patient,"53, 45, 47 years, 34 years, 40 years"
+age in 1986,"54, 17, 22, 15, 24"
+age at 2nd diagnosis,"54, 57, 49, 44, 42"
+age(yrs.),"54, 76, 55, 81, 39"
+gallus gallus - age,"55 week dev. stage (boyes et al. plant cell 2001), 55weekdev.stage (boyes et al"
+age at excision (years),"55, 52, 69, 56, 64"
+age(years),"55, 56, 58, na, 61"
+age of human sera,"56, 44, 54, 58, 63"
+age at dx,"57, 49, 61, 54, 73"
+age (at diagnosis),"58, 61, 65, 46, 50"
+mean age,"58.5 years, 38.25yrs., 31.5 years old, 41.3, 29.68yrs"
+ageatrecruitment,"59, 73, 63, 70, 58"
+age at start of treatment,"6-8 d, 2 d"
+age of plant,6-leaf-old
+agedecade,"60-69, n/a, 70-79, 68, 78"
+age at death (in years),"60, 53, 57, 62, 55"
+age (yr-old),"60, 65, 74, 58, 67"
+age of blood draw,"60, 66, 71, 63, 75"
+age at time of resection,"60y 5m, 34y 2m, 59y 7m, 31y 3m, 57y 11m"
+patient age,"61, 60, 57, 37, 54"
+age at op,"61, 64, 63, 65, 67"
+age(yrs),"62, 26.6, 30, 64, 72"
+age quit smoking,"62, 40, 65, 56, 68"
+age@dx,"62, 58, 44, 75, 65"
+ageatdiagnosis,"63, 67, 59, 12, 52"
+age_diag,"63, 78, 74, 66, 71"
+ageofoperation,"64, 54, 60, 27, 48"
+age of diagnosis,"65, 57, 49, 59, 46"
+age [y],"65, 66, 61, 76, 70"
+age (yrs) at dasatinib start,"65, 66, 63, 59, 39"
+age.at.surgery,"65, 67, 69, 63, 70"
+age at radiation,"66, 57, 47, 65, 54"
+age_at_diagnosis,"66, 58, 62, 73, 64"
+age at the time of surgery,"67, 76, 71, 72, 63"
+age at time of surgery,"67, 76, 71, 72, 63"
+age.year,"67.5, 75.3, 74.5, 71.3"
+ctl bone age,"68 years sexfemale, 72 years sexfemale, 83 years sexfemale, 71 years sexmale"
+age at onset,"68 years, 60 years, 48 years, 71 years, 62 years"
+age-at-examination,"68, 47, 48, 54, 69"
+age at primary diagnosis,"68, 54, 49, 58, 72"
+age at metastases,"68, 61, 59, 76, 74"
+age at diagnosis,"68, 61, 71, 73, 51"
+age (yrs) at rrp,"68, 66, 67, 70, 71"
+age_at_prostatectomy_(years),"68, 67, 64, 58, 59"
+age at diagnosis (y),"68, 73, 64, 72, 82"
+age_enroll,"68.4, 59.9, 69.9, 65.4, 66.3"
+age (yrs),"69, 66, na, 67, 51, 50"
+age (years at surgery),"69, 70, 56, 67, 59"
+age (days),"69, 70, 56, 9, 74"
+age diet commenced,7 weeks
+age high salt diet commenced,7 weeks
+age put on diet,7 weeks
+age at irradiation,"7 weeks, 3 weeks, non-irradiated"
+age at start,"7 weeks, 9 weeks, 10 weeks"
+age (month) at surgery,"7, 8, 6, 3, 23"
+age induced (days),"7, 8, 9, 5"
+agegroupatsampledraw,"70 to 75, 55 to 60, 60 to 65, 65 to 70, over 75"
+onset of age,"71, 65, 64, 76, 60"
+age at operation (yrs),"71.1, 70.5, 69.8, 56, 68.1"
+age seedlings,"72 hag, 78 hag, 74 hag"
+age at presentation,"72, 50, 70, 69, 66"
+baseline age (years),"72, 67, 57, 76, 50"
+age (years),"74, 62, 76, 83, 45"
+age [years / days],76 / 197
+age at start therapy,"76, 54, 64, 80, 51"
+age (yr),"76, 74, 75, 28, 77"
+op bone age,"78 years sexfemale, 74 years sexfemale, 87 years sexfemale"
+subject age (years),"78, 68, 73, 48, 80"
+age at death (years),"78, 70, 69, 88, 81"
+age at enrollment (years),"79, 83, 73, 71, 77"
+age at baseline,"7m, 6.9m, 5m, 4m, 5.9m"
+age,"8 weeks, approximately 14 days, 6 to 8 weeks, 6-8 weeks, adult"
+age (y),"8 weeks, na, 48, 53, 49"
+starting age,8-week old
+patient age at diagnosis,"8-yrs, 8, 2-yrs, 9, 9-yrs"
+age(weeks),"8, 32, 16, 72, 15"
+age at infection (yrs),"8.1, 9.5, 6.1, 10.1, 12"
+age (mos),"8.5, 10.5"
+age at collection (months),"87, 71, 140, 97, 161"
+age at death (y),"89, 80, 81, 87, 76"
+age at sacrafice,92-114 weeks postinoculation
+age(month),"96, 60, 48, 72, 13"
+age at blood drawing (months),"96, 72, 36, 60, 84"
+age of subjects,"about 60 years, about 25 years"
+age description,"adult 8 weeks, immortal cells, embryonic day 0 (stem cell), embryonic day 14.5, embryonic day 11.5"
+age/gender,"adult male, 77/m, 60/m, 54/f, 2-3 month old males"
+agegroup,"adult, old, young, [53,58), [58,63]"
+final age at death,approximately 18 weeks old
+cycle phase/ gestational age,"cycling endometrium secretory phase, first trimester"
+age/disease timepoint,"day 100, end-stage, day 65, day 130, day 150"
+age of embryo,day 19
+neuron age,day 5 in vitro
+age of culture,"day 5, day 21, day 7"
+age (after birth),"day6, day0, day24"
+age of culture,"day7, day 7, day 5, day 6, day 2"
+embryonic age,"e10.5, e14.5, 10 weeks"
+age of source,e12.5
+source age,"e13.5, e11.5, 8-week, e3.5, e12.5"
+embryo age,"e14.5, tissue whole embryo excluding head and organs, week 11 of gestation, e17, 1 hour post fertilization, 7 hour post fertilization"
+gestational age of pups,"e17.5, e14"
+initial age (infection day),eight weeks old
+tissue & age,"fiber 2 dpa, fiber 10 dpa, fiber 20 dpa, npcs of neocortex from 3 littermates wild-type mouse embryos at e14, npcs of neocortex from 3 littermates ts1cje mouse embryos at e14"
+pig age,"gestation day 75, gestation day 90, 30 days"
+age_at_onset,"gte6, lt6"
+tissue age,"heads after mid-anthesis, five weeks after grafting seven day-old seedlings"
+agenotype,"homozygous knockout (sirt1-/-), wild type (sirt1+/+), heterozygous knockout (sirt1+/-)"
+agender,male
+age of onset (years),"n/a, 25, 22, 14, 17"
+age at first birth,"n/a, 26, 25, 28, 23"
+maternal age,"n/a, 27 ,29, 24, 30"
+treatment start age,"n/a, 44 days"
+age at dx (years),"n/a, 5, 6.6, 6.4, 3.9"
+mean age years (range),"n/a, 62.75 (56-68)"
+age-at-onset,"n/a, 65, 45, 48"
+age at diagnosis (years),"na, 12, 5, 3, 14"
+age at incident,"na, 24, 17, 54, 15"
+age (months),"na, 28, 12, 8, 11"
+age (months),"na, 28, 12, 8, 11"
+ageyear,"na, 49, 48, 46, 42"
+ageatsampling,"na, 66, 42, 38, 62"
+age.at.diagnosis,"na, 68, 70, 78, 73"
+age of biopsy,"na, 73 days, 75 days, 54 days, 3 years"
+age at operation,"na, 74 years, 70 years, 28, 64"
+age.brain,"na, 80, 90, 86, 88"
+age.blood,"na, 89, 80, 79, 82"
+age at blood draw,"not available, 58, 61, 68, 59"
+sample age,"null, 7.416666667, 12.16666667, 7.916666667, 9.833333333"
+age category,"old, young, adult"
+developmental age,"p1, 120 days of fetal age, 1 day of life, 130 days of fetal age, 145 days of fetal age"
+development age,"p30.5, e18.5"
+age (pn postnatal days),"pn14, pn1, pn7"
+age (at weaning),pnd 22
+age sacrificed,pnd 8
+age (pup),pnd70
+age unit,"week, day"
+ageunit,"week, day, weeks"
+units of age,"weeks, pnd, days, weeks at start of exposure, years"
+age (mouse),"xenograft cells injected at 6-10 weeks, 4 months"
+age group,"young, adult, old, nonagenarian, ped"
+age_group,"young, aged"
+sample age group,"young, middle-age, old"
+age ___ 65,
+age 4-7 years,
+age at blood withdrawal,
+age at dx in days,
+age(years)/gender,
+age/sex,
+control case age,
+ma1 age,
+ma2 age,
+ma3 age,
+ma4 age,
+ma5 age,
+ma6 age,
+mc1 age,
+mc2 age,
+mc3 age,
+mc4 age,
+mc5 age,
+mc6 age,
+medicago (truncatula) - age,
+not current age,
