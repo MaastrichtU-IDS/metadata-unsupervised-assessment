@@ -1,0 +1,306 @@
+class,key,KEY CLASS,probability
+time,# of tissue = 1 tissue,tissue,0.201263
+time,# of tissue = 40 tissue,tissue,0.201263
+time,# of tissue = 42 tissue,tissue,0.201263
+time,host tissue,tissue,0.192783
+time,donor tissue,tissue,0.183202
+tissue,source tissue type,tissue,0.182587
+tissue,source  tissue,tissue,0.182587
+time,tissue subtype,tissue,0.201263
+time,tissue grade,tissue,0.201263
+time,tissue harvest,tissue,0.201263
+time,tissue and developmental stage,tissue,0.192373
+time,tissue harvest site,tissue,0.201263
+time,tissue harvested,tissue,0.201263
+time,tissue histology,tissue,0.201263
+time,tissue section,tissue,0.201263
+time,tissuetype,tissue,0.201263
+time,tissue-type,tissue,0.201263
+time,tissue part,tissue,0.201263
+time,tissue typ,tissue,0.201263
+time,tissue preparation,tissue,0.201263
+tissue,tissue source site,tissue,0.182587
+time,tissue morphology,tissue,0.201263
+time,tissue (organ),tissue,0.201263
+time,tissue age,tissue,0.201263
+time,tissue region enriched for,tissue,0.201263
+time,tissue subregion,tissue,0.201263
+time,tissue/tumor subtype,tissue,0.201263
+genotype,tissue genotype/variation,tissue,0.753853
+tissue,tissue/cell type,tissue,0.515126
+time,gender (mouse),gender,0.186968
+time,gender,gender,0.201263
+time,female gender,gender,0.201263
+time,mc2 gender,gender,0.201263
+time,mc1 gender,gender,0.201263
+time,mc6 gender,gender,0.201263
+time,host gender,gender,0.192783
+time,ma4 gender,gender,0.201263
+time,mouse model gender,gender,0.186968
+age,gestational age at delivery,age,0.398672
+time,age at rc,age,0.201263
+cell line,cell line source age,age,0.66761
+time,sac age (wks),age,0.201263
+age,age at onset (years),age,0.523809
+time,infant age,age,0.201263
+time,age of the mice,age,0.192547
+time,agebin,age,0.201263
+time,agegrp,age,0.201263
+time,age/weight,age,0.201263
+time,age (in days post-partum),age,0.838229
+time,age at harvest,age,0.201263
+time,age_at_blooddraw,age,0.201263
+time,age at collection months,age,0.201263
+time,age at examination,age,0.201263
+time,ageatdraw,age,0.201263
+time,animal age,age,0.201263
+time,age in years,age,0.201263
+age,gestational age (wks),age,0.398672
+time,mouse model age,age,0.186968
+time,age at infection,age,0.201263
+time,age at disease onset,age,0.19443
+time,age at blood sample collection,age,0.201263
+time,age-at-biopsy-years,age,0.201263
+time,age (month),age,0.201263
+time,donor age,age,0.183202
+time,mean age,age,0.201263
+time,age at death (in years),age,0.201263
+time,age of blood draw,age,0.201263
+time,age_diag,age,0.201263
+time,ageofoperation,age,0.201263
+age,age of diagnosis,age,0.302557
+time,age [y],age,0.201263
+time,age at radiation,age,0.201263
+time,age at the time of surgery,age,0.201263
+disease,age_at_prostatectomy_(years),age,0.446155
+time,age (years at surgery),age,0.201263
+age,age at operation (yrs),age,0.270674
+age,age (years),age,0.533726
+time,age at start therapy,age,0.201263
+cell line,age at baseline,age,0.640755
+time,age at blood drawing (months),age,0.275985
+time,agegroup,age,0.201263
+time,final age at death,age,0.201263
+time,age/disease timepoint,age,0.657057
+time,age of embryo,age,0.201263
+time,age of culture,age,0.201263
+time,age of culture,age,0.201263
+tissue,age of source,age,0.182587
+time,pig age,age,0.201263
+time,mean age years (range),age,0.201263
+time,age-at-onset,age,0.19443
+time,age at blood draw,age,0.201263
+time,age (pn postnatal days),age,0.838229
+time,age sacrificed,age,0.201263
+time,ageunit,age,0.201263
+time,units of age,age,0.201263
+time,age (mouse),age,0.186968
+time,age at dx in days,age,0.201263
+time,ma4 age,age,0.201263
+time,ma6 age,age,0.201263
+time,mc4 age,age,0.201263
+time,not current age,age,0.201263
+time,b virus strain,strain,0.201263
+time,paternal strain,strain,0.201263
+time,parental strains,strain,0.201263
+time,reference strains,strain,0.201263
+time,m. tuberculosis strain,strain,0.201263
+time,strain c57bl/6  gender,strain,0.187358
+time,strain sr595,strain,0.201263
+time,strain 1783,strain,0.201263
+time,strain,strain,0.201263
+time,strain 877 = mata wpl-9pk,strain,0.201263
+time,strain sjl(%),strain,0.201263
+time,strain number,strain,0.201263
+cell line,strain (or line),strain,0.640755
+time,strain genotype,strain,0.201263
+time,strain y3351,strain,0.201263
+time,strains,strain,0.201263
+time,strain_description,strain,0.201263
+time,strain donor,strain,0.183202
+time,strain sr453,strain,0.201263
+strain,strain[background],strain,0.612152
+time,strain (donor),strain,0.183202
+time,strain yjdi381 gal1-taf1,strain,0.201263
+strain,strain by4741-rpd3,strain,0.232002
+strain,strain by4741-ume6,strain,0.232002
+time,strain/condition,strain,0.201263
+time,strain/isolate,strain,0.201263
+genotype,cell type subpopulation,cell type,0.470484
+time,cell type/growth condition,cell type,0.201263
+genotype,cell type [c],cell type,0.470484
+time,cell types,cell type,0.195606
+time,host cell type,cell type,0.192783
+time,pancreatic cell type,cell type,0.201263
+tissue,source of cell type,cell type,0.182587
+time,tumor cell type,cell type,0.201263
+time,time (days of dss treatment),treatment,0.201263
+time,time after treatment,treatment,0.201263
+time,day of dss treatment,treatment,0.201263
+time,days of ddc treatment,treatment,0.201263
+time,rna treatment,treatment,0.201263
+time,hcg treatment time,treatment,0.201263
+time,light treatment,treatment,0.201263
+time,treatment/exposure,treatment,0.201263
+time,antibody treatment,treatment,0.201263
+time,tzd treatment,treatment,0.201263
+time,probiotic treatment,treatment,0.201263
+time,chx treatment,treatment,0.201263
+time,dna treatment,treatment,0.201263
+time,ntg treatment,treatment,0.201263
+time,s2 treatment,treatment,0.201263
+time,cytokine treatment,treatment,0.201263
+time,tnfa treatment time point,treatment,0.447711
+time,oxygen treatment,treatment,0.201263
+time,globin treatment,treatment,0.201263
+time,testosterone treatment,treatment,0.201263
+treatment,response to treatment,treatment,0.229477
+time,chemical treatment conditon,treatment,0.201263
+time,ecdysone treatment,treatment,0.201263
+time,growth factor treatment,treatment,0.201263
+time,hormonal treatment,treatment,0.201263
+time,dnase treatment,treatment,0.201263
+time,chloride treatment,treatment,0.201263
+time,sirna treatment time point,treatment,0.447711
+time,sirna treatment,treatment,0.201263
+time,treatment_molecule,treatment,0.201263
+time,treatment repeat,treatment,0.201263
+time,treatment result,treatment,0.201263
+time,folate treatment,treatment,0.201263
+time,treatment code,treatment,0.201263
+time,treatment variable,treatment,0.201263
+time,treatment_schedule,treatment,0.201263
+time,treatment arm,treatment,0.201263
+time,treatment route,treatment,0.201263
+time,treatment (chemo),treatment,0.201263
+time,treatment dose,treatment,0.201263
+cell line,atcc cell line,cell line,0.640755
+cell line,fibrosarcoma cell line,cell line,0.640755
+cell line,reference cell lines,cell line,0.640755
+cell line,parental cell line,cell line,0.640755
+cell line,injected cell line,cell line,0.640755
+cell line,cell line background,cell line,0.52746
+cell line,cell lines,cell line,0.640755
+cell line,cell line source tissue,cell line,0.66761
+cell line,cell line karyotype,cell line,0.640755
+cell line,cell line subpopulation,cell line,0.640755
+cell line,cell line tissue source,cell line,0.66761
+cell line,cell line id,cell line,0.640755
+time,apparent sex,sex,0.201263
+strain,sex of recipient mice,sex,0.216755
+time,sex of donor mice,sex,0.176878
+time,sex (0-female 1-male),sex,0.201263
+time,disease free interval (days),disease,0.201263
+treatment,mean disease duration,disease,0.374671
+time,code disease-specific survival,disease,0.192923
+time,disease causing mutation,disease,0.201263
+disease,disease-state,disease,0.606678
+time,disease progression,disease,0.201263
+time,disease stage,disease,0.192373
+disease,disease_status,disease,0.421755
+time,disease course,disease,0.201263
+time,disease phase,disease,0.201263
+time,disease exposure,disease,0.201263
+time,dead of disease,disease,0.201263
+time,disease resistance,disease,0.201263
+disease,status of disease,disease,0.421755
+treatment,duration of disease (month),disease,0.374671
+time,stage of disease (inss),disease,0.192373
+treatment,duration of disease,disease,0.374671
+genotype,12q13 genotype rs7136702,genotype,0.470484
+time,rs5995355 genotype,genotype,0.201263
+genotype,8q24 genotype rs7014346,genotype,0.470484
+time,individual genotype,genotype,0.201263
+time,nqo1 rs1800566 genotype,genotype,0.201263
+time,rs1333049 genotype,genotype,0.201263
+genotype,rb genotype/variation,genotype,0.753853
+genotype,genotype/variation (offspring),genotype,0.753853
+genotype,genotype p53,genotype,0.470484
+time,genotype(breed),genotype,0.201263
+genotype,genotype.variation,genotype,0.482477
+genotype,genotype of the cells,genotype,0.470484
+time,plant genotype,genotype,0.201263
+time,backgroud genotype,genotype,0.201263
+time,th-mycn mouse genotype,genotype,0.186968
+time,precipitated ctcf genotype,genotype,0.201263
+time,per3 genotype,genotype,0.201263
+strain,host/mouse genotype,genotype,0.218287
+time,bacterial genotype,genotype,0.201263
+time,hla-dqb1 genotype,genotype,0.201263
+time,mecp2 genotype,genotype,0.201263
+time,apoe genotype,genotype,0.201263
+time,e2f1 genotype,genotype,0.201263
+time,maternal genotype,genotype,0.201263
+time,ndrg1 genotype,genotype,0.201263
+time,hybridization time,time,0.201263
+time,virus replication time,time,0.201263
+time,sirna treatment time point,time,0.447711
+time,cell harvest time,time,0.201263
+time,cross-linking time,time,0.201263
+time,pos-harvest time,time,0.201263
+time,timepoint/developmental stage,time,0.644003
+time,post-injury time,time,0.838229
+time,infection time (min),time,0.201263
+time,doubling time,time,0.201263
+time,time of treatment,time,0.201263
+time,follow up time (months),time,0.275985
+time,follow-up time (months),time,0.275985
+time,treatment time-point,time,0.447711
+time,harvest time point,time,0.447711
+time,treatment time point,time,0.447711
+time,ischemic time (days),time,0.201263
+time,treatment time(minutes),time,0.201263
+time,reperfusion time,time,0.201263
+time,split ratio time 1,time,0.201263
+time,fermentation time point,time,0.447711
+time,donation time,time,0.201263
+time,extraction time,time,0.201263
+time,survival time (days),time,0.192923
+time,sampling timepoint,time,0.657057
+time,time clin rec,time,0.201263
+time,time_point,time,0.447711
+time,time (months) overall survival,time,0.265577
+time,time post-surgery,time,0.838229
+time,time (hr),time,0.201263
+time,timepoint (dpa),time,0.657057
+time,time (post-inoculation),time,0.838229
+time,time in meiosis,time,0.201263
+time,time post-wound,time,0.838229
+time,time (weeks of treatment),time,0.201263
+time,time post vbg,time,0.838229
+time,time recovery (hour),time,0.201263
+time,time (d),time,0.201263
+time,time graft,time,0.201263
+time,time in constant white light,time,0.201263
+time,time differentiated,time,0.201263
+time,time after lesion (days),time,0.201263
+time,time (hours),time,0.201263
+age,time.to.recurrence (years),time,0.533726
+time,time_to_dod_(months),time,0.275985
+time,time (h) post-infection,time,0.838229
+time,timepoint (wks),time,0.657057
+time,timecollected,time,0.201263
+time,time of exposure,time,0.201263
+time,age at time of surgery,time,0.201263
+time,time point (days),time,0.447711
+time,time after inoculation,time,0.201263
+time,time of exercise,time,0.201263
+time,time2lr,time,0.201263
+time,time (min.),time,0.201263
+time,time (post-injection),time,0.838229
+time,timesampletaken,time,0.201263
+time,time rfs,time,0.201263
+time,timepoint (hrs),time,0.657057
+time,time since sample1 months,time,0.201263
+time,time after vaccination,time,0.201263
+time,time (days),time,0.201263
+time,time [days of culture],time,0.201263
+time,timepoints,time,0.657057
+time,time after plating,time,0.201263
+time,time post treatment,time,0.838229
+time,timesincemating,time,0.201263
+time,time in fr light,time,0.201263
+time,time(wpi),time,0.201263
+time,time_hpi,time,0.201263
+time,timepoint,time,0.657057
+time,units of treatment time,time,0.201263

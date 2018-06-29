@@ -1,0 +1,479 @@
+class1,class2,class3,class4
+survival time (months),# of tissue = 36 tissue,age of plants,gender (mouse)
+rna degradation time,4 months tissue,age at biopsy,gender of human sera
+10years followup time (months),prostate tissue,age at diagnosis (y),gender of mice
+circadian time,# of tissue = 1 tissue,age (at diagnosis),gender (rat)
+survival time (month),# of tissue = 40 tissue,sac age (wks),gender (sex)
+hybridization time,# of tissue = 42 tissue,age (1#pfu_1),gender of baby
+bddm followup time (months),fetal vs adult tissue,taqman pool by age,gender
+survival time in months,# of tissue = 38 tissue,age at op,gender and age
+circadian time point,a.thaliana tissue,age of epilepsy duration (yr),gender of the clone
+circadian time (ct),age of ffpe tissue,age of rat,gender (pup)
+sulfur deprivation time,day of tissue dissection,age of ffpe block (years),gender composition
+drug treatment time,age and tissue,age of mouse,adnp+/- gender
+4-thiouracil labeling time,8 weeks. tissue,age at examination,gender (male/female)
+partial hepatectomy time point,sample tissue of origin,age-at-examination,female gender
+hcg treatment time,host tissue,age at diagnosis,mc3 gender
+meiotic time point,tumor tissue,age (1#pvu_1),mc2 gender
+growth time points,treated tissue,age of trees,gender (1#pfu_2)
+light timepoint,somatic tissue,age at primary diagnosis,gender (1#pfu_1)
+virus replication time,gingival tissue phenotype,age-at-biopsy-years,mc5 gender
+il4 stimulation time,original tissue,age of ffpe tissue,mc4 gender
+growth time,source tissue,age (1#pfu_2),mc1 gender
+drug treatment time point,origin tissue,age of sampling,mc6 gender
+meiotic timepoint,landrace tissue,age of epilepsy onset (yr),host gender
+metastasis time (month),original tissue source,age of mice (wk),ma2 gender
+kcl treatment time (hours),primary tissue,age of biopsy,strain c57bl/6  gender
+tnfa treatment time point,pig tissue,age of ipi (yr/mo),strain c57bl/6 gender
+sirna treatment time point,sample tissue type,mother's age (years),ma4 gender
+nitrogen starvation time,donor tissue,maternal age (year),ma5 gender
+overall survival time_days,brain tissue,maternal age (yrs),ma3 gender
+cell harvest time,mammary tissue,host age (yr),ma1 gender
+collection timepoint,cell tissue,age ≥ 65,ma6 gender
+cross-linking time,source tissue type,age of gestation,source gender
+continuous light time,source  tissue,age-at-onset,xenograft recipient gender
+mnase digestion time,harvested tissue type,age (postnatal days),donor gender
+collected time,fresh tissue,age at death (years),subject gender
+cell collection time,tissue separation,age at blood withdrawal,cell line source gender
+collection time,tissue & age,age in vitro,mouse model gender
+conjugation time,tissue factor,age at death (in years),strain gender
+cell sorting time,tissuer type,age at collection,fetus gender
+overall survival time,tissue_detail,age at sampling,patient gender
+4su labeling time,tissue derivation,age_at_diagnosis,recipient gender
+pos-harvest time,tissue,age group (years),donor's  gender
+timepoint/developmental stage,tissue/treatment id,age (month),cell type (immunophenotype)
+postnatal time-point,tissue origination,age@dx,cell type subset
+evolution time (years),tissue id,age (pup),cell type subpopulation
+post-injury time,tissue site,average age,cell type (sorted)
+post-infection time points,tissue_mg,age_diag,sarcoma and primary cell type
+post serum time point,tissue subtype,age harvested (days),cell type/growth condition
+developmental time,tissue_biological,age (after birth),cell type/line
+post-infection time,tissue processing,age (days),cell type origin
+developmental time point,tissue treatment,age at sacrifice,cell type [c]
+lps exposure time,tissue (donor),age description,b cell type
+post-treatment time,tissue pair,age category,cell type(s)
+expression time hours,tissue.origin,age at sample (months),cell types
+event time (years),tissue grade,age high salt diet commenced,host cell type
+post-mixing time,tissue isolated,age of  culture,cell type
+post-exposure time,tissue preservation,age/gender,t cell type
+post radiation time (hour),tissue type,age at diagonosis (years),cell type derived from
+incubation time (hours),tissues,age(yrs.),cell type (human)
+age/disease timepoint,tissue (brain region),age seedlings,pancreatic cell type
+infection_control time,tissue status,age.brain,cultured cell type
+incubation time,tissue harvest,age of the clone,targeted cell type
+diet intervention time,tissue_source,age at death (y),test cell type
+injected timepoint,tissue_code,age.blood,cancer cell type
+infection time,number of pooled tissues,age at blood drawing (months),melanoma cell type
+differentiation timepoint,tissue region,age (weeks of gestation),background cell type
+differentiation time days,tissue and developmental stage,age at surgery,other cell types
+infection time (min),tissue-cy3,age(years),sorted cell type
+injection timepoint,tissue of origin,age diet commenced,source of cell type
+differentiation time,tissue-cy5,age at diagnosis (months),primary cell type
+doubling time,tissue or cells,age of diagnosis (year),tumor cell type
+feeding time,tissue harvest site,age unit,source cell type
+brain ph at time of freezing,tissue ph,developmental age,tissue or cell type
+survival time (year),tissuet type,age (years at surgery),cell line
+survival time (years),tissue harvested,age (postnatal day),human cell line
+doubling time (hrs),tissue_grade,age at sacrafice,dendritic cell lineages
+os time,tissue bank,development age,or cell line
+dfs time (yrs),tissue histology,age time point,huh7 cell line
+agent time,tissue (group),age at blood draw,hybrid cell line
+fu time,tissue section,agegroupatsampledraw,tumor cell line
+pfs time,tissuetype,age.at.surgery,atcc cell line
+os time (years),tissue [transplant],ageofoperation,host cell line
+pfs time (years),tissue_depot,ageatrecruitment,donor cell line
+zt time,tissue-type,age at radiation,fibrosarcoma cell line
+dss time,tissue weigth,agedx,insect cell line
+dfs time (months),tissue-of-origin,age  (months),es cell line type
+dmfs time,tissue origin of cancer cell,age (pn postnatal days),responder cell line
+dfs time,tissue lineage,age and tissue,stable cell line
+dark timepoint,tissue enriched for,age at metastases,background cell line
+dsn time,tissue collection method,age (days old),cell line/clone
+time_after_resection,tissue extraction,agenotype,reference cell lines
+ex vivo challenge time,tissue source,#NAME?,coriell cell line
+time of treatment,tissue or cell type,age at irradiation,parental cell line
+follow up time (months),tissue derived,age [y],ips cell line
+time of treatment with fk866,tissue part,age at collection months,es cell line
+time after media shift,tissue (pup),age/disease timepoint,injected cell line
+follow-up time (months),tissue archive,age put on diet,rcc cell line type
+full time pregancy,tissue typ,gender and age,leukemia cell line
+elapsed time,tissue sub-type,age at collection (months),primary cell line
+treatment time,tissue preserve method,age_group,cell line source age
+treatment time-point,tissue preparation,age at 1st diagnosis,cell line stably expresses
+culture time,tissue sample,age of diagnosis,cell line (derived)
+handling time,tissue collection time,age (yrs) at dasatinib start,cell line nih code
+treatment time (hours),tissue_surgery,age in 1986,cell line background
+seizure time,tissue storage,age at tumor,cell lines
+stress time,tissue source site,age at blood sample collection,cell line specificity
+relapse time,tissue stage,ageyear,cell line manufacturer
+cold ischemia time (hours),tissue diagnosis,age quit smoking,cell line source tissue
+culture time (hrs),tissue archive method,age months,cell line number
+sk-mel-103 time,tissuebank,age induced (days),cell line source gender
+treatment time (rhgaa),tissue estradiol conc.,age at dx in days,cell line provider
+cultivated time,tissue morphology,age at death,cell line ebv-status
+culture doubling time,tissue provider,age in years,cell line of origin
+exposure time,tissue (organ),age (mouse),cell line stably expressing
+harvested time after dose,tissue age,age(month),cell line specifics
+harvest time,tissue region enriched for,age (day),cell line or clinical sample
+harvest time point,tissue condition,age_at_blooddraw,cell line description
+harvested at what time,tissue subregion,age at incident,cell line origin
+treatment time point,tissue location,age (bin),cell line passage
+cold ischemia time,tissue state,age (years),cell line
+recovery time,tissue collection,age at infection (yrs),cell line traits
+sacrifice time,tissue harvest methods,age.at.diagnosis,cell line population
+harvest time after exposure,tissue compartment,age at start,cell line karyotype
+ischemic time (days),tissue origin,age_at_onset,cell line lineage
+treatment time(minutes),tissue_type,age at operation (yrs),cell line type
+reperfusion time,tissue/sector,agestatus,cell line (sorted)
+treatement time,thyroid tissue type,age at operation,cell line reference
+induction time (hours),tissue/tumor subtype,age at onset,cell line subpopulation
+induction time (h),tumor tissue source,agender,cell line (coriell id)
+injection time,secondary lymphoid tissue,age (mos),cell line derivation
+stimulation time,tissue genotype/variation,ageatdiagnosis,cell line source ethnicity
+sampling date and time,tissue/origin,age of culture,cell line tissue source
+training timepoint,tissue/source,agedecade,cell line name
+sampling time (hours),tissue/cell type,age at surgery (yrs),cell line id
+split ratio time 1,tissue/cell,age_tx,cell line(s)
+fermentation time point,tissue/cell lines,age_enroll,cell lineage
+hatching time,tissue/cell line,ageatsampling,cell line characteristics
+sample time point,tissue/cell preparation,age of embryo,cell line/cell type
+fermentation time,tissue/cell line [c],age (yr),cell line initiation date
+survival time,tissue/cell  type,age of subjects,cell line source
+sampling time point,connective tissue type,age (year),cell line conditioning
+donation time,tissue/developmental stage,age_dx,cell line resistance
+extraction time,cell line source tissue,age at vaccination,cell line/type
+survival time (days),tissue/development stage,age at infection,cell line/genotype
+sampling timepoint,cell line tissue source,age at first birth,human colon cancer cell line
+induction time,age (at the end of treatment),age of blood draw,human leukemia cell line
+stimulation time and condition,order of treatment,age in days at diagnosis,originating cell line
+sporulation timepoint,vernalization treatment,age (in years),origin of a cell line
+sample collection time,time (days of dss treatment),age of onset,source cell line
+transfection time,period of treatment,age at baseline,ovarian cancer cell line
+ph<7.30 at time of diagnosis,duration of treatment (hours),age/weight,growth pattern of cell line
+explant timepoint,euthanasia day post treatment,age(yrs),virus isolation cell line
+harvest timepoint,day of dox treatment,ageatdraw,newborn sex
+time of sorting,time after treatment,age.year,donor sex
+time interval fromc (months),period of salt treatment,age group,baby's sex
+time course,day of dss treatment,ageunit,proband sex
+time of biopsy,time post treatment,age_years,apparent sex
+time period,age at start of treatment,agebin,mouse sex
+time clin rec,days after treatment,age at harvest,ctl bone 64 years  sex
+time of death,time to treatment (days),age at presentation,patient sex
+time sac,days of ddc treatment,age (y),cell sex
+time_point,rai stage before treatment,age at time of resection,w sex
+time biopsy to surgery (days),weeks after treatment,agegroup,sexed
+time_to_metastasis (years),weeks of treatment,age post partum,sexual maturity
+time at 4ºc,duration of il-6 treatment,age (months),sex of recipient mice
+time of sampling,time after h2o2 treatment,age at 2nd diagnosis,sex (0-male 1-female)
+time of hcmv infection,days of treatment,age of plant,sexual differentiation
+time to outcome,duration of treatment,age (yrs),sex
+time of day,time (weeks of treatment),average age (days after birth),sex (male.1_female.2)
+time post bloodmeal,drug treatment time,age on study,sex of donor mice
+time (months) overall survival,rna treatment,age (at weaning),sexual_orientation
+time post-surgery,5-aza-c treatment,age 4-7 years,sex (gender)
+time p.i.,dac treatment,age of source,sex (0-female 1-male)
+time post-stimulation,hcg treatment time,age at diagnosis (years),sex of patient
+time of pseudo-pregnancy,nature of treatment,age (yrs) at rrp,sex chromosome complement
+age at the time of surgery,valproate treatment,agegrp,#NAME?
+time after treatment,ddc treatment,age(years)/gender,sex chromosome ploidy
+time_to_death (yr),oligo treatment,age diagnosis,sex/age
+time of tamoxifen treatment,plant treatment,age of human sera,genotyped sex
+time of growth,drug treatment time point,age of woman [years],recipient sex
+time since lif removal,units of treatment repeat,age/sex,sex/age at diagnosis (years)
+time of sample collection,kcl treatment time (hours),age of the mice,sex/mating type
+time of followup (mo),dsrna treatment,age of onset (years),disease-free survival (dfs)
+time (hr),light treatment,age bin,disease free interval (days)
+time after actd,tap treatment,age at disease onset,disease-free interval (months)
+time trial,b12 treatment,ageing at 29 c in days,disease duration (yrs)
+time (days of dss treatment),treatment/exposure,age sacrificed,disease free survival (months)
+time point (hr),bl treatment level,age (yr-old),diseaseduration(years)
+time point in batch cycle,dsrna treatment (knockdown),age at sacrifice (days),disease activity (das28_v3)
+time(weeks),rnai treatment,age,mean disease duration
+time until recurrence (years),antibody treatment,age of patient,disease relapse (event)
+time to treatment (days),dht treatment,160!!!,disease_free_survival_event
+timepoint (dpa),h2o2 treatment level,control case age,disease_free_survival_years
+time after lights on,units of treatment time,gestational age (wks),disease activity (das28_v1)
+time (days post-treatment),post-dac treatment,donor age (years),disease_severity
+time (post-inoculation),art treatment,gestional age,disease progression (event)
+time after scale removal,anti-cd8 treatment,gestational age at delivery,trg disease state
+time period of attachment,tzd treatment,gestational age (w+d),code disease-specific survival
+time bcr,dox treatment,donor age,disease free survival (month)
+time (after crossing),amykor treatment,embryo age,disease causing mutation
+time_to_relapse (yr),probiotic treatment,donor age (y),disease_onset
+time stimulated with anti-igm,ms treatment,cycle phase/ gestational age,age at disease onset
+time met rec,chx treatment,gestational age (wk),disease free interval (months)
+time in meiosis,uv treatment,diagnosis age,disease severity
+time post-wound,dna treatment,patient age,disease category
+time post mcao before sample,l-dopa treatment,patient age at diagnosis,disease-state
+recurrence free time (months),tamoxifen-citrate treatment,gestational age,disease extension
+time sampled,route of treatment,conidial age,diseasestate
+time of surgery,hours treatment,donor's age,disease status of patient
+time point,pbmc treatment,hoechst- (viable) cells. age,disease progression
+time_to_relapse (years),ntg treatment,onset of age,disease stage
+time (weeks of treatment),in vitro treatment,gestational age of pups,disease subtype
+time post vbg,h2o2 treatment,final age at death,disease severity/outcome
+timetofirstszmin,chip dna treatment,patient age (yrs),disease development
+time to harvest,drb treatment,baseline age (years),diseasestatus
+time recovery (hour),ligand treatment,ctl bone age,disease outcome
+time after feeding,co2 treatment,subject age (years),disease_status
+time (d),lps treatment (time),biofilm age,disease state (host)
+time (of harvest),prior treatment,gestational age (weeks),disease_state
+time point (minutes),s2 treatment,op bone age,disease type
+time (wpi),experimental treatment,embryonic age,disease
+time graft,il-2 treatment,subject age,disease course
+relapse free survival time,heat treatment,postnatal age,disease phenotype
+time point after stress,drug treatment,animal age,disease status
+time reference,tamoxifen treatment,mc6 age,disease phase
+time of sacrifice,lithium treatment,gallus gallus  - age,disease location
+time point (visit),tet1/tet2 treatment,cell line source age,diseased
+time post-induction,msc treatment,ma3 age,disease exposure
+time point [c],adjuvant treatment,mc1 age,disease/cell type
+time in constant white light,length of treatment (days),cell age,disease progression status
+time-point,treatment dose u/ml,ma6 age,disease state (phenotype)
+time point (min),treatment_dose_u/ml,mc3 age,disease group
+time point (day),length of treatment,wild-type (col-0) age,disease state
+time differentiated,vaccine or treatment,medicago (truncatula)  - age,disease model
+time of transfection,cancer treatment,mc5 age,subject's disease state
+time inject,imatinib treatment,age (at the end of treatment),primary disease
+time [h],environmental treatment group,age (at specimen collection),aggressiveness of disease
+time_to_progression,sirna or shrna treatment,in a diurnal environment. age,disease/treatment status
+time [hours],cytokine treatment,age at dx,chief disease
+time in meiosis (hr),specific treatments,age at enrollment (years),other diseases
+time (post-treatment),bioremediation treatment,age at the time of surgery,lung disease
+time after lesion (days),patient treatment,age at time of surgery,twin's disease state
+time (hours),hnf4 si rna treatment,age at start of treatment,source disease
+time.to.recurrence (years),gefitinib treatment,age [years / days],lyme disease stage
+time (duration),treatment/growth condition,age (month) at surgery,dead of disease
+time post transplant,tissue treatment,age at onset (years),celiac disease
+time extraction,tnfa treatment time point,age at dx (years),advanced disease stage
+time_to_dod_(months),cactus host treatment,age_at_prostatectomy_(years),chronic diseases
+time clinical recurrence,inducer treatment,age at start of experiment,residual disease
+time (h) post-infection,oxygen treatment,age (in days post-partum),disease-resistance
+time after surgery,sirna treatment group,age at start therapy,ocular disease
+timepoint (wks),treatment/sample type,initial age (infection day),advanced disease state
+time pi (weeks),patient treatment plan,age at excision (years),clinical disease stage
+timecollected,maternal treatment group,age at rc,source disease status
+time of exposure,small molecule treatment,mutant age,patient disease status
+age at time of surgery,transfection or treatment,tissue & age,disease resistance
+time point (days),vaccine treatment,ma4 age,residual disease (cm)
+time to distant metastasis,globin treatment,ma5 age,hiv disease status
+time after inoculation,compound based treatment,sampling age,donor disease state
+time of exercise,testosterone treatment,pig age,meibomian gland disease state
+time after induction[days],time of tamoxifen treatment,mean age in days,etiology of liver disease
+time.to.death (years),in vivo treatment with,source age,status of disease
+time point (post-inoculation),hygromycin treatment,neuron age,duration of disease (month)
+time2lr,iodine treatment,plant age,stage of disease
+time under flooding (h),ca04 or pbs treatment,mean age years (range),stage of disease (inss)
+time injected,dasatinib treatment,units of age,duration of disease
+time (min.),growth condition and treatment,mc4 age,extent of disease
+time (post-injection),response to treatment,mouse age,12q13 genotype rs7136702
+time (hpi),dopamine-agonists treatment,ma2 age,9q24 genotype rs10975552
+time post-mrsa infection,c local treatment,proband age,15q13 genotype rs4779584
+time (relative to induction),secondary treatment duration,infant age,10p14 genotype rs706771
+time of harvest,response to tzd treatment,age(weeks),rs5995355 genotype
+timesampletaken,preoperative treatment,fetus age,20p12 genotype rs50005940
+time since wetting,time of treatment,age (weeks),nod2 genotype
+time (hours after pollination),chemical treatment condition,ma1 age,16q22 genotype rs2059254
+time (days post-infection),enrichment treatment,mouse model age,8q24 genotype rs10505477
+time rfs,chemical treatment conditon,sample age group,8q24 genotype rs7014346
+time,ecdysone treatment,tissue age,12q13 genotype rs11169544
+time aed,myo-inositol treatment,age range,hemoglobin genotype
+time of collection,cardioglycoside treatment,sample age,pool genotype
+time submerged,growth factor treatment,mc2 age,individual genotype
+time (h),ionizing radiation treatment,mean age,8q23 genotype rs16892766
+timepoint (hrs),hormone treatment,recipient age,18q21 genotype rs7226855
+time pfs (months),immunogen treatment,culture age,20q13 genotype rs4925386
+time after induction,hormonal treatment,median age,nqo1 rs1800566 genotype
+time point (hrs),animal treatment,maternal age,rs7575840 genotype
+time_hr_post_hypoxia,stress treatment,estimated age,1q41 genotype rs6691195
+time (minutes),dnase treatment,current age (2007),rs1333049 genotype
+time to recurrence (years),rnase treatment,paternal age,rs7956957 genotype
+time after infection,chloride treatment,treatment start age,8q24 genotype rs6983267
+time since sample1 months,c systemic treatment,starting age,14q22 genotype rs11623717
+time (incubation),bisulfite treatment of rna,culture age (days),1q41 genotype rs11579490
+time post-vaccination,sirna treatment time point,treatment age,lrrk2 genotype
+time class,lenolidamide treatment,not current age,rnasel r462q genotype
+time (post-protocol),sirna treatment,serum culture age,3q26 genotype rs12638862
+time in hrs,intrusion treatment,vitis (41528 population) - age,genotype/varitaion
+time post-injection,time of treatment with fk866,cell culture age,genotype/variaton
+time of embryo collection,doxycycline treatment,b virus strain,maternal genotype/variation
+time quit (@ initial consult),in vivo treatment,listeria strain,genotype/varat
+time after h2o2 treatment,shrna treatment,paternal strain,pathogen genotype/variation
+time after injury (hours),transcription factor treatment,siv strain,genotype/variataion
+time (min),post surgical treatment,bxd strain,genotype/variations
+time (post virus infection),cell treatment,donor strain,genotype/ variation
+time post exposure,chamber treatment,recipient strain,genotype/varation
+time post-copulation,peptide treatment,insect strain,parental genotype/variation
+time after isolation,acidification treatment,pathogen strain,cmv genotype/variation
+time [post-infection],timepoint 4h treatment,host strain,host genotype/variation
+time(absolute),sample treatment,parasite strain,paternal genotype/variation
+time post surgery,b240 or saline treatment,cell strain,genotype/background
+time no bcr,secondary treatment,parental strains,rb genotype/variation
+time since meiosis started,treatment.type,source strain,genotype/variaion
+time measured post wounding,treatment2_in vivo treatment,b.bifidum strain,tissue genotype/variation
+time post-inoculation,treatment time-point,b.breve strain,genotype/variation
+age time point,treatment stage,inbred strain,genotype/variation (host)
+time of cacrifice,treatment regimen,hcmel3 strain,genotype/varaiation
+time after vaccination,treatment period,viral strain,genotype/variation (offspring)
+time (days),treatments,hcmv strain,genotype p53
+time os (months),treatment agent,progeny strain,genotype(breed)
+time [days of culture],treatment duration,parent strain,genotype = gs(1)n441 (mat
+time of gut bacteria,treatment_molecule,parental strain,genotype of pollen
+time after es/ga (days),treatment repeat,fish strain,genotype icsbp1
+time post infection,treatment result,host strain background,genotypes
+time fter actd,treatment response in vitro,pythium strain,genotype.variation
+biopsy time,treatment time (rhgaa),maternal strain,genotype of the cells
+time to outcomel,treatment_2,ehec strain,genotype (transgenic line)
+time point (week end),treatment_1,cmv strain,genotype
+time post injury,treatment response in vivo,reference strains,genotype/ecotype
+time metastatic recurrence,treatment duration (hours),congenic strain,genotyped sex
+time after adoptive transfer,treatment_time,evolved strain,genotype/genetic variation
+time_in_freezer,treatment length,test strain,genotype reference
+time point after hepatectomy,folate treatment,mice strain,genotype (brdt)
+time on diet,treatment name,vaccine strain,genotype of ecat15-1
+time post-immunization,treatment of estrogen,t cell strain,genotype rb
+time points,treatment adchem,back ground strain,genotype abbreviation
+time post-perforation,treatment (short label),bacteria strain,genotype of ecat15-2
+timepoint 4h treatment,treatment_dose,strain/background,genotype variation
+time before sampling,treatment concentration,basal strain,plant genotype
+time to survival,treatment dosage,autoimmune strain,hd genotype
+time after induction [days],treatment [c],host mouse strain,transgene genotype
+time sample taken,treatment_category,bacterial strain,host soybean genotype
+time in continuous light,treatment time point,immune strain/background,backgroud genotype
+timepoints,treatment pairs,control strain o157,esr1 genotype
+time (dpi),treatment protocol,yeast strain,atf2 genotype
+time-to-progession (months),treatment exposure,bacterial strain used,infection (e. coli genotype)
+time post-infection,treatment 1,host/mouse strain,meis1 genotype
+time (post amputation),treatment_protocol,m. tuberculosis strain,background genotype
+time after plating,treatment time(minutes),mouse model strain,brca genotype
+time of euthanasia,treatment 2,mouse strain,idh1/2 genotype
+time to hcc recurrence (days),treatment state,equivalent strain name,th-mycn mouse genotype
+time of sample harvesting,treatment start age,plant strain,myostatin genotype
+time post-dox,treatment class,organ-derived dc strain,sdad2 genotype
+time point post-infection,treatment condition,rrf-3 mutant strain,spea2 genotype
+time of differentiation,treatment code,animal/plant strain or line,offspring genotype
+time after transfection (hr),adjuvant patient treatment,toxplasma gondii strain,precipitated ctcf genotype
+time in spo (hours),treatment before sampling,fibroblast cell strain,braf genotype
+timepoint (weeks),treatment age,eri-1 mutant strain,host genotype
+time exposure,treatment,toxoplasma strain,tet2 genotype
+time after stimulation,treatments prior to dasatinib,jackson lab. strain,strain genotype
+time post treatment,nrti treatment status,secondary host strain,genotype/treatment
+timesincemating,treatment time,transgenic strain,rb1 genotype
+time point (hours),treatment*,background mouse strain,hcv genotype
+time point (h),treatment variable,background strain(s),il4r genotype
+time in culture,treatment time (hours),toxoplasma parasite strain,per3 genotype
+time after exposure,treatment batch,background strain,host/mouse genotype
+time (hrs),treatment status,human cytomegalovirus strain,bacterial genotype
+time point (months),treatment category,background strains,prdm1 genotype
+time-points collected,treatment description,p. syringae pv tomato strain,hla-dqb1 genotype
+age at time of resection,treatment of mouse,xenograft recipient strain,mecp2 genotype
+time pre_post surgery (years),treatment type,strain for c57bl/6,apoe genotype
+time (post-infection),treatment_given,strain c57bl/6  gender,hal genotype
+time of specimen collection,treatment amount [c],strain c57bl/6 gender,tbx1 genotype
+time and stimulation,treatment_schedule,strain y3724,e2f1 genotype
+time after infection (h),treatment arm,strain by4741 ptc5,hdh genotype
+time in fr light,treatment_response,strain by4741 ptc51,maternal genotype
+time sacrificed,treatment route,strain by4741 ptc2,relevant genotype
+time(wpi),treatment delivery,strain/cell-line,gp130 genotype
+time_hpi,treatment drug,strain by4741 ptc1,a.thaliana genotype
+time of relapse,treatments comments,strain by4741 ptc4,mouse genotype
+time after injury,treatment-time,strain y3403,ndrg1 genotype
+time in entraining conditions,treatment (chemo),strain by4741 ptc3,
+time to death (mos),treatment dose,strain sr957,
+tissue collection time,treatment group,strain sr959,
+time.to.ok,treatment of the mice,strain (cy5),
+timeunit,treatment response,strain of the clone,
+time to next relapse(days),treatment gp,strain duplicate (a or b),
+time post transfection,treatment_time[hr],strain sr954,
+time to meta or recurrence,treatment compound,strain description,
+time of progression,,strain source,
+time_rec (years),,strain sr753,
+time of atoh1 expression,,rat strain,
+time post injection,,strain (genetic background),
+time post-treatment,,strain sr595,
+time (doxorubicin),,strain jlrela,
+timepoint,,strain (mouse),
+sample time after surgery,,strain y2197,
+sampling time group,,strain of maternal pronucleus,
+sampling time,,strain info,
+secondary time course,,strain 1783,
+sample time,,strain,
+units of treatment time,,strain 1785,
+units of harvest time point,,strain 877 = mata wpl-9pk,
+time f/u,,strain recipient,
+,,strain or line,
+,,strain 3235 = scc1-pk3,
+,,strain y2468,
+,,strain sjl(%),
+,,strain of mouse,
+,,strain number,
+,,strain [background],
+,,strain tw1,
+,,strain 379 = scc1-ha6,
+,,strain y3071,
+,,strainorline,
+,,strain (or line),
+,,strain backgroud,
+,,strain sr1187,
+,,strain origin,
+,,strain (host),
+,,1996). strain cd4ko (rrp6,
+,,strain with gal,
+,,strain (rat),
+,,strain genotype,
+,,strain (of recipient mice),
+,,strain y3272,
+,,strain name,
+,,strain y3351,
+,,strain y2460,
+,,strain b6(%),
+,,strain jam1,
+,,strain y2699,
+,,strain of ooplasm,
+,,strain/cell line background,
+,,strains,
+,,strain_description,
+,,strain phenotype,
+,,strain (yeast),
+,,strain donor,
+,,strain sr453,
+,,strain tw14,
+,,strain dba2(%),
+,,strain y3586,
+,,strain[background],
+,,strain (cy3),
+,,strain details,
+,,strain (donor),
+,,strain by4741-msn2,
+,,strain background,
+,,strain of paternal pronucleus,
+,,strain/accession,
+,,strain yjdi381 gal1-taf1,
+,,strain(s),
+,,strain id,
+,,strain gender,
+,,strain by4741-pho23,
+,,strain type,
+,,strain serotype,
+,,strain.rep,
+,,strain (e. coli),
+,,strain by4741-rco1,
+,,strain sr563,
+,,strain by4741-rpd3,
+,,strain y3650,
+,,strain by4741-ume6,
+,,strain fgsc number,
+,,strain crl,
+,,strain/model,
+,,strain/condition,
+,,strain/genotype,
+,,strain/ecotype,
+,,strain/isolate,
+,,strain/genotype variation,
+,,strain/genotyp,
+,,infection (influenza strain),
+,,strain/line,
+,,virus strain,
+,,infection (virus strain),
+,,infrequent clonal strain code,
+,,infected with bacterial strain,

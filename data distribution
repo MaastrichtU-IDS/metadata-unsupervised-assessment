@@ -1,0 +1,12 @@
+tissue 146 -> 0.088
+gender 42 ->0.025
+age 295 -> 0.18
+strain 181 -> 0.11
+cell type 31 -> 0.018
+treatment 242 -> 0.147
+cell line 78 -> 0.047
+sex 30 -> 0.018
+disease 85 -> 0.051
+genotype 112 -> 0.068
+time 402 -> 0.244
+total - 1644
