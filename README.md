@@ -5,10 +5,11 @@ then we create the feature matrix, by matching the terms present in the dataset.
 ## Getting Started
 
 Following tools should be installed in your computer: 
-*Jupyter Notebook
-*Python 2.7 and newer versions
+- Jupyter Notebook
+- Python 2.7 and newer versions
 
 ### Prerequisites
 
-*For Windows: Install Docker 
-*For LINUX and macOS: Install turicreate
+- For Windows: Install Docker 
+- For LINUX and macOS: Install turicreate
+
