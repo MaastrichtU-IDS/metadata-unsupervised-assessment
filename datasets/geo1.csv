@@ -1,0 +1,1646 @@
+key,key_class
+# of tissue = 36 tissue,tissue
+4 months tissue,tissue
+prostate tissue,tissue
+# of tissue = 1 tissue,tissue
+# of tissue = 40 tissue,tissue
+# of tissue = 42 tissue,tissue
+fetal vs adult tissue,tissue
+# of tissue = 38 tissue,tissue
+a.thaliana tissue,tissue
+age of ffpe tissue,tissue
+day of tissue dissection,tissue
+age and tissue,tissue
+8 weeks. tissue,tissue
+sample tissue of origin,tissue
+host tissue,tissue
+tumor tissue,tissue
+treated tissue,tissue
+somatic tissue,tissue
+gingival tissue phenotype,tissue
+original tissue,tissue
+source tissue,tissue
+origin tissue,tissue
+landrace tissue,tissue
+original tissue source,tissue
+primary tissue,tissue
+pig tissue,tissue
+sample tissue type,tissue
+donor tissue,tissue
+brain tissue,tissue
+mammary tissue,tissue
+cell tissue,tissue
+source tissue type,tissue
+source  tissue,tissue
+harvested tissue type,tissue
+fresh tissue,tissue
+tissue separation,tissue
+tissue & age,tissue
+tissue factor,tissue
+tissuer type,tissue
+tissue_detail,tissue
+tissue derivation,tissue
+tissue,tissue
+tissue/treatment id,tissue
+tissue origination,tissue
+tissue id,tissue
+tissue site,tissue
+tissue_mg,tissue
+tissue subtype,tissue
+tissue_biological,tissue
+tissue processing,tissue
+tissue treatment,tissue
+tissue (donor),tissue
+tissue pair,tissue
+tissue.origin,tissue
+tissue grade,tissue
+tissue isolated,tissue
+tissue preservation,tissue
+tissue type,tissue
+tissues,tissue
+tissue (brain region),tissue
+tissue status,tissue
+tissue harvest,tissue
+tissue_source,tissue
+tissue_code,tissue
+number of pooled tissues,tissue
+tissue region,tissue
+tissue and developmental stage,tissue
+tissue-cy3,tissue
+tissue of origin,tissue
+tissue-cy5,tissue
+tissue or cells,tissue
+tissue harvest site,tissue
+tissue ph,tissue
+tissuet type,tissue
+tissue harvested,tissue
+tissue_grade,tissue
+tissue bank,tissue
+tissue histology,tissue
+tissue (group),tissue
+tissue section,tissue
+tissuetype,tissue
+tissue [transplant],tissue
+tissue_depot,tissue
+tissue-type,tissue
+tissue weigth,tissue
+tissue-of-origin,tissue
+tissue origin of cancer cell,tissue
+tissue lineage,tissue
+tissue enriched for,tissue
+tissue collection method,tissue
+tissue extraction,tissue
+tissue source,tissue
+tissue or cell type,tissue
+tissue derived,tissue
+tissue part,tissue
+tissue (pup),tissue
+tissue archive,tissue
+tissue typ,tissue
+tissue sub-type,tissue
+tissue preserve method,tissue
+tissue preparation,tissue
+tissue sample,tissue
+tissue collection time,tissue
+tissue_surgery,tissue
+tissue storage,tissue
+tissue source site,tissue
+tissue stage,tissue
+tissue diagnosis,tissue
+tissue archive method,tissue
+tissuebank,tissue
+tissue estradiol conc.,tissue
+tissue morphology,tissue
+tissue provider,tissue
+tissue (organ),tissue
+tissue age,tissue
+tissue region enriched for,tissue
+tissue condition,tissue
+tissue subregion,tissue
+tissue location,tissue
+tissue state,tissue
+tissue collection,tissue
+tissue harvest methods,tissue
+tissue compartment,tissue
+tissue origin,tissue
+tissue_type,tissue
+tissue/sector,tissue
+thyroid tissue type,tissue
+tissue/tumor subtype,tissue
+tumor tissue source,tissue
+secondary lymphoid tissue,tissue
+tissue genotype/variation,tissue
+tissue/origin,tissue
+tissue/source,tissue
+tissue/cell type,tissue
+tissue/cell,tissue
+tissue/cell lines,tissue
+tissue/cell line,tissue
+tissue/cell preparation,tissue
+tissue/cell line [c],tissue
+tissue/cell  type,tissue
+connective tissue type,tissue
+tissue/developmental stage,tissue
+cell line source tissue,tissue
+tissue/development stage,tissue
+cell line tissue source,tissue
+gender (mouse),gender
+gender of human sera,gender
+gender of mice,gender
+gender (rat),gender
+gender (sex),gender
+gender of baby,gender
+gender,gender
+gender and age,gender
+gender of the clone,gender
+gender (pup),gender
+gender composition,gender
+adnp+/- gender,gender
+gender (male/female),gender
+female gender,gender
+mc3 gender,gender
+mc2 gender,gender
+gender (1#pfu_2),gender
+gender (1#pfu_1),gender
+mc5 gender,gender
+mc4 gender,gender
+mc1 gender,gender
+mc6 gender,gender
+host gender,gender
+ma2 gender,gender
+strain c57bl/6  gender,gender
+strain c57bl/6 gender,gender
+ma4 gender,gender
+ma5 gender,gender
+ma3 gender,gender
+ma1 gender,gender
+ma6 gender,gender
+source gender,gender
+xenograft recipient gender,gender
+donor gender,gender
+subject gender,gender
+cell line source gender,gender
+mouse model gender,gender
+strain gender,gender
+fetus gender,gender
+patient gender,gender
+recipient gender,gender
+donor's  gender,gender
+age of plants,age
+age at biopsy,age
+age at diagnosis (y),age
+age (at diagnosis),age
+sac age (wks),age
+age (1#pfu_1),age
+taqman pool by age,age
+age at op,age
+age of epilepsy duration (yr),age
+age of rat,age
+age of ffpe block (years),age
+age of mouse,age
+age at examination,age
+age-at-examination,age
+age at diagnosis,age
+age (1#pvu_1),age
+age of trees,age
+age at primary diagnosis,age
+age-at-biopsy-years,age
+age of ffpe tissue,age
+age (1#pfu_2),age
+age of sampling,age
+age of epilepsy onset (yr),age
+age of mice (wk),age
+age of biopsy,age
+age of ipi (yr/mo),age
+mother's age (years),age
+maternal age (year),age
+maternal age (yrs),age
+host age (yr),age
+age ≥ 65,age
+age of gestation,age
+age-at-onset,age
+age (postnatal days),age
+age at death (years),age
+age at blood withdrawal,age
+age in vitro,age
+age at death (in years),age
+age at collection,age
+age at sampling,age
+age_at_diagnosis,age
+age group (years),age
+age (month),age
+age@dx,age
+age (pup),age
+average age,age
+age_diag,age
+age harvested (days),age
+age (after birth),age
+age (days),age
+age at sacrifice,age
+age description,age
+age category,age
+age at sample (months),age
+age high salt diet commenced,age
+age of  culture,age
+age/gender,age
+age at diagonosis (years),age
+age(yrs.),age
+age seedlings,age
+age.brain,age
+age of the clone,age
+age at death (y),age
+age.blood,age
+age at blood drawing (months),age
+age (weeks of gestation),age
+age at surgery,age
+age(years),age
+age diet commenced,age
+age at diagnosis (months),age
+age of diagnosis (year),age
+age unit,age
+developmental age,age
+age (years at surgery),age
+age (postnatal day),age
+age at sacrafice,age
+development age,age
+age time point,age
+age at blood draw,age
+agegroupatsampledraw,age
+age.at.surgery,age
+ageofoperation,age
+ageatrecruitment,age
+age at radiation,age
+agedx,age
+age  (months),age
+age (pn postnatal days),age
+age and tissue,age
+age at metastases,age
+age (days old),age
+agenotype,age
+#NAME?,age
+age at irradiation,age
+age [y],age
+age at collection months,age
+age/disease timepoint,age
+age put on diet,age
+gender and age,age
+age at collection (months),age
+age_group,age
+age at 1st diagnosis,age
+age of diagnosis,age
+age (yrs) at dasatinib start,age
+age in 1986,age
+age at tumor,age
+age at blood sample collection,age
+ageyear,age
+age quit smoking,age
+age months,age
+age induced (days),age
+age at dx in days,age
+age at death,age
+age in years,age
+age (mouse),age
+age(month),age
+age (day),age
+age_at_blooddraw,age
+age at incident,age
+age (bin),age
+age (years),age
+age at infection (yrs),age
+age.at.diagnosis,age
+age at start,age
+age_at_onset,age
+age at operation (yrs),age
+agestatus,age
+age at operation,age
+age at onset,age
+agender,age
+age (mos),age
+ageatdiagnosis,age
+age of culture,age
+agedecade,age
+age at surgery (yrs),age
+age_tx,age
+age_enroll,age
+ageatsampling,age
+age of embryo,age
+age (yr),age
+age of subjects,age
+age (year),age
+age_dx,age
+age at vaccination,age
+age at infection,age
+age at first birth,age
+age of blood draw,age
+age in days at diagnosis,age
+age (in years),age
+age of onset,age
+age at baseline,age
+age/weight,age
+age(yrs),age
+ageatdraw,age
+age.year,age
+age group,age
+ageunit,age
+age_years,age
+agebin,age
+age at harvest,age
+age at presentation,age
+age (y),age
+age at time of resection,age
+agegroup,age
+age post partum,age
+age (months),age
+age at 2nd diagnosis,age
+age of plant,age
+age (yrs),age
+average age (days after birth),age
+age on study,age
+age (at weaning),age
+age 4-7 years,age
+age of source,age
+age at diagnosis (years),age
+age (yrs) at rrp,age
+agegrp,age
+age(years)/gender,age
+age diagnosis,age
+age of human sera,age
+age of woman [years],age
+age/sex,age
+age of the mice,age
+age of onset (years),age
+age bin,age
+age at disease onset,age
+ageing at 29 c in days,age
+age sacrificed,age
+age (yr-old),age
+age at sacrifice (days),age
+age,age
+age of patient,age
+160!!!,age
+control case age,age
+gestational age (wks),age
+donor age (years),age
+gestional age,age
+gestational age at delivery,age
+gestational age (w+d),age
+donor age,age
+embryo age,age
+donor age (y),age
+cycle phase/ gestational age,age
+gestational age (wk),age
+diagnosis age,age
+patient age,age
+patient age at diagnosis,age
+gestational age,age
+conidial age,age
+donor's age,age
+hoechst- (viable) cells. age,age
+onset of age,age
+gestational age of pups,age
+final age at death,age
+patient age (yrs),age
+baseline age (years),age
+ctl bone age,age
+subject age (years),age
+biofilm age,age
+gestational age (weeks),age
+op bone age,age
+embryonic age,age
+subject age,age
+postnatal age,age
+animal age,age
+mc6 age,age
+gallus gallus  - age,age
+cell line source age,age
+ma3 age,age
+mc1 age,age
+cell age,age
+ma6 age,age
+mc3 age,age
+wild-type (col-0) age,age
+medicago (truncatula)  - age,age
+mc5 age,age
+age (at the end of treatment),age
+age (at specimen collection),age
+in a diurnal environment. age,age
+age at dx,age
+age at enrollment (years),age
+age at the time of surgery,age
+age at time of surgery,age
+age at start of treatment,age
+age [years / days],age
+age (month) at surgery,age
+age at onset (years),age
+age at dx (years),age
+age_at_prostatectomy_(years),age
+age at start of experiment,age
+age (in days post-partum),age
+age at start therapy,age
+initial age (infection day),age
+age at excision (years),age
+age at rc,age
+mutant age,age
+tissue & age,age
+ma4 age,age
+ma5 age,age
+sampling age,age
+pig age,age
+mean age in days,age
+source age,age
+neuron age,age
+plant age,age
+mean age years (range),age
+units of age,age
+mc4 age,age
+mouse age,age
+ma2 age,age
+proband age,age
+infant age,age
+age(weeks),age
+fetus age,age
+age (weeks),age
+ma1 age,age
+mouse model age,age
+sample age group,age
+tissue age,age
+age range,age
+sample age,age
+mc2 age,age
+mean age,age
+recipient age,age
+culture age,age
+median age,age
+maternal age,age
+estimated age,age
+current age (2007),age
+paternal age,age
+treatment start age,age
+starting age,age
+culture age (days),age
+treatment age,age
+not current age,age
+serum culture age,age
+vitis (41528 population) - age,age
+cell culture age,age
+b virus strain,strain
+listeria strain,strain
+paternal strain,strain
+siv strain,strain
+bxd strain,strain
+donor strain,strain
+recipient strain,strain
+insect strain,strain
+pathogen strain,strain
+host strain,strain
+parasite strain,strain
+cell strain,strain
+parental strains,strain
+source strain,strain
+b.bifidum strain,strain
+b.breve strain,strain
+inbred strain,strain
+hcmel3 strain,strain
+viral strain,strain
+hcmv strain,strain
+progeny strain,strain
+parent strain,strain
+parental strain,strain
+fish strain,strain
+host strain background,strain
+pythium strain,strain
+maternal strain,strain
+ehec strain,strain
+cmv strain,strain
+reference strains,strain
+congenic strain,strain
+evolved strain,strain
+test strain,strain
+mice strain,strain
+vaccine strain,strain
+t cell strain,strain
+back ground strain,strain
+bacteria strain,strain
+strain/background,strain
+basal strain,strain
+autoimmune strain,strain
+host mouse strain,strain
+bacterial strain,strain
+immune strain/background,strain
+control strain o157,strain
+yeast strain,strain
+bacterial strain used,strain
+host/mouse strain,strain
+m. tuberculosis strain,strain
+mouse model strain,strain
+mouse strain,strain
+equivalent strain name,strain
+plant strain,strain
+organ-derived dc strain,strain
+rrf-3 mutant strain,strain
+animal/plant strain or line,strain
+toxplasma gondii strain,strain
+fibroblast cell strain,strain
+eri-1 mutant strain,strain
+toxoplasma strain,strain
+jackson lab. strain,strain
+secondary host strain,strain
+transgenic strain,strain
+background mouse strain,strain
+background strain(s),strain
+toxoplasma parasite strain,strain
+background strain,strain
+human cytomegalovirus strain,strain
+background strains,strain
+p. syringae pv tomato strain,strain
+xenograft recipient strain,strain
+strain for c57bl/6,strain
+strain c57bl/6  gender,strain
+strain c57bl/6 gender,strain
+strain y3724,strain
+strain by4741 ptc5,strain
+strain by4741 ptc51,strain
+strain by4741 ptc2,strain
+strain/cell-line,strain
+strain by4741 ptc1,strain
+strain by4741 ptc4,strain
+strain y3403,strain
+strain by4741 ptc3,strain
+strain sr957,strain
+strain sr959,strain
+strain (cy5),strain
+strain of the clone,strain
+strain duplicate (a or b),strain
+strain sr954,strain
+strain description,strain
+strain source,strain
+strain sr753,strain
+rat strain,strain
+strain (genetic background),strain
+strain sr595,strain
+strain jlrela,strain
+strain (mouse),strain
+strain y2197,strain
+strain of maternal pronucleus,strain
+strain info,strain
+strain 1783,strain
+strain,strain
+strain 1785,strain
+strain 877 = mata wpl-9pk,strain
+strain recipient,strain
+strain or line,strain
+strain 3235 = scc1-pk3,strain
+strain y2468,strain
+strain sjl(%),strain
+strain of mouse,strain
+strain number,strain
+strain [background],strain
+strain tw1,strain
+strain 379 = scc1-ha6,strain
+strain y3071,strain
+strainorline,strain
+strain (or line),strain
+strain backgroud,strain
+strain sr1187,strain
+strain origin,strain
+strain (host),strain
+1996). strain cd4ko (rrp6,strain
+strain with gal,strain
+strain (rat),strain
+strain genotype,strain
+strain (of recipient mice),strain
+strain y3272,strain
+strain name,strain
+strain y3351,strain
+strain y2460,strain
+strain b6(%),strain
+strain jam1,strain
+strain y2699,strain
+strain of ooplasm,strain
+strain/cell line background,strain
+strains,strain
+strain_description,strain
+strain phenotype,strain
+strain (yeast),strain
+strain donor,strain
+strain sr453,strain
+strain tw14,strain
+strain dba2(%),strain
+strain y3586,strain
+strain[background],strain
+strain (cy3),strain
+strain details,strain
+strain (donor),strain
+strain by4741-msn2,strain
+strain background,strain
+strain of paternal pronucleus,strain
+strain/accession,strain
+strain yjdi381 gal1-taf1,strain
+strain(s),strain
+strain id,strain
+strain gender,strain
+strain by4741-pho23,strain
+strain type,strain
+strain serotype,strain
+strain.rep,strain
+strain (e. coli),strain
+strain by4741-rco1,strain
+strain sr563,strain
+strain by4741-rpd3,strain
+strain y3650,strain
+strain by4741-ume6,strain
+strain fgsc number,strain
+strain crl,strain
+strain/model,strain
+strain/condition,strain
+strain/genotype,strain
+strain/ecotype,strain
+strain/isolate,strain
+strain/genotype variation,strain
+strain/genotyp,strain
+infection (influenza strain),strain
+strain/line,strain
+virus strain,strain
+infection (virus strain),strain
+infrequent clonal strain code,strain
+infected with bacterial strain,strain
+pancreatic cell type,cell type
+cancer cell type,cell type
+cell type(s),cell type
+targeted cell type,cell type
+cell type/line,cell type
+cell type (immunophenotype),cell type
+cell type subpopulation,cell type
+sorted cell type,cell type
+cell type subset,cell type
+cell types,cell type
+cell type [c],cell type
+cell type derived from,cell type
+cell type origin,cell type
+background cell type,cell type
+cell type (sorted),cell type
+tumor cell type,cell type
+host cell type,cell type
+source cell type,cell type
+cell type/growth condition,cell type
+tissue or cell type,cell type
+sarcoma and primary cell type,cell type
+primary cell type,cell type
+test cell type,cell type
+other cell types,cell type
+t cell type,cell type
+melanoma cell type,cell type
+b cell type,cell type
+cell type,cell type
+cultured cell type,cell type
+cell type (human),cell type
+source of cell type,cell type
+age (at the end of treatment),treatment
+order of treatment,treatment
+vernalization treatment,treatment
+time (days of dss treatment),treatment
+period of treatment,treatment
+duration of treatment (hours),treatment
+euthanasia day post treatment,treatment
+day of dox treatment,treatment
+time after treatment,treatment
+period of salt treatment,treatment
+day of dss treatment,treatment
+time post treatment,treatment
+age at start of treatment,treatment
+days after treatment,treatment
+time to treatment (days),treatment
+days of ddc treatment,treatment
+rai stage before treatment,treatment
+weeks after treatment,treatment
+weeks of treatment,treatment
+duration of il-6 treatment,treatment
+time after h2o2 treatment,treatment
+days of treatment,treatment
+duration of treatment,treatment
+time (weeks of treatment),treatment
+drug treatment time,treatment
+rna treatment,treatment
+5-aza-c treatment,treatment
+dac treatment,treatment
+hcg treatment time,treatment
+nature of treatment,treatment
+valproate treatment,treatment
+ddc treatment,treatment
+oligo treatment,treatment
+plant treatment,treatment
+drug treatment time point,treatment
+units of treatment repeat,treatment
+kcl treatment time (hours),treatment
+dsrna treatment,treatment
+light treatment,treatment
+tap treatment,treatment
+b12 treatment,treatment
+treatment/exposure,treatment
+bl treatment level,treatment
+dsrna treatment (knockdown),treatment
+rnai treatment,treatment
+antibody treatment,treatment
+dht treatment,treatment
+h2o2 treatment level,treatment
+units of treatment time,treatment
+post-dac treatment,treatment
+art treatment,treatment
+anti-cd8 treatment,treatment
+tzd treatment,treatment
+dox treatment,treatment
+amykor treatment,treatment
+probiotic treatment,treatment
+ms treatment,treatment
+chx treatment,treatment
+uv treatment,treatment
+dna treatment,treatment
+l-dopa treatment,treatment
+tamoxifen-citrate treatment,treatment
+route of treatment,treatment
+hours treatment,treatment
+pbmc treatment,treatment
+ntg treatment,treatment
+in vitro treatment,treatment
+h2o2 treatment,treatment
+chip dna treatment,treatment
+drb treatment,treatment
+ligand treatment,treatment
+co2 treatment,treatment
+lps treatment (time),treatment
+prior treatment,treatment
+s2 treatment,treatment
+experimental treatment,treatment
+il-2 treatment,treatment
+heat treatment,treatment
+drug treatment,treatment
+tamoxifen treatment,treatment
+lithium treatment,treatment
+tet1/tet2 treatment,treatment
+msc treatment,treatment
+adjuvant treatment,treatment
+length of treatment (days),treatment
+treatment dose u/ml,treatment
+treatment_dose_u/ml,treatment
+length of treatment,treatment
+vaccine or treatment,treatment
+cancer treatment,treatment
+imatinib treatment,treatment
+environmental treatment group,treatment
+sirna or shrna treatment,treatment
+cytokine treatment,treatment
+specific treatments,treatment
+bioremediation treatment,treatment
+patient treatment,treatment
+hnf4 si rna treatment,treatment
+gefitinib treatment,treatment
+treatment/growth condition,treatment
+tissue treatment,treatment
+tnfa treatment time point,treatment
+cactus host treatment,treatment
+inducer treatment,treatment
+oxygen treatment,treatment
+sirna treatment group,treatment
+treatment/sample type,treatment
+patient treatment plan,treatment
+maternal treatment group,treatment
+small molecule treatment,treatment
+transfection or treatment,treatment
+vaccine treatment,treatment
+globin treatment,treatment
+compound based treatment,treatment
+testosterone treatment,treatment
+time of tamoxifen treatment,treatment
+in vivo treatment with,treatment
+hygromycin treatment,treatment
+iodine treatment,treatment
+ca04 or pbs treatment,treatment
+dasatinib treatment,treatment
+growth condition and treatment,treatment
+response to treatment,treatment
+dopamine-agonists treatment,treatment
+c local treatment,treatment
+secondary treatment duration,treatment
+response to tzd treatment,treatment
+preoperative treatment,treatment
+time of treatment,treatment
+chemical treatment condition,treatment
+enrichment treatment,treatment
+chemical treatment conditon,treatment
+ecdysone treatment,treatment
+myo-inositol treatment,treatment
+cardioglycoside treatment,treatment
+growth factor treatment,treatment
+ionizing radiation treatment,treatment
+hormone treatment,treatment
+immunogen treatment,treatment
+hormonal treatment,treatment
+animal treatment,treatment
+stress treatment,treatment
+dnase treatment,treatment
+rnase treatment,treatment
+chloride treatment,treatment
+c systemic treatment,treatment
+bisulfite treatment of rna,treatment
+sirna treatment time point,treatment
+lenolidamide treatment,treatment
+sirna treatment,treatment
+intrusion treatment,treatment
+time of treatment with fk866,treatment
+doxycycline treatment,treatment
+in vivo treatment,treatment
+shrna treatment,treatment
+transcription factor treatment,treatment
+post surgical treatment,treatment
+cell treatment,treatment
+chamber treatment,treatment
+peptide treatment,treatment
+acidification treatment,treatment
+timepoint 4h treatment,treatment
+sample treatment,treatment
+b240 or saline treatment,treatment
+secondary treatment,treatment
+treatment.type,treatment
+treatment2_in vivo treatment,treatment
+treatment time-point,treatment
+treatment stage,treatment
+treatment regimen,treatment
+treatment period,treatment
+treatments,treatment
+treatment agent,treatment
+treatment duration,treatment
+treatment_molecule,treatment
+treatment repeat,treatment
+treatment result,treatment
+treatment response in vitro,treatment
+treatment time (rhgaa),treatment
+treatment_2,treatment
+treatment_1,treatment
+treatment response in vivo,treatment
+treatment duration (hours),treatment
+treatment_time,treatment
+treatment length,treatment
+folate treatment,treatment
+treatment name,treatment
+treatment of estrogen,treatment
+treatment adchem,treatment
+treatment (short label),treatment
+treatment_dose,treatment
+treatment concentration,treatment
+treatment dosage,treatment
+treatment [c],treatment
+treatment_category,treatment
+treatment time point,treatment
+treatment pairs,treatment
+treatment protocol,treatment
+treatment exposure,treatment
+treatment 1,treatment
+treatment_protocol,treatment
+treatment time(minutes),treatment
+treatment 2,treatment
+treatment state,treatment
+treatment start age,treatment
+treatment class,treatment
+treatment condition,treatment
+treatment code,treatment
+adjuvant patient treatment,treatment
+treatment before sampling,treatment
+treatment age,treatment
+treatment,treatment
+treatments prior to dasatinib,treatment
+nrti treatment status,treatment
+treatment time,treatment
+treatment*,treatment
+treatment variable,treatment
+treatment time (hours),treatment
+treatment batch,treatment
+treatment status,treatment
+treatment category,treatment
+treatment description,treatment
+treatment of mouse,treatment
+treatment type,treatment
+treatment_given,treatment
+treatment amount [c],treatment
+treatment_schedule,treatment
+treatment arm,treatment
+treatment_response,treatment
+treatment route,treatment
+treatment delivery,treatment
+treatment drug,treatment
+treatments comments,treatment
+treatment-time,treatment
+treatment (chemo),treatment
+treatment dose,treatment
+treatment group,treatment
+treatment of the mice,treatment
+treatment response,treatment
+treatment gp,treatment
+treatment_time[hr],treatment
+treatment compound,treatment
+human cell line,cell line
+dendritic cell lineages,cell line
+or cell line,cell line
+huh7 cell line,cell line
+hybrid cell line,cell line
+tumor cell line,cell line
+atcc cell line,cell line
+host cell line,cell line
+donor cell line,cell line
+fibrosarcoma cell line,cell line
+insect cell line,cell line
+es cell line type,cell line
+responder cell line,cell line
+stable cell line,cell line
+background cell line,cell line
+cell line/clone,cell line
+reference cell lines,cell line
+coriell cell line,cell line
+parental cell line,cell line
+ips cell line,cell line
+es cell line,cell line
+injected cell line,cell line
+rcc cell line type,cell line
+leukemia cell line,cell line
+primary cell line,cell line
+cell line source age,cell line
+cell line stably expresses,cell line
+cell line (derived),cell line
+cell line nih code,cell line
+cell line background,cell line
+cell lines,cell line
+cell line specificity,cell line
+cell line manufacturer,cell line
+cell line source tissue,cell line
+cell line number,cell line
+cell line source gender,cell line
+cell line provider,cell line
+cell line ebv-status,cell line
+cell line of origin,cell line
+cell line stably expressing,cell line
+cell line specifics,cell line
+cell line or clinical sample,cell line
+cell line description,cell line
+cell line origin,cell line
+cell line passage,cell line
+cell line,cell line
+cell line traits,cell line
+cell line population,cell line
+cell line karyotype,cell line
+cell line lineage,cell line
+cell line type,cell line
+cell line (sorted),cell line
+cell line reference,cell line
+cell line subpopulation,cell line
+cell line (coriell id),cell line
+cell line derivation,cell line
+cell line source ethnicity,cell line
+cell line tissue source,cell line
+cell line name,cell line
+cell line id,cell line
+cell line(s),cell line
+cell lineage,cell line
+cell line characteristics,cell line
+cell line/cell type,cell line
+cell line initiation date,cell line
+cell line source,cell line
+cell line conditioning,cell line
+cell line resistance,cell line
+cell line/type,cell line
+cell line/genotype,cell line
+human colon cancer cell line,cell line
+human leukemia cell line,cell line
+originating cell line,cell line
+origin of a cell line,cell line
+source cell line,cell line
+ovarian cancer cell line,cell line
+growth pattern of cell line,cell line
+virus isolation cell line,cell line
+newborn sex,sex
+donor sex,sex
+baby's sex,sex
+proband sex,sex
+apparent sex,sex
+mouse sex,sex
+ctl bone 64 years  sex,sex
+patient sex,sex
+cell sex,sex
+w sex,sex
+sexed,sex
+sexual maturity,sex
+sex of recipient mice,sex
+sex (0-male 1-female),sex
+sexual differentiation,sex
+sex,sex
+sex (male.1_female.2),sex
+sex of donor mice,sex
+sexual_orientation,sex
+sex (gender),sex
+sex (0-female 1-male),sex
+sex of patient,sex
+sex chromosome complement,sex
+#NAME?,sex
+sex chromosome ploidy,sex
+sex/age,sex
+genotyped sex,sex
+recipient sex,sex
+sex/age at diagnosis (years),sex
+sex/mating type,sex
+disease-free survival (dfs),disease
+disease free interval (days),disease
+disease-free interval (months),disease
+disease duration (yrs),disease
+disease free survival (months),disease
+diseaseduration(years),disease
+disease activity (das28_v3),disease
+mean disease duration,disease
+disease relapse (event),disease
+disease_free_survival_event,disease
+disease_free_survival_years,disease
+disease activity (das28_v1),disease
+disease_severity,disease
+disease progression (event),disease
+trg disease state,disease
+code disease-specific survival,disease
+disease free survival (month),disease
+disease causing mutation,disease
+disease_onset,disease
+age at disease onset,disease
+disease free interval (months),disease
+disease severity,disease
+disease category,disease
+disease-state,disease
+disease extension,disease
+diseasestate,disease
+disease status of patient,disease
+disease progression,disease
+disease stage,disease
+disease subtype,disease
+disease severity/outcome,disease
+disease development,disease
+diseasestatus,disease
+disease outcome,disease
+disease_status,disease
+disease state (host),disease
+disease_state,disease
+disease type,disease
+disease,disease
+disease course,disease
+disease phenotype,disease
+disease status,disease
+disease phase,disease
+disease location,disease
+diseased,disease
+disease exposure,disease
+disease/cell type,disease
+disease progression status,disease
+disease state (phenotype),disease
+disease group,disease
+disease state,disease
+disease model,disease
+subject's disease state,disease
+primary disease,disease
+aggressiveness of disease,disease
+disease/treatment status,disease
+chief disease,disease
+other diseases,disease
+lung disease,disease
+twin's disease state,disease
+source disease,disease
+lyme disease stage,disease
+dead of disease,disease
+celiac disease,disease
+advanced disease stage,disease
+chronic diseases,disease
+residual disease,disease
+disease-resistance,disease
+ocular disease,disease
+advanced disease state,disease
+clinical disease stage,disease
+source disease status,disease
+patient disease status,disease
+disease resistance,disease
+residual disease (cm),disease
+hiv disease status,disease
+donor disease state,disease
+meibomian gland disease state,disease
+etiology of liver disease,disease
+status of disease,disease
+duration of disease (month),disease
+stage of disease,disease
+stage of disease (inss),disease
+duration of disease,disease
+extent of disease,disease
+12q13 genotype rs7136702,genotype
+9q24 genotype rs10975552,genotype
+15q13 genotype rs4779584,genotype
+10p14 genotype rs706771,genotype
+rs5995355 genotype,genotype
+20p12 genotype rs50005940,genotype
+nod2 genotype,genotype
+16q22 genotype rs2059254,genotype
+8q24 genotype rs10505477,genotype
+8q24 genotype rs7014346,genotype
+12q13 genotype rs11169544,genotype
+hemoglobin genotype,genotype
+pool genotype,genotype
+individual genotype,genotype
+8q23 genotype rs16892766,genotype
+18q21 genotype rs7226855,genotype
+20q13 genotype rs4925386,genotype
+nqo1 rs1800566 genotype,genotype
+rs7575840 genotype,genotype
+1q41 genotype rs6691195,genotype
+rs1333049 genotype,genotype
+rs7956957 genotype,genotype
+8q24 genotype rs6983267,genotype
+14q22 genotype rs11623717,genotype
+1q41 genotype rs11579490,genotype
+lrrk2 genotype,genotype
+rnasel r462q genotype,genotype
+3q26 genotype rs12638862,genotype
+genotype/varitaion,genotype
+genotype/variaton,genotype
+maternal genotype/variation,genotype
+genotype/varat,genotype
+pathogen genotype/variation,genotype
+genotype/variataion,genotype
+genotype/variations,genotype
+genotype/ variation,genotype
+genotype/varation,genotype
+parental genotype/variation,genotype
+cmv genotype/variation,genotype
+host genotype/variation,genotype
+paternal genotype/variation,genotype
+genotype/background,genotype
+rb genotype/variation,genotype
+genotype/variaion,genotype
+tissue genotype/variation,genotype
+genotype/variation,genotype
+genotype/variation (host),genotype
+genotype/varaiation,genotype
+genotype/variation (offspring),genotype
+genotype p53,genotype
+genotype(breed),genotype
+genotype = gs(1)n441 (mat,genotype
+genotype of pollen,genotype
+genotype icsbp1,genotype
+genotypes,genotype
+genotype.variation,genotype
+genotype of the cells,genotype
+genotype (transgenic line),genotype
+genotype,genotype
+genotype/ecotype,genotype
+genotyped sex,genotype
+genotype/genetic variation,genotype
+genotype reference,genotype
+genotype (brdt),genotype
+genotype of ecat15-1,genotype
+genotype rb,genotype
+genotype abbreviation,genotype
+genotype of ecat15-2,genotype
+genotype variation,genotype
+plant genotype,genotype
+hd genotype,genotype
+transgene genotype,genotype
+host soybean genotype,genotype
+backgroud genotype,genotype
+esr1 genotype,genotype
+atf2 genotype,genotype
+infection (e. coli genotype),genotype
+meis1 genotype,genotype
+background genotype,genotype
+brca genotype,genotype
+idh1/2 genotype,genotype
+th-mycn mouse genotype,genotype
+myostatin genotype,genotype
+sdad2 genotype,genotype
+spea2 genotype,genotype
+offspring genotype,genotype
+precipitated ctcf genotype,genotype
+braf genotype,genotype
+host genotype,genotype
+tet2 genotype,genotype
+strain genotype,genotype
+genotype/treatment,genotype
+rb1 genotype,genotype
+hcv genotype,genotype
+il4r genotype,genotype
+per3 genotype,genotype
+host/mouse genotype,genotype
+bacterial genotype,genotype
+prdm1 genotype,genotype
+hla-dqb1 genotype,genotype
+mecp2 genotype,genotype
+apoe genotype,genotype
+hal genotype,genotype
+tbx1 genotype,genotype
+e2f1 genotype,genotype
+hdh genotype,genotype
+maternal genotype,genotype
+relevant genotype,genotype
+gp130 genotype,genotype
+a.thaliana genotype,genotype
+mouse genotype,genotype
+ndrg1 genotype,genotype
+survival time (months),time
+rna degradation time,time
+10years followup time (months),time
+circadian time,time
+survival time (month),time
+hybridization time,time
+bddm followup time (months),time
+survival time in months,time
+circadian time point,time
+circadian time (ct),time
+sulfur deprivation time,time
+drug treatment time,time
+4-thiouracil labeling time,time
+partial hepatectomy time point,time
+hcg treatment time,time
+meiotic time point,time
+growth time points,time
+light timepoint,time
+virus replication time,time
+il4 stimulation time,time
+growth time,time
+drug treatment time point,time
+meiotic timepoint,time
+metastasis time (month),time
+kcl treatment time (hours),time
+tnfa treatment time point,time
+sirna treatment time point,time
+nitrogen starvation time,time
+overall survival time_days,time
+cell harvest time,time
+collection timepoint,time
+cross-linking time,time
+continuous light time,time
+mnase digestion time,time
+collected time,time
+cell collection time,time
+collection time,time
+conjugation time,time
+cell sorting time,time
+overall survival time,time
+4su labeling time,time
+pos-harvest time,time
+timepoint/developmental stage,time
+postnatal time-point,time
+evolution time (years),time
+post-injury time,time
+post-infection time points,time
+post serum time point,time
+developmental time,time
+post-infection time,time
+developmental time point,time
+lps exposure time,time
+post-treatment time,time
+expression time hours,time
+event time (years),time
+post-mixing time,time
+post-exposure time,time
+post radiation time (hour),time
+incubation time (hours),time
+age/disease timepoint,time
+infection_control time,time
+incubation time,time
+diet intervention time,time
+injected timepoint,time
+infection time,time
+differentiation timepoint,time
+differentiation time days,time
+infection time (min),time
+injection timepoint,time
+differentiation time,time
+doubling time,time
+feeding time,time
+brain ph at time of freezing,time
+survival time (year),time
+survival time (years),time
+doubling time (hrs),time
+os time,time
+dfs time (yrs),time
+agent time,time
+fu time,time
+pfs time,time
+os time (years),time
+pfs time (years),time
+zt time,time
+dss time,time
+dfs time (months),time
+dmfs time,time
+dfs time,time
+dark timepoint,time
+dsn time,time
+time_after_resection,time
+ex vivo challenge time,time
+time of treatment,time
+follow up time (months),time
+time of treatment with fk866,time
+time after media shift,time
+follow-up time (months),time
+full time pregancy,time
+elapsed time,time
+treatment time,time
+treatment time-point,time
+culture time,time
+handling time,time
+treatment time (hours),time
+seizure time,time
+stress time,time
+relapse time,time
+cold ischemia time (hours),time
+culture time (hrs),time
+sk-mel-103 time,time
+treatment time (rhgaa),time
+cultivated time,time
+culture doubling time,time
+exposure time,time
+harvested time after dose,time
+harvest time,time
+harvest time point,time
+harvested at what time,time
+treatment time point,time
+cold ischemia time,time
+recovery time,time
+sacrifice time,time
+harvest time after exposure,time
+ischemic time (days),time
+treatment time(minutes),time
+reperfusion time,time
+treatement time,time
+induction time (hours),time
+induction time (h),time
+injection time,time
+stimulation time,time
+sampling date and time,time
+training timepoint,time
+sampling time (hours),time
+split ratio time 1,time
+fermentation time point,time
+hatching time,time
+sample time point,time
+fermentation time,time
+survival time,time
+sampling time point,time
+donation time,time
+extraction time,time
+survival time (days),time
+sampling timepoint,time
+induction time,time
+stimulation time and condition,time
+sporulation timepoint,time
+sample collection time,time
+transfection time,time
+ph<7.30 at time of diagnosis,time
+explant timepoint,time
+harvest timepoint,time
+time of sorting,time
+time interval fromc (months),time
+time course,time
+time of biopsy,time
+time period,time
+time clin rec,time
+time of death,time
+time sac,time
+time_point,time
+time biopsy to surgery (days),time
+time_to_metastasis (years),time
+time at 4ºc,time
+time of sampling,time
+time of hcmv infection,time
+time to outcome,time
+time of day,time
+time post bloodmeal,time
+time (months) overall survival,time
+time post-surgery,time
+time p.i.,time
+time post-stimulation,time
+time of pseudo-pregnancy,time
+age at the time of surgery,time
+time after treatment,time
+time_to_death (yr),time
+time of tamoxifen treatment,time
+time of growth,time
+time since lif removal,time
+time of sample collection,time
+time of followup (mo),time
+time (hr),time
+time after actd,time
+time trial,time
+time (days of dss treatment),time
+time point (hr),time
+time point in batch cycle,time
+time(weeks),time
+time until recurrence (years),time
+time to treatment (days),time
+timepoint (dpa),time
+time after lights on,time
+time (days post-treatment),time
+time (post-inoculation),time
+time after scale removal,time
+time period of attachment,time
+time bcr,time
+time (after crossing),time
+time_to_relapse (yr),time
+time stimulated with anti-igm,time
+time met rec,time
+time in meiosis,time
+time post-wound,time
+time post mcao before sample,time
+recurrence free time (months),time
+time sampled,time
+time of surgery,time
+time point,time
+time_to_relapse (years),time
+time (weeks of treatment),time
+time post vbg,time
+timetofirstszmin,time
+time to harvest,time
+time recovery (hour),time
+time after feeding,time
+time (d),time
+time (of harvest),time
+time point (minutes),time
+time (wpi),time
+time graft,time
+relapse free survival time,time
+time point after stress,time
+time reference,time
+time of sacrifice,time
+time point (visit),time
+time post-induction,time
+time point [c],time
+time in constant white light,time
+time-point,time
+time point (min),time
+time point (day),time
+time differentiated,time
+time of transfection,time
+time inject,time
+time [h],time
+time_to_progression,time
+time [hours],time
+time in meiosis (hr),time
+time (post-treatment),time
+time after lesion (days),time
+time (hours),time
+time.to.recurrence (years),time
+time (duration),time
+time post transplant,time
+time extraction,time
+time_to_dod_(months),time
+time clinical recurrence,time
+time (h) post-infection,time
+time after surgery,time
+timepoint (wks),time
+time pi (weeks),time
+timecollected,time
+time of exposure,time
+age at time of surgery,time
+time point (days),time
+time to distant metastasis,time
+time after inoculation,time
+time of exercise,time
+time after induction[days],time
+time.to.death (years),time
+time point (post-inoculation),time
+time2lr,time
+time under flooding (h),time
+time injected,time
+time (min.),time
+time (post-injection),time
+time (hpi),time
+time post-mrsa infection,time
+time (relative to induction),time
+time of harvest,time
+timesampletaken,time
+time since wetting,time
+time (hours after pollination),time
+time (days post-infection),time
+time rfs,time
+time,time
+time aed,time
+time of collection,time
+time submerged,time
+time (h),time
+timepoint (hrs),time
+time pfs (months),time
+time after induction,time
+time point (hrs),time
+time_hr_post_hypoxia,time
+time (minutes),time
+time to recurrence (years),time
+time after infection,time
+time since sample1 months,time
+time (incubation),time
+time post-vaccination,time
+time class,time
+time (post-protocol),time
+time in hrs,time
+time post-injection,time
+time of embryo collection,time
+time quit (@ initial consult),time
+time after h2o2 treatment,time
+time after injury (hours),time
+time (min),time
+time (post virus infection),time
+time post exposure,time
+time post-copulation,time
+time after isolation,time
+time [post-infection],time
+time(absolute),time
+time post surgery,time
+time no bcr,time
+time since meiosis started,time
+time measured post wounding,time
+time post-inoculation,time
+age time point,time
+time of cacrifice,time
+time after vaccination,time
+time (days),time
+time os (months),time
+time [days of culture],time
+time of gut bacteria,time
+time after es/ga (days),time
+time post infection,time
+time fter actd,time
+biopsy time,time
+time to outcomel,time
+time point (week end),time
+time post injury,time
+time metastatic recurrence,time
+time after adoptive transfer,time
+time_in_freezer,time
+time point after hepatectomy,time
+time on diet,time
+time post-immunization,time
+time points,time
+time post-perforation,time
+timepoint 4h treatment,time
+time before sampling,time
+time to survival,time
+time after induction [days],time
+time sample taken,time
+time in continuous light,time
+timepoints,time
+time (dpi),time
+time-to-progession (months),time
+time post-infection,time
+time (post amputation),time
+time after plating,time
+time of euthanasia,time
+time to hcc recurrence (days),time
+time of sample harvesting,time
+time post-dox,time
+time point post-infection,time
+time of differentiation,time
+time after transfection (hr),time
+time in spo (hours),time
+timepoint (weeks),time
+time exposure,time
+time after stimulation,time
+time post treatment,time
+timesincemating,time
+time point (hours),time
+time point (h),time
+time in culture,time
+time after exposure,time
+time (hrs),time
+time point (months),time
+time-points collected,time
+age at time of resection,time
+time pre_post surgery (years),time
+time (post-infection),time
+time of specimen collection,time
+time and stimulation,time
+time after infection (h),time
+time in fr light,time
+time sacrificed,time
+time(wpi),time
+time_hpi,time
+time of relapse,time
+time after injury,time
+time in entraining conditions,time
+time to death (mos),time
+tissue collection time,time
+time.to.ok,time
+timeunit,time
+time to next relapse(days),time
+time post transfection,time
+time to meta or recurrence,time
+time of progression,time
+time_rec (years),time
+time of atoh1 expression,time
+time post injection,time
+time post-treatment,time
+time (doxorubicin),time
+timepoint,time
+sample time after surgery,time
+sampling time group,time
+sampling time,time
+secondary time course,time
+sample time,time
+units of treatment time,time
+units of harvest time point,time
+time f/u,time
