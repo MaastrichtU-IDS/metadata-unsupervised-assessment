@@ -1,0 +1,45 @@
+id,key,key_class,#,(days),(hours),(months),(years),=,cell,collection,duration,free,genotype/variation,gestational,harvest,host,infection,line,mouse,patient,point,sample,source,timepoint,type
+3,huh7 cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+6,atcc cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+7,host cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,1.0156,0,1.14714,0,0,0,0,0,0,0
+11,es cell line type,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,1.092
+12,responder cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+13,stable cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+20,es cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+21,injected cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+23,leukemia cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+25,cell line source age,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,1.03677,0,0
+26,cell line stably expresses,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+28,cell line nih code,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+31,cell line specificity,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+32,cell line manufacturer,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+33,cell line source tissue,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,1.03677,0,0
+35,cell line source gender,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,1.03677,0,0
+43,cell line origin,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+44,cell line passage,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+46,cell line traits,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+47,cell line population,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+55,cell line derivation,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+57,cell line tissue source,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,1.03677,0,0
+58,cell line name,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+60,cell line(s),cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+67,cell line resistance,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+68,cell line/type,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,1.092
+69,cell line/genotype,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,1.092
+70,human colon cancer cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+73,origin of a cell line,cell line,0,0,0,0,0,0,1.22031,0,0,0,0,0,0,0,0,1.14714,0,0,0,0,0,0,0
+141,tissue_code,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,source gender,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.03677,0,0
+304,age at sampling,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,donor age,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,embryo age,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,infant age,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,transgenic strain,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,strain source,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.03677,0,0
+883,small molecule treatment,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+955,treatment response in vivo,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+995,treatment description,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1120,residual disease (cm),no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1257,hcg treatment time,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1503,time after induction[days],no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1583,time in continuous light,no cell line,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

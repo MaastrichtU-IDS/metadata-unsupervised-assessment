@@ -1,0 +1,137 @@
+key,key_class,class,probability
+order of treatment,treatment,treatment,0.560933
+vernalization treatment,treatment,treatment,0.560933
+time (days of dss treatment),treatment,treatment,0.560933
+period of treatment,treatment,treatment,0.560933
+euthanasia day post treatment,treatment,treatment,0.560933
+day of dox treatment,treatment,treatment,0.560933
+weeks after treatment,treatment,treatment,0.560933
+time (weeks of treatment),treatment,treatment,0.560933
+dac treatment,treatment,treatment,0.560933
+nature of treatment,treatment,treatment,0.560933
+valproate treatment,treatment,treatment,0.560933
+ddc treatment,treatment,treatment,0.560933
+oligo treatment,treatment,treatment,0.560933
+plant treatment,treatment,treatment,0.560933
+units of treatment repeat,treatment,treatment,0.560933
+b12 treatment,treatment,treatment,0.560933
+h2o2 treatment level,treatment,treatment,0.560933
+post-dac treatment,treatment,treatment,0.560933
+ms treatment,treatment,treatment,0.560933
+dna treatment,treatment,treatment,0.560933
+hours treatment,treatment,treatment,0.560933
+h2o2 treatment,treatment,treatment,0.560933
+lps treatment (time),treatment,treatment,0.560933
+heat treatment,treatment,treatment,0.560933
+tet1/tet2 treatment,treatment,treatment,0.560933
+treatment_dose_u/ml,treatment,treatment,0.560933
+cancer treatment,treatment,treatment,0.560933
+imatinib treatment,treatment,treatment,0.560933
+cytokine treatment,treatment,treatment,0.560933
+bioremediation treatment,treatment,treatment,0.560933
+treatment/growth condition,treatment,treatment,0.560933
+sirna treatment group,treatment,treatment,0.560933
+transfection or treatment,treatment,treatment,0.560933
+vaccine treatment,treatment,treatment,0.560933
+compound based treatment,treatment,treatment,0.560933
+hygromycin treatment,treatment,treatment,0.560933
+ca04 or pbs treatment,treatment,treatment,0.560933
+c local treatment,treatment,treatment,0.560933
+time of treatment,treatment,treatment,0.560933
+chemical treatment condition,treatment,treatment,0.560933
+rnase treatment,treatment,treatment,0.560933
+bisulfite treatment of rna,treatment,treatment,0.560933
+doxycycline treatment,treatment,treatment,0.560933
+transcription factor treatment,treatment,treatment,0.560933
+cell treatment,treatment,no treatment,0.93713
+chamber treatment,treatment,treatment,0.560933
+secondary treatment,treatment,treatment,0.560933
+treatment regimen,treatment,treatment,0.560933
+treatment period,treatment,treatment,0.560933
+treatment response in vitro,treatment,treatment,0.560933
+treatment response in vivo,treatment,treatment,0.560933
+treatment length,treatment,treatment,0.560933
+treatment concentration,treatment,treatment,0.560933
+treatment dosage,treatment,treatment,0.560933
+treatment [c],treatment,treatment,0.560933
+treatment pairs,treatment,treatment,0.560933
+treatment exposure,treatment,treatment,0.560933
+treatment time(minutes),treatment,treatment,0.560933
+treatment state,treatment,treatment,0.560933
+treatment condition,treatment,treatment,0.560933
+treatment code,treatment,treatment,0.560933
+treatment,treatment,treatment,0.560933
+nrti treatment status,treatment,treatment,0.560933
+treatment batch,treatment,treatment,0.560933
+treatment category,treatment,treatment,0.560933
+treatment description,treatment,treatment,0.560933
+treatment amount [c],treatment,treatment,0.560933
+treatment arm,treatment,treatment,0.560933
+treatment delivery,treatment,treatment,0.560933
+treatments comments,treatment,treatment,0.560933
+treatment (chemo),treatment,treatment,0.560933
+treatment response,treatment,treatment,0.560933
+original tissue source,no treatment,treatment,0.560933
+harvested tissue type,no treatment,no treatment,0.810709
+tissue separation,no treatment,treatment,0.560933
+tissue (group),no treatment,treatment,0.560933
+tissue diagnosis,no treatment,no treatment,0.702488
+donor gender,no treatment,treatment,0.560933
+subject gender,no treatment,treatment,0.560933
+age harvested (days),no treatment,treatment,0.560933
+age of  culture,no treatment,treatment,0.560933
+age quit smoking,no treatment,treatment,0.560933
+age at onset,no treatment,treatment,0.560933
+age on study,no treatment,treatment,0.560933
+age (at weaning),no treatment,treatment,0.560933
+gestational age (wks),no treatment,treatment,0.560933
+gestational age at delivery,no treatment,treatment,0.560933
+donor's age,no treatment,treatment,0.560933
+subject age,no treatment,treatment,0.560933
+age at dx,no treatment,treatment,0.560933
+age (month) at surgery,no treatment,treatment,0.560933
+fetus age,no treatment,treatment,0.560933
+serum culture age,no treatment,treatment,0.560933
+b virus strain,no treatment,treatment,0.560933
+siv strain,no treatment,treatment,0.560933
+vaccine strain,no treatment,treatment,0.560933
+eri-1 mutant strain,no treatment,treatment,0.560933
+transgenic strain,no treatment,treatment,0.560933
+strain by4741 ptc3,no treatment,treatment,0.560933
+strain recipient,no treatment,treatment,0.560933
+strain or line,no treatment,treatment,0.560933
+strain [background],no treatment,no treatment,0.702506
+strain_description,no treatment,treatment,0.560933
+strain/accession,no treatment,treatment,0.560933
+infected with bacterial strain,no treatment,treatment,0.560933
+cell types,no treatment,no treatment,0.93713
+cultured cell type,no treatment,no treatment,0.93713
+cell line source gender,no treatment,no treatment,0.93713
+cell line specifics,no treatment,no treatment,0.93713
+cell line subpopulation,no treatment,no treatment,0.93713
+human leukemia cell line,no treatment,no treatment,0.93713
+virus isolation cell line,no treatment,no treatment,0.93713
+disease activity (das28_v1),no treatment,treatment,0.560933
+disease_severity,no treatment,treatment,0.560933
+trg disease state,no treatment,treatment,0.560933
+disease_status,no treatment,treatment,0.560933
+disease phase,no treatment,treatment,0.560933
+disease state (phenotype),no treatment,no treatment,0.810709
+aggressiveness of disease,no treatment,treatment,0.560933
+parental genotype/variation,no treatment,no treatment,0.810709
+genotype/variation (offspring),no treatment,no treatment,0.810709
+genotype p53,no treatment,no treatment,0.810709
+strain genotype,no treatment,no treatment,0.810709
+maternal genotype,no treatment,no treatment,0.810709
+survival time (months),no treatment,no treatment,0.840473
+partial hepatectomy time point,no treatment,no treatment,0.536064
+continuous light time,no treatment,treatment,0.560933
+mnase digestion time,no treatment,treatment,0.560933
+doubling time,no treatment,treatment,0.560933
+time clin rec,no treatment,treatment,0.560933
+time biopsy to surgery (days),no treatment,treatment,0.560933
+time post-stimulation,no treatment,treatment,0.560933
+time after treatment,no treatment,treatment,0.560933
+time of sample collection,no treatment,no treatment,0.856547
+time (post-treatment),no treatment,treatment,0.560933
+time after infection (h),no treatment,treatment,0.560933

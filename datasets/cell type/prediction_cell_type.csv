@@ -1,0 +1,21 @@
+key,key_class,class,probability
+cancer cell type,cell type,cell type,0.995404
+cell type derived from,cell type,cell type,0.995404
+background cell type,cell type,cell type,0.995404
+cell type (sorted),cell type,cell type,0.995404
+tumor cell type,cell type,cell type,0.995404
+sarcoma and primary cell type,cell type,cell type,0.995404
+test cell type,cell type,cell type,0.995404
+t cell type,cell type,cell type,0.995404
+b cell type,cell type,cell type,0.995404
+cultured cell type,cell type,cell type,0.989207
+tissue storage,no cell type,no cell type,0.997782
+gender (mouse),no cell type,no cell type,0.997782
+age at blood draw,no cell type,no cell type,0.997782
+strain sr453,no cell type,no cell type,0.997782
+strain by4741-msn2,no cell type,no cell type,0.997782
+post-dac treatment,no cell type,no cell type,0.997782
+gefitinib treatment,no cell type,no cell type,0.997782
+treatment arm,no cell type,no cell type,0.997782
+origin of a cell line,no cell type,cell type,0.930106
+transgene genotype,no cell type,no cell type,0.952418

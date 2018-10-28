@@ -1,0 +1,110 @@
+key,key_class,class,probability
+pathogen strain,strain,strain,0.587659
+hcmv strain,strain,strain,0.587659
+host strain background,strain,strain,0.99873
+pythium strain,strain,strain,0.587659
+ehec strain,strain,strain,0.587659
+reference strains,strain,strain,0.587659
+vaccine strain,strain,strain,0.587659
+bacteria strain,strain,strain,0.587659
+host mouse strain,strain,strain,0.999999
+immune strain/background,strain,strain,0.587659
+host/mouse strain,strain,strain,0.999999
+m. tuberculosis strain,strain,strain,0.587659
+equivalent strain name,strain,strain,0.587659
+rrf-3 mutant strain,strain,strain,0.587659
+jackson lab. strain,strain,strain,0.587659
+background mouse strain,strain,strain,0.999351
+toxoplasma parasite strain,strain,strain,0.587659
+human cytomegalovirus strain,strain,strain,0.587659
+strain by4741 ptc51,strain,strain,0.587659
+strain/cell-line,strain,no strain,0.668785
+strain (cy5),strain,strain,0.587659
+strain of the clone,strain,strain,0.587659
+strain sr954,strain,strain,0.587659
+strain description,strain,strain,0.587659
+strain source,strain,strain,0.500028
+strain sr595,strain,strain,0.587659
+strain 877 = mata wpl-9pk,strain,strain,0.587659
+strain 3235 = scc1-pk3,strain,strain,0.587659
+strain of mouse,strain,strain,0.999351
+strain [background],strain,strain,0.587659
+strain (or line),strain,strain,0.70545
+strain sr1187,strain,strain,0.587659
+strain (host),strain,strain,0.99873
+strain genotype,strain,no strain,0.596293
+strain y3272,strain,strain,0.587659
+strain name,strain,strain,0.587659
+strain y3351,strain,strain,0.587659
+strain jam1,strain,strain,0.587659
+strain sr453,strain,strain,0.587659
+strain details,strain,strain,0.587659
+strain (donor),strain,strain,0.587659
+strain of paternal pronucleus,strain,strain,0.587659
+strain serotype,strain,no strain,0.596293
+strain.rep,strain,strain,0.587659
+strain by4741-rco1,strain,strain,0.587659
+strain by4741-ume6,strain,strain,0.587659
+strain crl,strain,strain,0.587659
+strain/isolate,strain,strain,0.587659
+infected with bacterial strain,strain,strain,0.587659
+4 months tissue,no strain,strain,0.587659
+tissue origination,no strain,strain,0.587659
+tissue histology,no strain,strain,0.587659
+tissue extraction,no strain,strain,0.587659
+tissue genotype/variation,no strain,no strain,0.999998
+strain c57bl/6 gender,no strain,strain,0.587659
+ma6 gender,no strain,strain,0.587659
+recipient gender,no strain,strain,0.587659
+donor's  gender,no strain,strain,0.587659
+age at examination,no strain,strain,0.587659
+age of ffpe tissue,no strain,strain,0.587659
+age of sampling,no strain,strain,0.587659
+mother's age (years),no strain,no strain,0.999308
+age at death (in years),no strain,strain,0.587659
+ageofoperation,no strain,strain,0.587659
+agenotype,no strain,no strain,0.596293
+age at onset,no strain,strain,0.587659
+160!!!,no strain,strain,0.587659
+op bone age,no strain,strain,0.587659
+cell line source age,no strain,no strain,0.742094
+age at dx (years),no strain,no strain,0.999308
+mean age years (range),no strain,strain,0.587659
+mc2 age,no strain,strain,0.587659
+treatment start age,no strain,no strain,0.974705
+starting age,no strain,no strain,0.974705
+duration of il-6 treatment,no strain,no strain,0.999308
+ntg treatment,no strain,strain,0.587659
+lps treatment (time),no strain,strain,0.587659
+treatment/sample type,no strain,no strain,0.596293
+immunogen treatment,no strain,strain,0.587659
+acidification treatment,no strain,strain,0.587659
+treatment_category,no strain,strain,0.587659
+treatment group,no strain,strain,0.587659
+treatment of the mice,no strain,strain,0.587659
+treatment_time[hr],no strain,strain,0.587659
+leukemia cell line,no strain,no strain,0.668785
+ovarian cancer cell line,no strain,no strain,0.668785
+age at disease onset,no strain,strain,0.587659
+disease state,no strain,strain,0.587659
+meibomian gland disease state,no strain,strain,0.587659
+pathogen genotype/variation,no strain,no strain,0.999998
+rna degradation time,no strain,strain,0.587659
+survival time in months,no strain,strain,0.587659
+meiotic timepoint,no strain,no strain,0.999308
+mnase digestion time,no strain,strain,0.587659
+postnatal time-point,no strain,no strain,0.999999
+time after media shift,no strain,strain,0.587659
+culture time,no strain,no strain,0.99887
+harvest time point,no strain,no strain,1
+treatment time point,no strain,no strain,0.999308
+time_point,no strain,no strain,0.999308
+time stimulated with anti-igm,no strain,strain,0.587659
+time point (day),no strain,no strain,0.999308
+time point (days),no strain,no strain,0.999999
+age time point,no strain,no strain,0.999308
+time (days),no strain,no strain,0.997224
+time after induction [days],no strain,no strain,0.997224
+time point (months),no strain,no strain,1
+time after injury,no strain,strain,0.587659
+time in entraining conditions,no strain,strain,0.587659

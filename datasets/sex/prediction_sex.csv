@@ -1,0 +1,18 @@
+key,key_class,class,probability
+ctl bone 64 years  sex,sex,sex,0.620629
+patient sex,sex,sex,0.620629
+sexual differentiation,sex,sex,0.620629
+sex,sex,sex,0.620629
+sex of donor mice,sex,sex,0.620629
+sexual_orientation,sex,sex,0.620629
+sex chromosome complement,sex,sex,0.620629
+sex/age,sex,sex,0.620629
+sex/mating type,sex,no sex,0.501091
+tissue factor,no sex,sex,0.620629
+op bone age,no sex,sex,0.620629
+strain y3403,no sex,sex,0.620629
+rna treatment,no sex,sex,0.620629
+strain genotype,no sex,no sex,0.501091
+host/mouse genotype,no sex,no sex,0.501091
+time_to_relapse (yr),no sex,sex,0.620629
+time sacrificed,no sex,sex,0.620629

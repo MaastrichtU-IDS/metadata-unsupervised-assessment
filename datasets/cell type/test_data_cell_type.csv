@@ -1,0 +1,21 @@
+id,key,key_class,(days),(months),(y),(years),=,cell,collection,culture,diagnosis,duration,genotype/variation,gestational,harvest,human,infection,line,patient,point,sample,sampling,source,stage,timepoint,type
+1,cancer cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+11,cell type derived from,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+13,background cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+14,cell type (sorted),cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+15,tumor cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+20,sarcoma and primary cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+22,test cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+24,t cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+26,b cell type,cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+28,cultured cell type,cell type,0,0,0,0,0,1.22888,0,1.01836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562
+135,tissue storage,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,gender (mouse),no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,age at blood draw,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+655,strain sr453,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,strain by4741-msn2,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,post-dac treatment,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,gefitinib treatment,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,treatment arm,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1011,origin of a cell line,no cell type,0,0,0,0,0,1.22888,0,0,0,0,0,0,0,0,0,1.1347,0,0,0,0,0,0,0,0
+1202,transgene genotype,no cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06562

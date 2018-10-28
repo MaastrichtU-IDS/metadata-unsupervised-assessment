@@ -1,0 +1,45 @@
+key,key_class,class,probability
+9q24 genotype rs10975552,genotype,genotype,0.983734
+8q24 genotype rs7014346,genotype,genotype,0.983734
+hemoglobin genotype,genotype,genotype,0.983734
+20q13 genotype rs4925386,genotype,genotype,0.983734
+1q41 genotype rs6691195,genotype,genotype,0.983734
+8q24 genotype rs6983267,genotype,genotype,0.983734
+14q22 genotype rs11623717,genotype,genotype,0.983734
+lrrk2 genotype,genotype,genotype,0.983734
+genotype/variations,genotype,genotype,0.999445
+parental genotype/variation,genotype,genotype,0.999445
+genotype/background,genotype,genotype,0.983734
+tissue genotype/variation,genotype,genotype,0.999445
+genotype(breed),genotype,genotype,0.983734
+genotype of ecat15-2,genotype,genotype,0.983734
+plant genotype,genotype,genotype,0.983734
+host soybean genotype,genotype,genotype,0.983734
+esr1 genotype,genotype,genotype,0.983734
+atf2 genotype,genotype,genotype,0.983734
+meis1 genotype,genotype,genotype,0.983734
+background genotype,genotype,genotype,0.983734
+idh1/2 genotype,genotype,genotype,0.983734
+sdad2 genotype,genotype,genotype,0.983734
+braf genotype,genotype,genotype,0.983734
+genotype/treatment,genotype,genotype,0.983734
+hla-dqb1 genotype,genotype,genotype,0.983734
+mecp2 genotype,genotype,genotype,0.983734
+apoe genotype,genotype,genotype,0.983734
+tbx1 genotype,genotype,genotype,0.983734
+e2f1 genotype,genotype,genotype,0.983734
+a.thaliana genotype,genotype,genotype,0.983734
+source  tissue,no genotype,no genotype,0.999612
+tissue weigth,no genotype,no genotype,0.997959
+age (in years),no genotype,no genotype,0.997959
+control strain o157,no genotype,no genotype,0.997959
+eri-1 mutant strain,no genotype,no genotype,0.997959
+strain 3235 = scc1-pk3,no genotype,no genotype,0.997959
+5-aza-c treatment,no genotype,no genotype,0.997959
+kcl treatment time (hours),no genotype,no genotype,0.997959
+immunogen treatment,no genotype,no genotype,0.997959
+cell line/cell type,no genotype,genotype,0.934158
+status of disease,no genotype,no genotype,0.997959
+conjugation time,no genotype,no genotype,0.997959
+treatment time (rhgaa),no genotype,no genotype,0.997959
+time post-inoculation,no genotype,no genotype,0.999826

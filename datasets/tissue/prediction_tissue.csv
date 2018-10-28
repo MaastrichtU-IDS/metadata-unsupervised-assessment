@@ -1,0 +1,71 @@
+key,key_class,class,probability
+# of tissue = 36 tissue,tissue,no tissue,0.515236
+# of tissue = 1 tissue,tissue,no tissue,0.515236
+# of tissue = 42 tissue,tissue,no tissue,0.515236
+8 weeks. tissue,tissue,no tissue,0.515236
+tumor tissue,tissue,no tissue,0.515236
+gingival tissue phenotype,tissue,tissue,0.506114
+original tissue,tissue,no tissue,0.515236
+origin tissue,tissue,no tissue,0.515236
+landrace tissue,tissue,no tissue,0.515236
+primary tissue,tissue,no tissue,0.515236
+tissue separation,tissue,no tissue,0.515236
+tissue & age,tissue,no tissue,0.515236
+tissue,tissue,no tissue,0.515236
+tissue/treatment id,tissue,no tissue,0.515236
+tissue site,tissue,no tissue,0.515236
+tissue processing,tissue,no tissue,0.515236
+tissue treatment,tissue,no tissue,0.515236
+tissue.origin,tissue,no tissue,0.515236
+tissue grade,tissue,no tissue,0.515236
+tissues,tissue,no tissue,0.515236
+tissue (brain region),tissue,no tissue,0.515236
+tissue status,tissue,no tissue,0.999208
+tissue_source,tissue,tissue,0.895007
+tissue (group),tissue,no tissue,0.515236
+tissuetype,tissue,tissue,0.506114
+tissue (pup),tissue,no tissue,0.515236
+tissue archive,tissue,no tissue,0.515236
+tissue typ,tissue,no tissue,0.515236
+tissue preserve method,tissue,no tissue,0.515236
+tissue sample,tissue,tissue,0.999167
+tissue collection time,tissue,tissue,0.999198
+tissue storage,tissue,no tissue,0.515236
+tissue source site,tissue,tissue,0.895007
+tissue diagnosis,tissue,no tissue,0.515236
+tissue age,tissue,no tissue,0.515236
+tissue region enriched for,tissue,no tissue,0.515236
+tissue collection,tissue,tissue,0.999198
+tissue/sector,tissue,no tissue,0.515236
+tissue/cell preparation,tissue,tissue,0.674554
+tissue/development stage,tissue,tissue,0.999198
+ageatdiagnosis,no tissue,no tissue,0.515236
+age (yr),no tissue,no tissue,0.515236
+age at disease onset,no tissue,no tissue,0.515236
+age,no tissue,no tissue,0.515236
+embryo age,no tissue,no tissue,0.515236
+diagnosis age,no tissue,no tissue,0.515236
+source age,no tissue,tissue,0.895007
+proband age,no tissue,no tissue,0.515236
+fetus age,no tissue,no tissue,0.515236
+strain 1785,no tissue,no tissue,0.515236
+strain/line,no tissue,no tissue,0.754657
+host cell type,no tissue,tissue,0.69302
+bl treatment level,no tissue,no tissue,0.515236
+chloride treatment,no tissue,no tissue,0.515236
+treatment_protocol,no tissue,no tissue,0.515236
+cell sex,no tissue,tissue,0.674554
+diseasestatus,no tissue,no tissue,0.999208
+patient disease status,no tissue,no tissue,0.999208
+3q26 genotype rs12638862,no tissue,tissue,0.506114
+transgene genotype,no tissue,tissue,0.506114
+th-mycn mouse genotype,no tissue,tissue,0.506114
+spea2 genotype,no tissue,tissue,0.506114
+elapsed time,no tissue,no tissue,0.515236
+time of hcmv infection,no tissue,no tissue,0.515236
+time trial,no tissue,no tissue,0.515236
+time.to.recurrence (years),no tissue,no tissue,0.995966
+time clinical recurrence,no tissue,no tissue,0.515236
+time of exercise,no tissue,no tissue,0.515236
+age time point,no tissue,no tissue,0.998983
+time (post amputation),no tissue,no tissue,0.998431

@@ -1,0 +1,160 @@
+key,key_class,predicted_class,probability
+age (1#pfu_1),age,age,0.571153
+age of epilepsy duration (yr),age,age,0.571153
+age of rat,age,age,0.571153
+age of mouse,age,age,0.571153
+age at diagnosis,age,age,0.864461
+age at primary diagnosis,age,age,0.864461
+age of ffpe tissue,age,age,0.571153
+age of biopsy,age,age,0.571153
+age at death (in years),age,age,0.571153
+age_at_diagnosis,age,age,0.864461
+average age,age,age,0.571153
+age (after birth),age,age,0.571153
+age high salt diet commenced,age,age,0.571153
+age at blood drawing (months),age,age,0.568609
+age at surgery,age,age,0.571153
+development age,age,age,0.571153
+ageofoperation,age,age,0.571153
+age  (months),age,age,0.568609
+age (pn postnatal days),age,no age,0.615348
+age at metastases,age,age,0.571153
+age of diagnosis,age,age,0.864461
+age at tumor,age,age,0.571153
+age at dx in days,age,age,0.571153
+age at death,age,age,0.571153
+age_at_blooddraw,age,age,0.571153
+age (bin),age,age,0.571153
+age at infection (yrs),age,age,0.571153
+age.at.diagnosis,age,age,0.864461
+agestatus,age,age,0.571153
+agedecade,age,age,0.571153
+age_tx,age,age,0.571153
+age_enroll,age,age,0.571153
+age (yr),age,age,0.571153
+age at first birth,age,age,0.571153
+age (months),age,age,0.568609
+age at 2nd diagnosis,age,age,0.864461
+age (at weaning),age,age,0.571153
+age diagnosis,age,age,0.864461
+age of woman [years],age,age,0.571153
+age of onset (years),age,age,0.796664
+age bin,age,age,0.571153
+age sacrificed,age,age,0.571153
+age,age,age,0.571153
+gestational age at delivery,age,age,0.571153
+diagnosis age,age,age,0.864461
+patient age,age,age,0.99931
+donor's age,age,age,0.571153
+gestational age of pups,age,age,0.571153
+ma3 age,age,age,0.571153
+mc5 age,age,age,0.571153
+in a diurnal environment. age,age,age,0.571153
+age at enrollment (years),age,age,0.796664
+age at the time of surgery,age,age,0.571153
+age at time of surgery,age,age,0.571153
+age at onset (years),age,age,0.796664
+age at dx (years),age,age,0.796664
+age at excision (years),age,age,0.796664
+mutant age,age,age,0.571153
+ma5 age,age,age,0.571153
+mean age in days,age,age,0.571153
+mean age years (range),age,age,0.571153
+mc4 age,age,age,0.571153
+mouse age,age,age,0.571153
+fetus age,age,age,0.571153
+ma1 age,age,age,0.571153
+sample age group,age,age,0.999999
+maternal age,age,age,0.571153
+treatment age,age,age,0.571153
+not current age,age,age,0.571153
+serum culture age,age,age,0.796477
+# of tissue = 40 tissue,no age,age,0.571153
+8 weeks. tissue,no age,age,0.571153
+brain tissue,no age,age,0.571153
+tissue subtype,no age,no age,0.912133
+tissue processing,no age,age,0.571153
+tissue.origin,no age,no age,0.996736
+tissue preservation,no age,age,0.571153
+tissues,no age,age,0.571153
+tissue status,no age,age,0.571153
+tissue sample,no age,age,0.999304
+tissuebank,no age,age,0.571153
+gender of the clone,no age,age,0.571153
+gender composition,no age,age,0.571153
+gender (1#pfu_2),no age,age,0.571153
+ma2 gender,no age,age,0.571153
+strain gender,no age,age,0.571153
+recipient strain,no age,age,0.571153
+insect strain,no age,age,0.571153
+parental strain,no age,age,0.571153
+eri-1 mutant strain,no age,age,0.571153
+strain (or line),no age,no age,0.565484
+strain origin,no age,no age,0.996736
+strain (rat),no age,age,0.571153
+strain name,no age,age,0.571153
+strain of ooplasm,no age,age,0.571153
+strain by4741-msn2,no age,age,0.571153
+strain yjdi381 gal1-taf1,no age,age,0.571153
+strain.rep,no age,age,0.571153
+virus strain,no age,age,0.571153
+infection (virus strain),no age,age,0.571153
+infrequent clonal strain code,no age,age,0.571153
+tumor cell type,no age,no age,0.97735
+time post treatment,no age,no age,0.615348
+duration of il-6 treatment,no age,age,0.571153
+oligo treatment,no age,age,0.571153
+chx treatment,no age,age,0.571153
+h2o2 treatment,no age,age,0.571153
+drug treatment,no age,age,0.571153
+gefitinib treatment,no age,age,0.571153
+maternal treatment group,no age,age,0.999222
+response to tzd treatment,no age,age,0.571153
+chemical treatment condition,no age,age,0.571153
+cell treatment,no age,no age,0.757344
+treatment_1,no age,age,0.571153
+treatment (short label),no age,age,0.571153
+treatment_category,no age,age,0.571153
+treatment 1,no age,age,0.571153
+treatment delivery,no age,age,0.571153
+host cell line,no age,no age,0.843985
+es cell line type,no age,no age,0.986806
+stable cell line,no age,no age,0.843985
+es cell line,no age,no age,0.843985
+source cell line,no age,no age,0.843985
+virus isolation cell line,no age,no age,0.843985
+disease,no age,age,0.571153
+dead of disease,no age,age,0.571153
+8q24 genotype rs10505477,no age,no age,0.912133
+hemoglobin genotype,no age,no age,0.912133
+genotype.variation,no age,no age,0.912133
+genotype of ecat15-1,no age,no age,0.912133
+genotype rb,no age,no age,0.912133
+brca genotype,no age,no age,0.912133
+rb1 genotype,no age,no age,0.912133
+survival time (months),no age,age,0.568609
+10years followup time (months),no age,age,0.568609
+survival time (month),no age,age,0.571153
+partial hepatectomy time point,no age,no age,0.749932
+lps exposure time,no age,age,0.571153
+injection timepoint,no age,no age,0.749932
+fu time,no age,age,0.571153
+os time (years),no age,age,0.796664
+time of treatment,no age,age,0.571153
+treatment time point,no age,no age,0.749932
+stimulation time,no age,age,0.571153
+donation time,no age,age,0.571153
+sporulation timepoint,no age,no age,0.749932
+explant timepoint,no age,no age,0.749932
+time of sorting,no age,age,0.571153
+time of biopsy,no age,age,0.571153
+time post-surgery,no age,no age,0.615348
+time until recurrence (years),no age,age,0.796664
+time met rec,no age,age,0.571153
+time after feeding,no age,age,0.571153
+time (post-treatment),no age,no age,0.615348
+time class,no age,age,0.571153
+time after exposure,no age,age,0.571153
+time and stimulation,no age,age,0.571153
+time of relapse,no age,age,0.571153
+timeunit,no age,age,0.571153

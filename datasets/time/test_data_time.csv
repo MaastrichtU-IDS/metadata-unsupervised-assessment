@@ -1,0 +1,255 @@
+id,key,key_class,(hours),(months),(years),(yrs),cell,host,line,mouse,point,post,recipient,source,stage,status,surgery,survival,type
+1,rna degradation time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,10years followup time (months),time,0,1.01757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,survival time in months,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01616,0
+12,4-thiouracil labeling time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,partial hepatectomy time point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+15,meiotic time point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+16,growth time points,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+19,il4 stimulation time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,metastasis time (month),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,nitrogen starvation time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,overall survival time_days,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01616,0
+31,cross-linking time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,mnase digestion time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,collection time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,overall survival time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01616,0
+42,timepoint/developmental stage,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,1.02381,0,0,0,0
+44,evolution time (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,post serum time point,time,0,0,0,0,0,0,0,0,1.04341,1.03162,0,0,0,0,0,0,0
+48,developmental time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,post-infection time,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+50,developmental time point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+56,post-exposure time,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+59,age/disease timepoint,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+60,infection_control time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,diet intervention time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,infection time (min),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,brain ph at time of freezing,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,os time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,os time (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,sk-mel-103 time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,treatment time (rhgaa),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,cultivated time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,culture doubling time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,harvest time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,harvest time point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+120,recovery time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,sacrifice time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,harvest time after exposure,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,treatment time(minutes),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,reperfusion time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,treatement time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,induction time (hours),time,1.02372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,induction time (h),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,stimulation time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,training timepoint,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+141,donation time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,survival time (days),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01616,0
+148,sample collection time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,harvest timepoint,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+153,time of sorting,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,time clin rec,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,time_point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+163,time_to_metastasis (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,time of sampling,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,time to outcome,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,time post bloodmeal,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+178,time of tamoxifen treatment,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,time of growth,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,time of followup (mo),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,time until recurrence (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,time after scale removal,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,time met rec,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,time post-wound,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+205,time post mcao before sample,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+207,time sampled,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,time_to_relapse (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,time (weeks of treatment),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,timetofirstszmin,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,time to harvest,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,time of sacrifice,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,time post-induction,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+228,time point [c],time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+229,time in constant white light,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,time point (min),time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+232,time point (day),time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+233,time differentiated,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,time in meiosis (hr),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,time (post-treatment),time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+241,time after lesion (days),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,time.to.recurrence (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,time_to_dod_(months),time,0,1.01757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,time after surgery,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.02372,0,0
+259,time of exercise,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,time.to.death (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,time2lr,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,time injected,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,time (post-injection),time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+270,time (relative to induction),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,time (hours after pollination),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,time post-injection,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+304,time post-copulation,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+306,time [post-infection],time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+309,time no bcr,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,time since meiosis started,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,time post-inoculation,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+313,age time point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+316,time (days),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,time of gut bacteria,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,time post infection,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+324,time to outcomel,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,time post injury,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+327,time metastatic recurrence,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,time after adoptive transfer,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,time_in_freezer,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,time on diet,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,time before sampling,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,time to survival,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01616,0
+339,time sample taken,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,time in continuous light,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,time after plating,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,time of differentiation,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,time point (hours),time,1.02372,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+363,time after exposure,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,time point (months),time,0,1.01757,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+366,time-points collected,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+367,age at time of resection,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,time and stimulation,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,time after injury,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,time to death (mos),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,tissue collection time,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,time.to.ok,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,timeunit,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,time to next relapse(days),time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,time of progression,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,time_rec (years),time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,time of atoh1 expression,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,time post injection,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+391,time post-treatment,time,0,0,0,0,0,0,0,0,0,1.03162,0,0,0,0,0,0,0
+394,sample time after surgery,time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.02372,0,0
+400,units of harvest time point,time,0,0,0,0,0,0,0,0,1.04341,0,0,0,0,0,0,0,0
+409,# of tissue = 38 tissue,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,age of ffpe tissue,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,tissue factor,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,tissue_biological,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,tissue isolated,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,tissue type,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+467,tissue region,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,tissue [transplant],no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,tissue sub-type,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+507,tissue source site,no time,0,0,0,0,0,0,0,0,0,0,0,1.01406,0,0,0,0,0
+521,tissue state,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,tissue harvest methods,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,tissue/cell line [c],no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+548,gender of human sera,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,mc4 gender,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,ma5 gender,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,donor's  gender,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,age of mouse,no time,0,0,0,0,0,0,0,1.01591,0,0,0,0,0,0,0,0,0
+615,mother's age (years),no time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,maternal age (year),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+628,age at sampling,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,age (after birth),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,age (days),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,age at sample (months),no time,0,1.01757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,age at blood drawing (months),no time,0,1.01757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+660,age unit,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,age and tissue,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,agenotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+709,age at infection (yrs),no time,0,0,0,1.01816,0,0,0,0,0,0,0,0,0,0,0,0,0
+717,agender,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,age at infection,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+734,age of blood draw,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+736,age (in years),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,agegroup,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,age 4-7 years,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+766,age diagnosis,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+801,final age at death,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,subject age (years),no time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+808,op bone age,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+810,subject age,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+824,age (at the end of treatment),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,age at onset (years),no time,0,0,1.02396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+867,age range,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+870,mean age,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+884,vitis (41528 population) - age,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,listeria strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,parent strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+909,fish strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+917,evolved strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,bacteria strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+940,rrf-3 mutant strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+944,eri-1 mutant strain,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+969,strain sr957,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1009,strain (rat),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1016,strain b6(%),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1017,strain jam1,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1023,strain phenotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1033,strain (donor),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1045,strain.rep,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1050,strain y3650,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1071,cell type/line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,1.05877
+1072,cell type (immunophenotype),no time,0,0,0,0,1.2482,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1078,cell type derived from,no time,0,0,0,0,1.2482,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1080,background cell type,no time,0,0,0,0,1.2482,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1090,other cell types,no time,0,0,0,0,1.2482,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1095,cultured cell type,no time,0,0,0,0,1.2482,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1103,duration of treatment (hours),no time,1.02372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1116,weeks of treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1120,duration of treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1122,drug treatment time,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1127,nature of treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131,plant treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1140,bl treatment level,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1164,in vitro treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1179,tet1/tet2 treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1188,imatinib treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1204,treatment/sample type,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1210,globin treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1215,hygromycin treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1221,dopamine-agonists treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1231,myo-inositol treatment,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1277,treatment_2,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1279,treatment response in vivo,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1314,treatment variable,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1317,treatment status,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01701,0,0,0
+1320,treatment of mouse,no time,0,0,0,0,0,0,0,1.01591,0,0,0,0,0,0,0,0,0
+1323,treatment amount [c],no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1328,treatment delivery,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1333,treatment dose,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1339,treatment compound,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1343,huh7 cell line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1344,hybrid cell line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1346,atcc cell line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1347,host cell line,no time,0,0,0,0,1.2482,1.02381,1.15797,0,0,0,0,0,0,0,0,0,0
+1361,injected cell line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1369,cell line background,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1377,cell line ebv-status,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,1.01701,0,0,0
+1379,cell line stably expressing,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1385,cell line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1393,cell line subpopulation,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1395,cell line derivation,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1404,cell line initiation date,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1417,virus isolation cell line,no time,0,0,0,0,1.2482,0,1.15797,0,0,0,0,0,0,0,0,0,0
+1460,disease_severity,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1468,disease free interval (months),no time,0,1.01757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1496,disease state (phenotype),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1513,chronic diseases,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1518,clinical disease stage,no time,0,0,0,0,0,0,0,0,0,0,0,0,1.02381,0,0,0,0
+1523,hiv disease status,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01701,0,0,0
+1533,12q13 genotype rs7136702,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1540,16q22 genotype rs2059254,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1548,18q21 genotype rs7226855,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1556,14q22 genotype rs11623717,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1577,tissue genotype/variation,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1607,esr1 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1608,atf2 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1609,infection (e. coli genotype),no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1613,idh1/2 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1616,sdad2 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1618,offspring genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1629,host/mouse genotype,no time,0,0,0,0,0,1.02381,0,1.01591,0,0,0,0,0,0,0,0,1.05877
+1633,mecp2 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1641,gp130 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877
+1644,ndrg1 genotype,no time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.05877

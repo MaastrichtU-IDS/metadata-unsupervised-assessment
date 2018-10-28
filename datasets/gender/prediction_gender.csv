@@ -1,0 +1,26 @@
+key,key_class,class,probability
+gender of human sera,gender,gender,0.563688
+gender of mice,gender,gender,0.563688
+gender (rat),gender,gender,0.563688
+gender (sex),gender,gender,0.563688
+gender,gender,gender,0.563688
+gender and age,gender,gender,0.563688
+gender composition,gender,gender,0.563688
+adnp+/- gender,gender,gender,0.563688
+female gender,gender,gender,0.563688
+ma2 gender,gender,gender,0.563688
+ma4 gender,gender,gender,0.563688
+ma5 gender,gender,gender,0.563688
+subject gender,gender,gender,0.563688
+mouse model gender,gender,gender,0.563688
+patient gender,gender,gender,0.563688
+recipient gender,gender,gender,0.563688
+treated tissue,no gender,gender,0.563688
+tissue harvest,no gender,no gender,0.956222
+tissue region,no gender,gender,0.563688
+age (yrs) at dasatinib start,no gender,gender,0.563688
+age at 2nd diagnosis,no gender,gender,0.563688
+strain 1785,no gender,gender,0.563688
+cell line resistance,no gender,no gender,0.993728
+nqo1 rs1800566 genotype,no gender,no gender,0.997252
+infection_control time,no gender,gender,0.563688

@@ -1,0 +1,45 @@
+key,key_class,predicted_class,probability
+huh7 cell line,cell line,cell line,0.998707
+atcc cell line,cell line,cell line,0.998707
+host cell line,cell line,cell line,0.998707
+es cell line type,cell line,cell line,0.990683
+responder cell line,cell line,cell line,0.998707
+stable cell line,cell line,cell line,0.998707
+es cell line,cell line,cell line,0.998707
+injected cell line,cell line,cell line,0.998707
+leukemia cell line,cell line,cell line,0.998707
+cell line source age,cell line,cell line,0.999592
+cell line stably expresses,cell line,cell line,0.998707
+cell line nih code,cell line,cell line,0.998707
+cell line specificity,cell line,cell line,0.998707
+cell line manufacturer,cell line,cell line,0.998707
+cell line source tissue,cell line,cell line,0.999592
+cell line source gender,cell line,cell line,0.999592
+cell line origin,cell line,cell line,0.998707
+cell line passage,cell line,cell line,0.998707
+cell line traits,cell line,cell line,0.998707
+cell line population,cell line,cell line,0.998707
+cell line derivation,cell line,cell line,0.998707
+cell line tissue source,cell line,cell line,0.999592
+cell line name,cell line,cell line,0.998707
+cell line(s),cell line,cell line,0.998707
+cell line resistance,cell line,cell line,0.998707
+cell line/type,cell line,cell line,0.990683
+cell line/genotype,cell line,cell line,0.990683
+human colon cancer cell line,cell line,cell line,0.998707
+origin of a cell line,cell line,cell line,0.998707
+tissue_code,no cell line,no cell line,0.998308
+source gender,no cell line,no cell line,0.994647
+age at sampling,no cell line,no cell line,0.998308
+donor age,no cell line,no cell line,0.998308
+embryo age,no cell line,no cell line,0.998308
+infant age,no cell line,no cell line,0.998308
+transgenic strain,no cell line,no cell line,0.998308
+strain source,no cell line,no cell line,0.994647
+small molecule treatment,no cell line,no cell line,0.998308
+treatment response in vivo,no cell line,no cell line,0.998308
+treatment description,no cell line,no cell line,0.998308
+residual disease (cm),no cell line,no cell line,0.998308
+hcg treatment time,no cell line,no cell line,0.998308
+time after induction[days],no cell line,no cell line,0.998308
+time in continuous light,no cell line,no cell line,0.998308

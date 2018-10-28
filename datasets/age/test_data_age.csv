@@ -1,0 +1,160 @@
+id,key,key_class,(days),(months),(years),background,cell,culture,diagnosis,group,line,origin,patient,point,post,sample,type
+5,age (1#pfu_1),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,age of epilepsy duration (yr),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,age of rat,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,age of mouse,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,age at diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+17,age at primary diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+19,age of ffpe tissue,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,age of biopsy,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,age at death (in years),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,age_at_diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+45,average age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,age (after birth),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,age high salt diet commenced,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,age at blood drawing (months),age,0,1.04003,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,age at surgery,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,development age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,ageofoperation,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,age  (months),age,0,1.04003,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,age (pn postnatal days),age,0,0,0,0,0,0,0,0,0,0,0,0,1.03375,0,0
+88,age at metastases,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,age of diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+104,age at tumor,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,age at dx in days,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,age at death,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,age_at_blooddraw,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,age (bin),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,age at infection (yrs),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,age.at.diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+125,agestatus,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,agedecade,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,age_tx,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,age_enroll,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,age (yr),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,age at first birth,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,age (months),age,0,1.04003,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,age at 2nd diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+170,age (at weaning),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,age diagnosis,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+179,age of woman [years],age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,age of onset (years),age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+183,age bin,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,age sacrificed,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,gestational age at delivery,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,diagnosis age,age,0,0,0,0,0,0,1.02052,0,0,0,0,0,0,0,0
+204,patient age,age,0,0,0,0,0,0,0,0,0,0,1.02568,0,0,0,0
+208,donor's age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,gestational age of pups,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,ma3 age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,mc5 age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,in a diurnal environment. age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,age at enrollment (years),age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+240,age at the time of surgery,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,age at time of surgery,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,age at onset (years),age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+246,age at dx (years),age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+252,age at excision (years),age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+254,mutant age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,ma5 age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,mean age in days,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,mean age years (range),age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,mc4 age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,mouse age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,fetus age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,ma1 age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,sample age group,age,0,0,0,0,0,0,0,1.01585,0,0,0,0,0,1.02587,0
+285,maternal age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,treatment age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,not current age,age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,serum culture age,age,0,0,0,0,0,1.01613,0,0,0,0,0,0,0,0,0
+301,# of tissue = 40 tissue,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,8 weeks. tissue,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,brain tissue,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,tissue subtype,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+346,tissue processing,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,tissue.origin,no age,0,0,0,0,0,0,0,0,0,1.0194,0,0,0,0,0
+353,tissue preservation,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,tissues,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,tissue status,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,tissue sample,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,1.02587,0
+406,tissuebank,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,gender of the clone,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,gender composition,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,gender (1#pfu_2),no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+465,ma2 gender,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,strain gender,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,recipient strain,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,insect strain,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,parental strain,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+542,eri-1 mutant strain,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,strain (or line),no age,0,0,0,0,0,0,0,0,1.14482,0,0,0,0,0,0
+603,strain origin,no age,0,0,0,0,0,0,0,0,0,1.0194,0,0,0,0,0
+607,strain (rat),no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,strain name,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,strain of ooplasm,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,strain by4741-msn2,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,strain yjdi381 gal1-taf1,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,strain.rep,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+661,virus strain,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,infection (virus strain),no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,infrequent clonal strain code,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,tumor cell type,no age,0,0,0,0,1.24191,0,0,0,0,0,0,0,0,0,1.06234
+707,time post treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,1.03375,0,0
+715,duration of il-6 treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+728,oligo treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,chx treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+763,h2o2 treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,drug treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,gefitinib treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+804,maternal treatment group,no age,0,0,0,0,0,0,0,1.01585,0,0,0,0,0,0,0
+822,response to tzd treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+825,chemical treatment condition,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+853,cell treatment,no age,0,0,0,0,1.24191,0,0,0,0,0,0,0,0,0,0
+876,treatment_1,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,treatment (short label),no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,treatment_category,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+895,treatment 1,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+926,treatment delivery,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+945,host cell line,no age,0,0,0,0,1.24191,0,0,0,1.14482,0,0,0,0,0,0
+949,es cell line type,no age,0,0,0,0,1.24191,0,0,0,1.14482,0,0,0,0,0,1.06234
+951,stable cell line,no age,0,0,0,0,1.24191,0,0,0,1.14482,0,0,0,0,0,0
+958,es cell line,no age,0,0,0,0,1.24191,0,0,0,1.14482,0,0,0,0,0,0
+1012,source cell line,no age,0,0,0,0,1.24191,0,0,0,1.14482,0,0,0,0,0,0
+1015,virus isolation cell line,no age,0,0,0,0,1.24191,0,0,0,1.14482,0,0,0,0,0,0
+1084,disease,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1108,dead of disease,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1139,8q24 genotype rs10505477,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1142,hemoglobin genotype,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1186,genotype.variation,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1195,genotype of ecat15-1,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1196,genotype rb,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1210,brca genotype,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1223,rb1 genotype,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.06234
+1243,survival time (months),no age,0,1.04003,0,0,0,0,0,0,0,0,0,0,0,0,0
+1245,10years followup time (months),no age,0,1.04003,0,0,0,0,0,0,0,0,0,0,0,0,0
+1247,survival time (month),no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1256,partial hepatectomy time point,no age,0,0,0,0,0,0,0,0,0,0,0,1.05573,0,0,0
+1294,lps exposure time,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1311,injection timepoint,no age,0,0,0,0,0,0,0,0,0,0,0,1.05573,0,0,0
+1322,fu time,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1324,os time (years),no age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+1335,time of treatment,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1361,treatment time point,no age,0,0,0,0,0,0,0,0,0,0,0,1.05573,0,0,0
+1373,stimulation time,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1384,donation time,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1390,sporulation timepoint,no age,0,0,0,0,0,0,0,0,0,0,0,1.05573,0,0,0
+1394,explant timepoint,no age,0,0,0,0,0,0,0,0,0,0,0,1.05573,0,0,0
+1396,time of sorting,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1399,time of biopsy,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1414,time post-surgery,no age,0,0,0,0,0,0,0,0,0,0,0,0,1.03375,0,0
+1433,time until recurrence (years),no age,0,0,1.04788,0,0,0,0,0,0,0,0,0,0,0,0
+1445,time met rec,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1459,time after feeding,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1483,time (post-treatment),no age,0,0,0,0,0,0,0,0,0,0,0,0,1.03375,0,0
+1536,time class,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1606,time after exposure,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1614,time and stimulation,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1620,time of relapse,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1626,timeunit,no age,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

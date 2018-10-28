@@ -1,0 +1,26 @@
+id,key,key_class,(days),(months),(years),(yrs),cell,collection,days,diagnosis,donor,duration,group,harvest,line,point,sample,source,state,survival,tissue/cell,treatment),type
+1,gender of human sera,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,gender of mice,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,gender (rat),gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,gender (sex),gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,gender and age,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,gender composition,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,adnp+/- gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,female gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,ma2 gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,ma4 gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,ma5 gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,subject gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,mouse model gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,patient gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,recipient gender,gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,treated tissue,no gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,tissue harvest,no gender,0,0,0,0,0,0,0,0,0,0,0,1.01329,0,0,0,0,0,0,0,0,0
+107,tissue region,no gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,age (yrs) at dasatinib start,no gender,0,0,0,1.01347,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,age at 2nd diagnosis,no gender,0,0,0,0,0,0,0,1.02237,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,strain 1785,no gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1005,cell line resistance,no gender,0,0,0,0,1.25956,0,0,0,0,0,0,0,1.14696,0,0,0,0,0,0,0,0
+1148,nqo1 rs1800566 genotype,no gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08893
+1303,infection_control time,no gender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

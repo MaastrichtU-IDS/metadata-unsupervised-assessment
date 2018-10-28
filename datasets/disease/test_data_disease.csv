@@ -1,0 +1,50 @@
+id,key,key_class,(days),(hours),(months),(years),cell,genotype/variation,line,point,post,sample,source,state,status,timepoint,type
+0,disease-free survival (dfs),disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,disease relapse (event),disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,disease_free_survival_event,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,disease_free_survival_years,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,disease_severity,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,code disease-specific survival,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,age at disease onset,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,disease free interval (months),disease,0,0,1.02459,0,0,0,0,0,0,0,0,0,0,0,0
+24,disease extension,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,disease progression,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,disease stage,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,disease severity/outcome,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,diseasestatus,disease,0,0,0,0,0,0,0,0,0,0,0,0,1.02158,0,0
+39,disease course,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,disease progression status,disease,0,0,0,0,0,0,0,0,0,0,0,0,1.02158,0,0
+48,disease state (phenotype),disease,0,0,0,0,0,0,0,0,0,0,0,1.01861,0,0,1.09279
+50,disease state,disease,0,0,0,0,0,0,0,0,0,0,0,1.01861,0,0,0
+51,disease model,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,disease/treatment status,disease,0,0,0,0,0,0,0,0,0,0,0,0,1.02158,0,0
+59,twin's disease state,disease,0,0,0,0,0,0,0,0,0,0,0,1.01861,0,0,0
+61,lyme disease stage,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,dead of disease,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,advanced disease stage,disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,advanced disease state,disease,0,0,0,0,0,0,0,0,0,0,0,1.01861,0,0,0
+75,hiv disease status,disease,0,0,0,0,0,0,0,0,0,0,0,0,1.02158,0,0
+77,meibomian gland disease state,disease,0,0,0,0,0,0,0,0,0,0,0,1.01861,0,0,0
+82,stage of disease (inss),disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,host gender,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,age at metastases,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,ageyear,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,160!!!,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,vitis (41528 population) - age,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,background mouse strain,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+739,strain/genotype,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.09279
+760,cell type [c],no disease,0,0,0,0,1.25381,0,0,0,0,0,0,0,0,0,1.09279
+789,time after treatment,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+851,ligand treatment,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+915,cardioglycoside treatment,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1030,host cell line,no disease,0,0,0,0,1.25381,0,1.14386,0,0,0,0,0,0,0,0
+1172,genotype/background,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.09279
+1199,genotype variation,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.09279
+1210,brca genotype,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.09279
+1272,cell harvest time,no disease,0,0,0,0,1.25381,0,0,0,0,0,0,0,0,0,0
+1276,mnase digestion time,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1460,time (d),no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1579,time before sampling,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1580,time to survival,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1587,time post-infection,no disease,0,0,0,0,0,0,0,0,1.01579,0,0,0,0,0,0
+1644,time f/u,no disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

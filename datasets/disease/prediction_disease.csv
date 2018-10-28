@@ -1,0 +1,50 @@
+key,key_class,class,probability
+disease-free survival (dfs),disease,no disease,0.558448
+disease relapse (event),disease,no disease,0.558448
+disease_free_survival_event,disease,no disease,0.558448
+disease_free_survival_years,disease,no disease,0.558448
+disease_severity,disease,no disease,0.558448
+code disease-specific survival,disease,no disease,0.558448
+age at disease onset,disease,no disease,0.558448
+disease free interval (months),disease,disease,0.666488
+disease extension,disease,no disease,0.558448
+disease progression,disease,no disease,0.558448
+disease stage,disease,no disease,0.558448
+disease severity/outcome,disease,no disease,0.558448
+diseasestatus,disease,disease,0.849372
+disease course,disease,no disease,0.558448
+disease progression status,disease,disease,0.849372
+disease state (phenotype),disease,disease,0.998738
+disease state,disease,disease,0.998401
+disease model,disease,no disease,0.558448
+disease/treatment status,disease,disease,0.849372
+twin's disease state,disease,disease,0.998401
+lyme disease stage,disease,no disease,0.558448
+dead of disease,disease,no disease,0.558448
+advanced disease stage,disease,no disease,0.558448
+advanced disease state,disease,disease,0.998401
+hiv disease status,disease,disease,0.849372
+meibomian gland disease state,disease,disease,0.998401
+stage of disease (inss),disease,no disease,0.558448
+host gender,no disease,no disease,0.558448
+age at metastases,no disease,no disease,0.558448
+ageyear,no disease,no disease,0.558448
+160!!!,no disease,no disease,0.558448
+vitis (41528 population) - age,no disease,no disease,0.558448
+background mouse strain,no disease,no disease,0.558448
+strain/genotype,no disease,disease,0.500416
+cell type [c],no disease,no disease,0.502073
+time after treatment,no disease,no disease,0.558448
+ligand treatment,no disease,no disease,0.558448
+cardioglycoside treatment,no disease,no disease,0.558448
+host cell line,no disease,no disease,0.999418
+genotype/background,no disease,disease,0.500416
+genotype variation,no disease,disease,0.500416
+brca genotype,no disease,disease,0.500416
+cell harvest time,no disease,no disease,0.560901
+mnase digestion time,no disease,no disease,0.558448
+time (d),no disease,no disease,0.558448
+time before sampling,no disease,no disease,0.558448
+time to survival,no disease,no disease,0.558448
+time post-infection,no disease,no disease,0.998467
+time f/u,no disease,no disease,0.558448

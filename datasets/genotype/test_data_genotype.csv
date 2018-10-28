@@ -1,0 +1,45 @@
+id,key,key_class,(days),(years),(yrs),cell,collection,diagnosis,genotype/variation,infection,line,point,post,sample,source,state,surgery,timepoint,type
+1,9q24 genotype rs10975552,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+9,8q24 genotype rs7014346,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+11,hemoglobin genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+16,20q13 genotype rs4925386,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+19,1q41 genotype rs6691195,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+22,8q24 genotype rs6983267,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+23,14q22 genotype rs11623717,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+25,lrrk2 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+34,genotype/variations,genotype,0,0,0,0,0,0,1.02317,0,0,0,0,0,0,0,0,0,1.08611
+37,parental genotype/variation,genotype,0,0,0,0,0,0,1.02317,0,0,0,0,0,0,0,0,0,1.08611
+41,genotype/background,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+44,tissue genotype/variation,genotype,0,0,0,0,0,0,1.02317,0,0,0,0,0,0,0,0,0,1.08611
+50,genotype(breed),genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+67,genotype of ecat15-2,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+69,plant genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+72,host soybean genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+74,esr1 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+75,atf2 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+77,meis1 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+78,background genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+80,idh1/2 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+83,sdad2 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+87,braf genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+91,genotype/treatment,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+99,hla-dqb1 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+100,mecp2 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+101,apoe genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+103,tbx1 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+104,e2f1 genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+109,a.thaliana genotype,genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08611
+144,source  tissue,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,1.04989,0,0,0,0
+196,tissue weigth,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,age (in years),no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,control strain o157,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+654,eri-1 mutant strain,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+702,strain 3235 = scc1-pk3,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,5-aza-c treatment,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+844,kcl treatment time (hours),no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+946,immunogen treatment,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1113,cell line/cell type,no genotype,0,0,0,1.22689,0,0,0,0,1.12094,0,0,0,0,0,0,0,1.08611
+1237,status of disease,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1280,conjugation time,no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1353,treatment time (rhgaa),no genotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1555,time post-inoculation,no genotype,0,0,0,0,0,0,0,0,0,0,1.03282,0,0,0,0,0,0

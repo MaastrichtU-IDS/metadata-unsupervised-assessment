@@ -1,0 +1,137 @@
+id,key,key_class,(days),(hours),(months),(years),(yrs),background,cell,collection,condition,culture,diagnosis,gestational,group,harvest,infection,line,patient,point,sample,source,stage,timepoint,type
+1,order of treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,vernalization treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,time (days of dss treatment),treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,period of treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,euthanasia day post treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,day of dox treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,weeks after treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,time (weeks of treatment),treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,dac treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,nature of treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,valproate treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,ddc treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,oligo treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,plant treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,units of treatment repeat,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,b12 treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,h2o2 treatment level,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,post-dac treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,ms treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,dna treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,hours treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,h2o2 treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,lps treatment (time),treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,heat treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,tet1/tet2 treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,treatment_dose_u/ml,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,cancer treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,imatinib treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,cytokine treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,bioremediation treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,treatment/growth condition,treatment,0,0,0,0,0,0,0,0,1.01423,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,sirna treatment group,treatment,0,0,0,0,0,0,0,0,0,0,0,0,1.01733,0,0,0,0,0,0,0,0,0,0
+110,transfection or treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,vaccine treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,compound based treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,hygromycin treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,ca04 or pbs treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,c local treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,time of treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,chemical treatment condition,treatment,0,0,0,0,0,0,0,0,1.01423,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,rnase treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,bisulfite treatment of rna,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,doxycycline treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1321,0,0,0,0,0,0,0
+155,transcription factor treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,cell treatment,treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,chamber treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,secondary treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,treatment regimen,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,treatment period,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,treatment response in vitro,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,treatment response in vivo,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,treatment length,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,treatment concentration,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,treatment dosage,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,treatment [c],treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,treatment pairs,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,treatment exposure,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,treatment time(minutes),treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,treatment state,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,treatment condition,treatment,0,0,0,0,0,0,0,0,1.01423,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,treatment code,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,treatment,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,nrti treatment status,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,treatment batch,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,treatment category,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,treatment description,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,treatment amount [c],treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,treatment arm,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,treatment delivery,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,treatments comments,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,treatment (chemo),treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,treatment response,treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,original tissue source,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.04628,0,0,0
+275,harvested tissue type,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01838,0,0,0,0,0,0,0,0,1.08255
+277,tissue separation,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,tissue (group),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,1.01733,0,0,0,0,0,0,0,0,0,0
+349,tissue diagnosis,no treatment,0,0,0,0,0,0,0,0,0,0,1.02889,0,0,0,0,0,0,0,0,0,0,0,0
+420,donor gender,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,subject gender,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,age harvested (days),no treatment,1.03577,0,0,0,0,0,0,0,0,0,0,0,0,1.01838,0,0,0,0,0,0,0,0,0
+484,age of  culture,no treatment,0,0,0,0,0,0,0,0,0,1.01895,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,age quit smoking,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+556,age at onset,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+598,age on study,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+599,age (at weaning),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+622,gestational age (wks),no treatment,0,0,0,0,0,0,0,0,0,0,0,1.01428,0,0,0,0,0,0,0,0,0,0,0
+625,gestational age at delivery,no treatment,0,0,0,0,0,0,0,0,0,0,0,1.01428,0,0,0,0,0,0,0,0,0,0,0
+637,donor's age,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,subject age,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+667,age at dx,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,age (month) at surgery,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,fetus age,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+723,serum culture age,no treatment,0,0,0,0,0,0,0,0,0,1.01895,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,b virus strain,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+729,siv strain,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,vaccine strain,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+784,eri-1 mutant strain,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+788,transgenic strain,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+808,strain by4741 ptc3,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+830,strain recipient,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+831,strain or line,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1321,0,0,0,0,0,0,0
+837,strain [background],no treatment,0,0,0,0,0,1.01838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+862,strain_description,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+877,strain/accession,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,infected with bacterial strain,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,cell types,no treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+935,cultured cell type,no treatment,0,0,0,0,0,0,1.23736,0,0,1.01895,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+973,cell line source gender,no treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,1.1321,0,0,0,1.04628,0,0,0
+978,cell line specifics,no treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,1.1321,0,0,0,0,0,0,0
+991,cell line subpopulation,no treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,1.1321,0,0,0,0,0,0,0
+1009,human leukemia cell line,no treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,1.1321,0,0,0,0,0,0,0
+1015,virus isolation cell line,no treatment,0,0,0,0,0,0,1.23736,0,0,0,0,0,0,0,0,1.1321,0,0,0,0,0,0,0
+1057,disease activity (das28_v1),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1058,disease_severity,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1060,trg disease state,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1080,disease_status,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1088,disease phase,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1094,disease state (phenotype),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+1100,aggressiveness of disease,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1168,parental genotype/variation,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+1179,genotype/variation (offspring),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+1180,genotype p53,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+1221,strain genotype,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+1237,maternal genotype,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.08255
+1243,survival time (months),no treatment,0,0,1.04076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1256,partial hepatectomy time point,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0631,0,0,0,0,0
+1275,continuous light time,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1276,mnase digestion time,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1313,doubling time,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1401,time clin rec,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1405,time biopsy to surgery (days),no treatment,1.03577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1416,time post-stimulation,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1419,time after treatment,no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1424,time of sample collection,no treatment,0,0,0,0,0,0,0,1.01756,0,0,0,0,0,0,0,0,0,0,1.02242,0,0,0,0
+1483,time (post-treatment),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1615,time after infection (h),no treatment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.01923,0,0,0,0,0,0,0,0
