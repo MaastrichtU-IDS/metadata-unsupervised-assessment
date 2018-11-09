@@ -1,0 +1,1652 @@
+Term,key_class,values
+ips cell line,cell line,41
+cell line source age,cell line,56
+cell line initiation date,cell line,"1982, 1988, 1980, 1981"
+cell line karyotype,cell line,"46,xx, 46,xy, 49,xxxxy, 47,xxx"
+cell line passage,cell line,"49-50, 40, 7"
+cell line number,cell line,"69, 11, 64, 71, 12"
+es cell line,cell line,"a2lox, r1 esc, otx2-/- esc, ky1.1, e14 esc"
+cell line background,cell line,"a549, beas-2b, cfpac1, pc3, imr90"
+cell line reference,cell line,"andrews pw (1984) retinoic acid induces neuronal differentiation of a cloned human embryonal carcinoma cell line in vitro. dev biol 103285-293, brown et al. 1997, sugarman bj, et al. (1985) recombinant human tumor necrosis factor-alphaeffects on proliferation of normal and transformed cells in vitro. science 230943-945. pubmed3933111"
+cell line origin,cell line,"breast epithelium, breast cancer, mammary, erythroid myeloid lymphoid (eml), bone metastasis of prostate cancer"
+cell line/genotype,cell line,by4741 (wt)
+atcc cell line,cell line,"cal27, a253"
+cell line source ethnicity,cell line,caucasian
+cell line characteristics,cell line,"cell line derived from t47d that contain one copy of mmtv promoter, the cell line has been observed to undergone minor changes after long-term culture, except for the presence of dense granules in the nucleoli (uzman, foley et al. 1966). finally, the ccrf-cem cell line has been reported to manifest autocrine catalase activity which participates to its mechanisms of growth and progression (sandstrom and buttke 1993)."
+cell line or clinical sample,cell line,"clinical specimen, cell line"
+cell line manufacturer,cell line,clontech
+cell line/cell type,cell line,"ctb primary cells, hesc h7 cell line, tbpc colony, tbpc monolayer"
+huh7 cell line,cell line,differentiated hepatoma from a male
+cell line tissue source,cell line,"embyronic hypothalamus, adult hypothalamus"
+host cell line,cell line,"erc, hek293, a385, aag2 cells, vero"
+hybrid cell line,cell line,"es-e-hybrid line 3, es-e-hybrid line 22, es-e-hybrid line 10"
+cell line nih code,cell line,es03
+cell line of origin,cell line,"foxd3 conditional knockout c57bl/6 escs, dual mirna reporter v6.5 escs, fibroblasts from ts patient t7643, embryonic stem cellsescs (r cells), epiblast cellsepic (dy cells)"
+es cell line type,cell line,"geminin overexpression, geminin knockdown"
+primary cell line,cell line,"gm00739b, glioblastoma stem-like cells, kidney asmcs derived from the renin cell lineage"
+coriell cell line,cell line,"gm07044, gm12157, gm12002, gm12920, gm07038"
+cell line (coriell id),cell line,"gm17201, gm17102, gm17104, gm17735, gm17207"
+background cell line,cell line,"hek-293, ahr null hepatocytes (ahr-/- hepa), mda-mb-231, a673 ewing cell line, wild-type 293 cells"
+cell line specificity,cell line,"hek293-t-rex inducible cell line expressing znf143-ha, hek293-t-rex inducible cell line expressing znf143"
+cell line specifics,cell line,"hela s3 stably expressing h3.1-flag-ha, hela s3 stably expressing h3.3-flag-ha"
+cell line,cell line,"hela, hepg2, mcf7, mcf-7, c2c12"
+insect cell line,cell line,"helicoverpa zea cell line (hzam1) isolated from pupal ovarian tissue by mcintosh and ignoffo (1983), helicoverpa zea cell line (hzam1)"
+cell line id,cell line,"hmvecdlyad-der, 262, 334, 391, 395"
+fibrosarcoma cell line,cell line,ht1080
+cell line conditioning,cell line,"in vivo, in vitro"
+cell line subpopulation,cell line,"invasive, reference"
+cell line name,cell line,"k-562 (atcc_Š ccl-243__¢), a375p, tt-fhago2, mds-l, tt-ago2"
+leukemia cell line,cell line,k562
+cell line derivation,cell line,"late stage embryos, 39-year-old parous japanese female diagnosed with endometrial adenocarcinoma stage 2., bone marrow"
+cell line/clone,cell line,"line, clone fips5-7, clone fips2-10, clone fips1-14, clone fips6-3"
+cell line traits,cell line,"loss of p53, loss of hormone receptors er and pr"
+cell line source gender,cell line,"male, female"
+cell lineage,cell line,"mesoderm, ectoderm, endoderm, inner cell mass, international hapmap project - ceph/utah - european caucasion"
+originating cell line,cell line,"molt-4, pc-3/m, rxf 393, uacc-62, a549"
+cell line(s),cell line,"mouse es cells and human fibroblast, human fibroblast"
+growth pattern of cell line,cell line,"n/a, sclc-classic, sclc-variant"
+tumor cell line,cell line,"nccit, mc38, be2c, 1273, syo-1"
+cell line resistance,cell line,"no igf-1r drugs resistant, stably resistant to igf-1r hab ave1642 hab, stably resistant to igf-1r tki nvp-aew541, stably resistant to igf-1r hab cp-751,871"
+injected cell line,cell line,"nsc11, u87, nsc11r, u87r"
+cell line description,cell line,"ntera-2 cl.d1 [nt2/d1] atcc number crl-1973, embryonal carcinoma cell line derived from a human teratocarcinoma, biphenotypic b myelomonocytic leukemia (mll-af4 rearragenment), a cd4+ (miranda, wolf et al. 1996) and cd34+ presenting cell line (naujokat, sezer et al. 2000), acute myeloid leukemia (mll-af9 rearrangement), human acute monocytic leukemia"
+cell lines,cell line,"osteoblast, 1_adenocarcinoma, mammary gland 2_hepatoblastoma, liver 3_adenocarcinoma, cervix 4_embryonal carcinoma, testis, 5_glioblastoma, brain 6_melanoma 7_liposarcoma 8_histiocytic lymphoma
+ raji, human malignant melanoma_92-1, human malignant melanoma_c32tg"
+donor cell line,cell line,"panc291, panc198, panc219, panc420, panc253"
+cell line population,cell line,"parental, subclone 4"
+human colon cancer cell line,cell line,pc/aa/c1/sb10c
+cell line source tissue,cell line,"peripheral blood, primary human hypopharyngeal squamous cell carcinoma"
+dendritic cell lineages,cell line,"plasmacytoid dendritic cells (pdc), myeloid dendritic cells (mdc1), epidermal langerhans cells"
+cell line (derived),cell line,"plc8024, mhcc97h"
+cell line source,cell line,"polyclonal cell line gm13130, american type culture collection (atcc) number crl_1550, normal, non-pregnant female, polyclonal cell line gm12878, american type culture collection (atcc) number htb_33"
+cell line ebv-status,cell line,positive for ebv
+rcc cell line type,cell line,"primary rcc cell line, none, metastatic rcc cell line"
+cell line type,cell line,"prostate cancer cell line, small cell lung carcinoma,melanoma cell line, less-aggressive cell line, immortalised"
+source cell line,cell line,"r1, h9, a431, mnng/hos, bg01v"
+reference cell lines,cell line,"reference pool of lncap, du145, pc3, and cwr22 cell lines"
+origin of a cell line,cell line,"referencekolossov e. et al., j exp med 203(10)2315-2327, 2006., referencemeissner a. et al., nat. biotechnol. 25(10)1177-1181, 2007., james thomson, university of wisconsin, es cell international, singapore, clontech (cat. no. 636532, lot 7120603a)"
+human leukemia cell line,cell line,reh
+ovarian cancer cell line,cell line,"sk-ov-3, tov-21g, ovcar-3, sk-ov-3 p38dn"
+stable cell line,cell line,stable cell lines inducibly expressing flag/ha-tagged rbm10
+human cell line,cell line,"supt1, lovo epithelial cells atcc ccl-229, kmb17"
+parental cell line,cell line,"t47d-y, mda-mb-231, skbr-3, t47d-yb, hek 293 flp-in t-rex"
+cell line provider,cell line,the european collection of cell cultures (ecacc)
+responder cell line,cell line,upn727
+cell line (sorted),cell line,
+cell line lineage,cell line,
+cell line stably expresses,cell line,
+cell line stably expressing,cell line,
+cell line/type,cell line,
+or cell line,cell line,
+virus isolation cell line,cell line,
+pancreatic cell type,cell type,"adult pancreatic endocrine cells, adult pancreatic exocrine-duct cells"
+cancer cell type,cell type,"aggressive, non-aggressive, metastatic, parental"
+cell type(s),cell type,"all, keratinocytes and fibroblasts, neurons (neun+), non-neurons (neun-, predominantly glia), bmsc, nrvcm"
+targeted cell type,cell type,b cell
+cell type/line,cell type,"btic, snb19, nsc, c17.2"
+cell type (immunophenotype),cell type,"cd133/2 positive, cd133/2 negative"
+cell type subpopulation,cell type,"cd25+ treg, cd25- non-treg, cd25-"
+sorted cell type,cell type,"cd34+cd45ra-, hematopoietic stem cells (hsc1), multipotent progenitor cells (mpp), common myeloid progenitor cells (cmp), granulocyte-monocyte progenitors (gmp)"
+cell type subset,cell type,"dec205+, cd11b+, cd11b, esam+, cd11b esam-dec205 esam-"
+cell types,cell type,"dfci 121, dfci 123, primary mouse embryonic fibroblasts e13.5, burkitts lymphoma (raji) and breast adenocarcinoma (mcf-7), hesc derived pancreatic endoderm, isolated conventional and plasmacytoid dendritic cells"
+cell type [c],cell type,endothelial
+cell type derived from,cell type,"fetal liver, bone marrow, pancreatic islet beta cells, spleen"
+cell type origin,cell type,"hodgkin's lymphoma, cultured lncap cells, fibroblast, cervical cancer, myelogenous leukemia"
+background cell type,cell type,immortalized human bronchial epithelial cell
+cell type (sorted),cell type,"macrophages, ntreg, itreg, ex-itreg"
+tumor cell type,cell type,"mixed, epithelioid, na, the rat-derived c6 glioma cell line was obtained from the american type culture collection (manassas, va). the cells were routinely maintained in dmem supplemented with l-glutamine, 1% penicillin/streptomycin solution, and 10% fbs in a humidified co2 incubator at 37 __c., neuroblastoma"
+host cell type,cell type,"monocyte derived dendritic cells (mddcs), enucleated mii oocytes, t lymphocyte"
+source cell type,cell type,"mouse mammary epithelial cells, human embryonic stem cells (hescs), circulating tumor cells, csf, mouse embryonic fibroblast (mef)"
+cell type/growth condition,cell type,"nave t-cells from spleen under th17 polarizing conditions, nave t-cells from spleen under th2 polarizing conditions, nave t-cells from spleen activated by anti-cd3 and anti-cd28, ilc2s were sorted from the mln of il-25-treated mice, bone marrow derived dendritic cells stimulated with lps for 6hrs"
+tissue or cell type,cell type,"oocyte, embryo, embryoid body, embryonics stem cell, liver"
+sarcoma and primary cell type,cell type,"osteosarcoma, ewing sarcoma, neuroblastoma (metastatic), chondrosarcoma, fibrosarcoma"
+primary cell type,cell type,"primary macrophages (derived from blood monocytes), human foreskin fibroblast (hff)"
+test cell type,cell type,repo-gal4/uas-uprt
+other cell types,cell type,"skin, few fibrous strands"
+t cell type,cell type,"sorted cd4+ conventional t cells from spleen and lymph nodes, sorted cd4+ regulatory t cells from spleen and lymph nodes, teff, treg, tfh"
+melanoma cell type,cell type,"spheroid cells, adherent cells"
+b cell type,cell type,"tumorous, normal, naive (facs sorted primary human), plasma cell (facs sorted primary human), memory (facs sorted primary human)"
+cell type,cell type,"tumorous, normal, naive (facs sorted primary human), plasma cell (facs sorted primary human), memory (facs sorted primary human)"
+cultured cell type,cell type,"wt culture cell, snd1 culture cell, vnd6 culture cell"
+cell type (human),cell type,xenograft tumors (ht29 cells)
+source of cell type,cell type,
+disease relapse (event),disease,1
+disease free survival (months),disease,12
+disease free interval (months),disease,15
+other diseases,disease,"""-"", positive lead test"
+chronic diseases,disease,"""-"", yes"
+disease subtype,disease,"[er+/pr+]her2-, refractory anemia (ra), refractory anemia with ringed sideroblasts (rars), refractory anemia with excess blasts 2 (raeb2), refractory anemia with excess blasts 1 (raeb1)"
+code disease-specific survival,disease,"0, 1"
+disease_free_survival_years,disease,"0, 1, na, 10, 0.67"
+disease-free interval (months),disease,"0, 24, 23, 37, 40"
+disease free interval (days),disease,"0, 462, 122, 546, na"
+duration of disease (month),disease,"0, unknown, 1"
+disease progression (event),disease,"1, 0"
+stage of disease,disease,"1, 2"
+diseasestatus,disease,"1, 2, nafld, nash, normal control"
+stage of disease (inss),disease,"1, 4, 2, 4s, 3"
+residual disease (cm),disease,"1, not evaluated, 6, 3, 0"
+mean disease duration,disease,1.7yrs.
+disease_free_survival_event,disease,"10, na, 0.42,1, 3"
+disease-free survival (dfs),disease,"107 months, 28 months, 32 months, 2 months, 3 months"
+disease stage,disease,"2, cancer, benign, relapse, remission"
+disease free survival (month),disease,"21, 23, 22, 1, 9"
+trg disease state,disease,"3, 2, 4, 1"
+disease duration (yrs),disease,"4, 9, 7, 1"
+age at disease onset,disease,"41, 35, 30, 37, 32"
+disease causing mutation,disease,"aav-mediated insertional mutagenesis, h22y, heterozygous for d303n, t50m, a230t"
+disease outcome,disease,"alive, dead"
+twin's disease state,disease,"allergic, healthy"
+chief disease,disease,als
+disease severity/outcome,disease,"asymptomatic, encephalitis, meningitis"
+clinical disease stage,disease,castration-resistant prostate cancer
+disease exposure,disease,diabetes
+duration of disease,disease,"diagnosed at inclusion, 6 years, 21 years, 16 years, 5 years"
+donor disease state,disease,"fibrocystic disease, adenocarcinoma"
+disease model,disease,"glioblastoma, medulloblastoma, congenital heart disease (chd) with increased pulmonary blood flow (pbf), control, normal"
+disease_status,disease,"healthy control, bipolar disorder, healthy, down syndrome, sle"
+disease course,disease,"healthy control, secondary progressive multiple sclerosis, n/a, 2 years at time of biopsy, 1 year at time of biopsy"
+disease_onset,disease,"healthy, 2, 3, 4, 7"
+diseasestate,disease,"healthy, adenocarcinoma, breast cancer, carcinoma, normal"
+advanced disease stage,disease,"hgd, eac, lgd, im"
+disease location,disease,"ileal and colonic involvement, ileal involvement only, colonic involvement only"
+disease phenotype,disease,"illeal crohn's disease, ulcerative colitis, no inflammatory bowel disease, stage iv melanoma"
+aggressiveness of disease,disease,"indolent, aggressive"
+disease phase,disease,"late period, early period, control"
+disease extension,disease,"left-sided colitis, --, pancolitis"
+patient disease status,disease,"localized neuroblastoma, with a diagnosis of cyanotic tetralogy of fallot congenital heart disease, metastatic neuroblastoma, healthy young donor, normal"
+extent of disease,disease,"localized, unknown, metastatic"
+lung disease,disease,"lung cancer (before surgical resection of lung cancer), none (no current or past lung cancer or non-cancerous nodule), non-cancerous lung nodule, none (after surgical resection of lung cancer)"
+disease_severity,disease,"moderate, healthy, severe, mild, unclassified"
+disease category,disease,"mpn_pmf, blast phase_pmf, mpn_et, mpn_pv, blast phase_et"
+residual disease,disease,"n/a, < 1 cm, no"
+disease severity,disease,"n/a, severe, mild, not applicable, 7 (p)"
+disease activity (das28_v3),disease,"na, 5.13, 3.69, 3.87, 3.26"
+disease activity (das28_v1),disease,"na, 6.04, 5.52, 4.06, 4.33"
+diseaseduration(years),disease,"na, 8, 10, 11, 9"
+disease status,disease,"neurologically and neuropathologically normal, healthy, control, prostate cancer, unaffected"
+celiac disease,disease,"no, yes"
+dead of disease,disease,"no, yes"
+source disease status,disease,"non-aneurysm, aneurysm, ruptured"
+primary disease,disease,"none, breast cancer, hodgkin lymphoma, heart transplant"
+etiology of liver disease,disease,"none, hepatitis c virus"
+meibomian gland disease state,disease,"none, moderate, severe"
+disease,disease,"none, multiple sclerosis, carcinoma, derived from metastatic site, left supraclavicular lymph node, advanced colorectal (crc), cancer, control"
+disease-state,disease,"normal (reduction mammoplasty), breast cancer"
+disease/treatment status,disease,"normal, aat treated, diabetic, power mix treated"
+ocular disease,disease,"normal, amd"
+disease type,disease,"normal, chronic hepatitis c patient, in-transit melanoma, t-all, t-lbl"
+disease_state,disease,"normal, hcv-infected, carcinoma, lymphoma, adenocarcinoma"
+disease state,disease,"normal, lymphoma, healthy, control, tumor"
+lyme disease stage,disease,"not applicable, none, lyme arthritis, early, disseminated or late"
+disease state (host),disease,"p53null mammary tumors, trp53-null mammary tumors"
+disease development,disease,"post-treatment non-lesional, lesional, normal, pre-treatment non-lesional"
+status of disease,disease,progressive
+disease progression status,disease,"rapid progessor, elite/viremic controller, viremic non-progessor"
+disease status of patient,disease,"rcdii, celiac disease, crohn's disease"
+disease group,disease,"remission, failure of treatment, new, non-metastatic, nonatopic control"
+subject's disease state,disease,"sickle cell disease, control"
+source disease,disease,squamous cell carcinoma
+advanced disease state,disease,"stage iii, stage I, stage ii, stage iv"
+disease resistance,disease,"susceptible, resistant"
+disease-resistance,disease,"susceptible, resistant"
+disease state (phenotype),disease,"wildtype, affected"
+disease progression,disease,"without metastases, bone metastasis, no bone metastasis, progressor, with metastases"
+diseased,disease,"yes, no"
+disease/cell type,disease,
+hiv disease status,disease,
+female gender,gender,"0, 1"
+gender and age,gender,2 year old caucasian female
+strain gender,gender,c57bl/6
+gender (sex),gender,"f, na"
+gender (rat),gender,female
+source gender,gender,"female fly, male, female"
+gender of mice,gender,"female, male"
+gender (1#pfu_2),gender,m
+gender (1#pfu_1),gender,m
+gender (male/female),gender,"m, f, 1/1/2017"
+gender (mouse),gender,male
+gender of the clone,gender,male
+gender (pup),gender,male
+xenograft recipient gender,gender,male
+mouse model gender,gender,male
+strain c57bl/6 gender,gender,male age10 weeks tissuesubstantia nigra(sn) disected bilaterally from six like-treated mice.
+ma4 gender,gender,male age10 weeks tissuesubstantia nigra(sn) disected bilaterally from six like-treated mice
+gender of human sera,gender,"male, female"
+gender of baby,gender,"male, female"
+host gender,gender,"male, female"
+donor gender,gender,"male, female"
+cell line source gender,gender,"male, female"
+fetus gender,gender,"male, female"
+donor's gender,gender,"male, female"
+gender,gender,"male, female, m, f"
+subject gender,gender,"male, female, m, f"
+patient gender,gender,"male, female, n1, 1, 2"
+recipient gender,gender,"male, none, female"
+gender composition,gender,"of the 10 in the pool, 2 were women, 8 were men"
+adnp+/- gender,gender,
+mc3 gender,gender,
+mc2 gender,gender,
+mc5 gender,gender,
+mc4 gender,gender,
+mc1 gender,gender,
+mc6 gender,gender,
+ma2 gender,gender,
+strain c57bl/6 gender,gender,
+ma5 gender,gender,
+ma3 gender,gender,
+ma1 gender,gender,
+ma6 gender,gender,
+il4r genotype,genotype,"""-/-"", +/+"
+genotype of ecat15-1,genotype,"15-1+/+, 15-1ct/ct, 15-1flox/flox"
+genotype of ecat15-2,genotype,"15-2-/-, 15-2+/+"
+apoe genotype,genotype,"3,4, 3,3, 4,4, 3/3, 2,4"
+hla-dqb1 genotype,genotype,"302, 02, 0302, 2"
+genotype icsbp1,genotype,"33, 13, 11"
+per3 genotype,genotype,"4\4, 5\5"
+backgroud genotype,genotype,717-1b4
+genotype/varat,genotype,"Š_asc1, wt"
+14q22 genotype rs11623717,genotype,"aa, ag, gg"
+9q24 genotype rs10975552,genotype,"aa, ag, gg"
+hemoglobin genotype,genotype,"aa, as, ac"
+18q21 genotype rs7226855,genotype,"aa, gg"
+rs5995355 genotype,genotype,"ag, gg, aa"
+12q13 genotype rs7136702,genotype,"ag, gg, aa,"
+individual genotype,genotype,"alcohol preferring (p), alcohol non-preferring (np)"
+genotype/variation (offspring),genotype,apoe-/+
+20p12 genotype rs50005940,genotype,"at, aa, tt"
+genotype reference,genotype,"baumberger & baulcombe 2005. pnas 102(33)11928-33., montgomery et al., 2008. cell 133(1)128-41., wang et al., 2010., pnas 107(1)484-9."
+background genotype,genotype,"by4741, wild type, parental, congenic"
+rb1 genotype,genotype,"c1816inst, loh"
+host genotype,genotype,"c57bl/6 mouse, wild-type, tnfr 1, 2 -/-"
+nqo1 rs1800566 genotype,genotype,"cc, ct, na, tt"
+15q13 genotype rs4779584,genotype,"cc, ct, tt"
+16q22 genotype rs2059254,genotype,"cc, ct, tt"
+8q24 genotype rs7014346,genotype,"cc, ct, tt"
+20q13 genotype rs4925386,genotype,"cc, ct, tt, nd"
+genotype of pollen,genotype,cdka
+cmv genotype/variation,genotype,cmvf-_2b
+brca genotype,genotype,cmvf-__2b
+genotype/ecotype,genotype,"col-0, det2-1, ga1-5"
+plant genotype,genotype,"columbia-0 pen2-1 pad4-1, sag101-2 mutant expressing mla1-ha, ha-ago2-dad (ago2-1)
+ columbia-0 pen2-1 pad4-1 sag101-2 mutant, ha-ago10-ddh (col-0), ha-ago1-dah (col-0)"
+8q24 genotype rs10505477,genotype,"ct, tt, cc"
+th-mycn mouse genotype,genotype,"deficient caspase-8, wild type caspase-8"
+genotype/varaiation,genotype,dereg x ldlr-/-
+e2f1 genotype,genotype,"e2f1+/+, e2f1-/-"
+host/mouse genotype,genotype,"fut2_ko, wild type, fut2(+/-)_ko"
+rs1333049 genotype,genotype,"gc, gg, cc"
+lrrk2 genotype,genotype,"gg (wt), ga (g2019s), wt / wt, wt / lrrk2 gs, transgenic ga (g2019s)"
+10p14 genotype rs706771,genotype,"gg, ag, aa"
+rs7956957 genotype,genotype,"gg, cg, cc"
+1q41 genotype rs11579490,genotype,"gg, gt, tt"
+1q41 genotype rs6691195,genotype,"gg, gt, tt"
+rs7575840 genotype,genotype,"gg, tx"
+genotype = gs(1)n441 (mat,genotype,"gs(1)n441/fm7c), gs(1)n441)"
+8q24 genotype rs6983267,genotype,"gt, gg, tt"
+strain genotype,genotype,"h minus (cnp1-flag:kanr), h minus (leu1 ade6 cnp20+-flag[kanr]), h minus (lys:cnp1halys+), h minus (scm3-19-ha[kanr] lys1+cnp1-gfp), by4743"
+genotype/background,genotype,"harboring a plasmid encoding for the polyhistidine-tagged sigma factor gene, heterozygous for the krt14-cre transgene and homozygous (ilk-deficient) for the floxed ilk alleles, heterozygous for the krt14-cre transgene and heterozygous (ilk-expressing) for the floxed ilk alleles"
+hd genotype,genotype,"hd, wild type"
+infection (e. coli genotype),genotype,"hlya1-, cnf1- hlya1-, cnf1-, pbs control, wt"
+host genotype/variation,genotype,"irradiated wild-type, irradiated tgfb1 heterozygote, sham-irradiated wild-type, sham-irradiated tgfb1 heterozygote"
+genotype/genetic variation,genotype,"k5rta, epcam negative, epcam positive, k5rta tetotgfbeta"
+genotyped sex,genotype,"male, female"
+relevant genotype,genotype,"mata, sth1td ubr1(delta), h- ura4-d18 leu1-32 ade6-704, rsc3-9myc, rpb1-1"
+pool genotype,genotype,mata/alpha ura3delta0 leu2delta his3delta1 lys2delta0/lys2 met15delta0/met15 can1delta:leu2-mfa1pr-his3/can1 xxx:kanmx/xxx
+genotype(breed),genotype,"mix, greyhound, rottweiler, golden ret."
+maternal genotype,genotype,"msh22, flagstaff 14, ms, lw, rpa-70-egfp/+"
+hcv genotype,genotype,"n/a, genotype 1b, 1"
+rb genotype/variation,genotype,"n750f,wt,loh, ko"
+hal genotype,genotype,nn
+myostatin genotype,genotype,"normal, mstn exon 3 floxed"
+genotype (transgenic line),genotype,nrlp-egfp
+genotype of the cells,genotype,"p53(246/-), p53(-/-)"
+genotype p53,genotype,"p53fl/fl, p53.1224, fl/fl"
+genotype.variation,genotype,"pik3ca knockdown, control"
+sdad2 genotype,genotype,"positive, negative"
+spea2 genotype,genotype,"positive, negative"
+prdm1 genotype,genotype,"prdm1ca/+, prdm1beh/beh, villin-cre, prdm1ca/beh, prdm1+/+"
+hdh genotype,genotype,"q7/q7, q111/q111, q7/q111"
+rnasel r462q genotype,genotype,"qq, rr, rq, na"
+genotype rb,genotype,"rbfl/+, rb+/+, fl/fl"
+a.thaliana genotype,genotype,"rdr1/2/6 mutant, rdr1 mutant, wild type (col)"
+genotype/variataion,genotype,"scramble shrna control, creb knock-down, luciferase, shrna control, crtc1-maml2/maml2, knock-down
+ maml2 knock-down"
+genotype/variaion,genotype,"sgpp1-/-, sgpp1+/+"
+transgene genotype,genotype,"t transgene, homozygous, t and s transgenes, homozygous"
+tbx1 genotype,genotype,"tbx1-/-, tbx1+/-, tbx1+/+"
+genotype/ variation,genotype,"trib1-/- unstimulated, wild-type unstimulated"
+genotype abbreviation,genotype,"trphet, trpnull"
+12q13 genotype rs11169544,genotype,"tt, ct, cc"
+3q26 genotype rs12638862,genotype,"tt, ct, cc"
+8q23 genotype rs16892766,genotype,"tt, gt, gg"
+braf genotype,genotype,"v600e mutationwildtype, wildtype"
+host soybean genotype,genotype,"widltype, nfr"
+genotype/varitaion,genotype,"wild type, ä_sml0013:km mutant, f/f, stably expressing hbz, snai1 knockout"
+genotype/variaton,genotype,"wild type, e‚µ-myc wrn dhel/dhel, e‚µ-myc, delta kpst mutant, bca81"
+bacterial genotype,genotype,"wild type, gala7 mutant, hpap mutant"
+gp130 genotype,genotype,"wild type, gp130-deficient"
+genotype/treatment,genotype,"wild type, homozygote"
+ndrg1 genotype,genotype,"wild type, knock-out"
+offspring genotype,genotype,"wild type, pigr+/-, pigr-/-, 5ht1a knockout"
+genotype/variation (host),genotype,"wild type, tgfb1 heterozygote"
+genotype (brdt),genotype,"wild type, th2b+/tag, ko-/-, th2b kd, ko+/+"
+genotype,genotype,"wild type, wt, wild-type, wildtype, b73xh99 f1 hybrid"
+genotype/variation,genotype,"wild type, wt, wild-type, wildtype, refpool"
+genotype/variations,genotype,"wild-type mice, siah1a-/-:siah2-/- (ko) mice, tg2576 appswe-transgenic mice"
+maternal genotype/variation,genotype,wildtype
+parental genotype/variation,genotype,wildtype
+paternal genotype/variation,genotype,wildtype
+genotype/varation,genotype,"wildtype
+ wild type
+ rdo5-1, transgenic mice, bearing a wild-type, allele of ar with 24 cags (ar-24q), transgenic mice carrying a full-length human ar with 97 cags (ar-97q)"
+pathogen genotype/variation,genotype,"wildtype, ä_abvf19-8, wild type, abpf2 deletion mutant"
+idh1/2 genotype,genotype,"wildtype, idh1mutant, idh2mutant"
+mouse genotype,genotype,"wildtype, in vitro, kraslsl-g12d, bl6.wt, wild-type"
+genotypes,genotype,"wt pkbalpha, ko pkbalpha, ko/rescued, pkbalpha, te, ct101, c24, col-0"
+esr1 genotype,genotype,"wt, ex3aerko (esr1 null), kiko (dna binding deficient), aerko (esr1 null), eaae"
+atf2 genotype,genotype,"wt, ko"
+meis1 genotype,genotype,"wt, ko"
+genotype variation,genotype,"wt, ko, luxs negative, nrf-/-, nrf+/+"
+tet2 genotype,genotype,"wt, mutant"
+precipitated ctcf genotype,genotype,"wt, mzf8, mzf7, mzf9, r339w/mzf3*"
+tissue genotype/variation,genotype,"wt, p53 mutant"
+nod2 genotype,genotype,"wt/wt, r702w/wt, insc/r702w, insc/insc"
+mecp2 genotype,genotype,y/-.
+sex (0-female 1-male),sex,"1, 0"
+sex (0-male 1-female),sex,"1, 0"
+sex (male.1_female.2),sex,"1, 2, na"
+baby's sex,sex,"f, m"
+cell sex,sex,"f, m, u, b"
+sex of donor mice,sex,female
+sex/age,sex,"female, 3-5 days old, m/48, f/62, f/67"
+newborn sex,sex,"female, male"
+sex/age at diagnosis (years),sex,female/49
+sexual_orientation,sex,"homosexual, heterosexual"
+recipient sex,sex,"m, f"
+sex/mating type,sex,"m, f"
+donor sex,sex,"m, f, male, female, unknown"
+sex of recipient mice,sex,male
+proband sex,sex,male
+genotyped sex,sex,"male, female"
+mouse sex,sex,"male, female"
+sex (gender),sex,"male, female"
+sex of patient,sex,"male, female"
+sex,sex,"male, female, m, f, unknown"
+patient sex,sex,"male, female, m, n/a, f"
+sexual maturity,sex,mature
+apparent sex,sex,"normale female, apparent impsex female"
+sexed,sex,"pcr, manual"
+sexual differentiation,sex,undifferentiated
+sex chromosome complement,sex,"xx, xo, xy, xy-, xxsry"
+sex chromosome ploidy,sex,"xy, xx, xo"
+"""=- sex""",sex,
+ctl bone 64 years sex,sex,
+w sex,sex,
+transgenic strain,strain,": fsp1-egfp, mmtv-wnt-1, mmtv-wnt/ilk"
+strain 3235 = scc1-pk3,strain,:his
+strain 379 = scc1-ha6,strain,:his3
+strain by4741 ptc2,strain,:kanmx4
+strain by4741 ptc4,strain,:kanmx4
+strain yjdi381 gal1-taf1,strain,:kanmx6 + taf1 ts2
+strain by4741 ptc1,strain,:nat1
+strain [background],strain,"(n>6)b6.129, b6129 hybrid, (n>>2)b6.129, b6"
+strain dba2(%),strain,"0, 75, 100, 50"
+strain sjl(%),strain,"0, 9, 37.5, 84, 69"
+strain serotype,strain,1/2a
+strain (genetic background),strain,"129svjae/c57b6 f1, c57bl/6 x b6129 ola"
+strain b6(%),strain,"16, 0, 62.5, 31, 100"
+infrequent clonal strain code,strain,"1mel, 5mel"
+b.breve strain,strain,210b
+toxoplasma strain,strain,"2f, pru, ctg"
+bxd strain,strain,"33, 28, 21, 40, 12"
+strains,strain,"5500 yeast mutants, pcc 9802 and fgp-2, 200-800 zebrafish from ab*,ab2o2,ab2o2 golden and ab2o2 leo, bd11, bn, bd11, sprd-cu3"
+strain duplicate (a or b),strain,"a, b"
+infection (virus strain),strain,"a/california/07/2009 (h1n1), n/a, influenza a/h1n1 virus isolated from a patient with fatal, pneumonia during the first outbreak in mexico city in april 2009., influenza seasonal virus a/pr/8/34 strain"
+inbred strain,strain,"a/j, b6by.c.132.54, c57bl/6byj, balb/cj"
+strain/accession,strain,atcc 200175
+t cell strain,strain,b10.br
+strain of ooplasm,strain,b6
+strain of paternal pronucleus,strain,b6
+maternal strain,strain,"b6, f1, his2av-mrfp iii.1 (bloomington 23650), c57bl6/j (b6), castaneus (cast)"
+strain or line,strain,"b6c3f1, fischer, f344/ducrl, sprague-dawley rat, sprague dawley"
+strain (donor),strain,balb/c
+strain (host),strain,balb/c
+xenograft recipient strain,strain,balb/c
+source strain,strain,"balb/c, riii"
+parental strain,strain,"bdiv and bdix, cross of h4-8 and h4-8b"
+strain.rep,strain,"bro1, bro2, dah1, als1, ap1"
+listeria strain,strain,"bug2384, bug2466"
+yeast strain,strain,"by4720-leu3null, by4741, snt2-13myc, ecm5-13myc, ybc2192"
+strain (or line),strain,by4742
+strainorline,strain,"by4742, s2, dbaxc57bl/6j, jb371, singapore"
+strain of maternal pronucleus,strain,"c3h, b6"
+strain donor,strain,c3h/hen
+strain description,strain,"c57 black 6, the most common inbred strain of laboratory mouse, unknown strain origin, strain c3h, very related to c57bl/6, strain 129, has widely available embryonic stem cells, derived by inbreeding from selected f2 progeny of b10.a x b10.129"
+congenic strain,strain,c57bl/6
+organ-derived dc strain,strain,c57bl/6
+secondary host strain,strain,c57bl/6
+strain (of recipient mice),strain,c57bl/6
+strain backgroud,strain,c57bl/6
+strain gender,strain,c57bl/6
+strain recipient,strain,c57bl/6
+mice strain,strain,"c57bl/6 cd45+/- (ptprc+/-), c57bl/6"
+strain of the clone,strain,"c57bl/6-cd45.1, c57bl/6-gfp"
+background mouse strain,strain,"c57bl/6, c57bl/6j, 129svjae/c57bl/6, mix of c57bl/6, 129/ola and cba/j, c57b16"
+strain background,strain,"c57bl/6, c57bl/6j, by4741, balb/c, offspring of cross between c57bl6/j (male) and cba/ca (female)"
+strain/background,strain,"c57bl/6, c57bl/6j, diversity outcross x pymt, molf/ei x pymt, 129"
+background strain,strain,"c57bl/6, c57bl/6j, wistar hanover (crlwi[gl/brl/han]igs br), balb/c, c3h/hej"
+strain,strain,"c57bl/6, sprague dawley, cd-igs, c57bl/6j, c57bl/j6 and c3h/hej on apoe null age24 weeks genderfemale, c57bl/j6 and c3h/hej on apoe null age24 weeks gendermale"
+host/mouse strain,strain,c57bl/6j
+strain/cell-line,strain,c57bl/6j
+host strain,strain,"c57bl/6j, a/j, female cd1 nude mouse, nod/scid, cd1"
+mouse strain,strain,"c57bl/6j, c57bl/6, cd1, c57/bl6, balb/c"
+jackson lab. strain,strain,c57bl/6j. gendermale. stock number000664
+host strain background,strain,"cb17/icr-prkdcscid/icrcrl (sever combined immunodeficiency micescid mice), ncr nude mice, balb/c nu/nu"
+strain source,strain,"charles river laboratories, wistar, harvard medical school, p53, iberian pork plant"
+animal/plant strain or line,strain,"charleston harbor, indian river lagoon, fl"
+basal strain,strain,col
+strain/ecotype,strain,"col-0, colombia, shakdara (sha), bay-0, bur-0"
+plant strain,strain,"columbia-0 pen2-1 pad4-1 sag101-2 mutant expressing mla1-ha, columbia-0 pen2-1 pad4-1 sag101-2 mutant"
+insect strain,strain,corn strain
+p. syringae pv tomato strain,strain,"dc3000 carrying avrrpm1, dc3000 wildtype, dc3000 hrpa mutant"
+progeny strain,strain,"dicer fl/+ lyszcre+/- (wild type), dicer fl/fl lyszcre+/- (dicer-deficient)"
+b virus strain,strain,e2490
+evolved strain,strain,"evolved mutator derived after 6700 generations, evolved non-mutator yeast after 6700 generations"
+paternal strain,strain,"f1, b6, canton-s, c57bl6/j (b6), castaneus (cast)"
+strain/line,strain,"f8 ril from the cross between `chinese long` inbred line 9930 and north american pickling gy14, f7 ril from the cross between `chinese long` inbred line 9930 and north american, pickling gy14, cal 27 cells,nm23-h1 transfected, cal 27 cells, empty vector transfected cells, n2"
+strain fgsc number,strain,"fgsc 2489, fgsc 11066"
+strain number,strain,"fmf248, klp694, fmf1 (fgsc9075), fgsc2489, spy 1491"
+cmv strain,strain,fny
+strain/isolate,strain,fully-sequenced human fecal isolate of b.theta (vpi-5482)
+parasite strain,strain,"fv1, 1s, n/a, rh 1-1, uninfected"
+back ground strain,strain,"fvb c57bl/6 crosses, swiss"
+strain origin,strain,"gmr-gal4 x bloomington4776, bloomington25174, bloomington48881 x bloomington4776, pbre c4 isolated from skin biopsy of erythema migrans, 1408 c1 isolated from skin biopsy of acrodermatitis chronica atrophians"
+eri-1 mutant strain,strain,gr1373 (mg366). whole c.elegans
+toxplasma gondii strain,strain,"gt1, ctg, none, ptg"
+strain genotype,strain,"h minus (cnp1-flag:kanr), h minus (leu1 ade6 cnp20+-flag[kanr]), h minus (lys:cnp1halys+), by4743, h minus (scm3-19-ha[kanr] lys1+cnp1-gfp)"
+strain 1783,strain,h- leu1-32 ura4-d18 ade6-210 ssl3:ura4+ ars1-ssl3-29ts-leu2 rad21-3ha-kanr
+strain 1785,strain,h- leu1-32 ura4-d18 ade6-210 ssl3:ura4+ ars1-ssl3+-leu2 rad21-3ha-kanr
+m. tuberculosis strain,strain,"h37rv, r17.1, chn50.2, r19.5, mad2.2"
+control strain o157,strain,h7 edl933
+strain details,strain,"hg.cast-(d11mit260-d11mit255), hg.cast-(d2mit329-d2mit457), hg.cast-(d17mit196-d17mit190)"
+hcmel3 strain,strain,hgfxcdk4r24c_c57bl6
+strain/genotyp,strain,"hpl-2(tm1489), n2 (wt)"
+host mouse strain,strain,"hsdathymic nude-foxn1nu (athymic nude mice), c57bl/6j"
+parent strain,strain,"ja122, jir8094"
+strain info,strain,"jax stock #000664, say995, say996, say841, ah13"
+strain by4741-rco1,strain,kanmx (mata his3__1 leu2__0 met15__0 ura3__0 rco1:kanmx)
+strain by4741-rpd3,strain,kanmx (mata his3__1 leu2__0 met15__0 ura3__0 rpd3:kanmx)
+strain by4741-ume6,strain,kanmx (mata his3__1 leu2__0 met15__0 ura3__0 ume6:kanmx)
+strain by4741-pho23,strain,kanmx (mata his3_1 leu2_0 met15_0 ura3_0 pho3:kanmx)
+strain by4741-msn2,strain,"kanmx/msn4:ura3/rpd3:leu2 (mata his3__1 leu2__0 met15__0 ura3__0 msn2:kanmx msn4:ura3 rpd3:leu2), kanmx/msn4:ura3 (mata his3__1 leu2__0 met15__0 ura3__0 msn2:kanmx msn4:ura3)"
+strain jam1,strain,knockout of s
+strain tw14,strain,knockout of the brpa gene via insertion of a erythromycin cassette
+strain tw1,strain,knockout of the ccpa homolog via insertion of a kanamycin cassette
+bacterial strain used,strain,"l. plantarum 299v msa mutant, l. plantarum 299v wildtype, I. plantarum 299v srt mutant"
+equivalent strain name,strain,"l2r (25667r), l2(434) bu, l2rp+"
+strain[background],strain,line-m
+background strain(s),strain,lxt1xbalb/c
+strain c57bl/6 gender,strain,male age10 weeks tissuesubstantia nigra(sn) disected bilaterally from six like-treated mice.
+strain c57bl/6 gender,strain,male age10 weeks tissuesubstantia nigra(sn) disected bilaterally from six like-treated mice
+strain sr954,strain,mata/alpha ira1:his3/ira1:leu2 ura3___52/ura3___52 leu2:hisg/leu2:hisg his3:hisg/his3:hisg prs316___ira1ra
+strain sr595,strain,mata/alpha ira1:his3/ira1:leu2 ura3-52/ura3-52 leu2:hisg/leu2:hisg his3:hisg/his3:hisg prs316
+strain sr563,strain,mata/alpha ira2:his3/ira2:leu2 ura3-52/ura3-52 leu2:hisg/leu2:hisg his3:hisg/his3:hisg prs316
+strain sr957,strain,mata/alpha ras1:his3/ras1:his3 ras2delta/ras2delta pde2:kanr/ pde2:kanr ura3-52/ura3-52 leu2:hisg/leu2:hisg his3:hisg/his3:hisg trp1+/trp1:hisg
+strain sr959,strain,mata/alpha ras1:his3/ras1:his3 ras2delta/ras2delta pde2:kanr/ pde2:kanr ura3-52/ura3-52 leu2:hisg/leu2:hisg his3:hisg/his3:hisg trp1+/trp1:hisg prs315
+strain sr453,strain,"mata/alpha ura3-52/ura3-52 prs316-ras2v19, mata/alpha ura3___52/ura3___52 prs316___ras2v19"
+strain sr1187,strain,mata/alpha ura3-52/ura3-52 prs316
+strain sr753,strain,mata/alpha ura3-52/ura3-52 prs316___ras2a22
+strain/genotype variation,strain,"mc58, grb2405cml128 hcm1-3ha:natmx4 (hcm1ha), cml128mata ura3-52 his4 leu2-3,112 trp1 (wt), mjrc07grb2405 teto7-hcm1-3ha:kanmx4 (tethcm1ha)"
+strain name,strain,"mixed, common referencemixture of by4716 and, rm11-1a rna from glucose and ethanol conditions, 1254, (wild_type), wt, wt (a11311)"
+strain_description,strain,"mutant strain unable to discharge trichocysts. less background in deciliation experiments, stock 37c09, wild type, wild type mating type vii, wild type mating type viii"
+strain (cy3),strain,n2
+strain (cy5),strain,"n2, ss186"
+toxoplasma parasite strain,strain,"na, type ii (pru a7) +rop16i, type ii (pru a7)"
+reference strains,strain,nctc 11168 and rm1221
+strain id,strain,"ncyc110, w303, yps1009, yps163, ncyc3290"
+rrf-3 mutant strain,strain,nl2099 (pk1426). whole c.elegans
+mouse model strain,strain,"nod balb/c, balb/c"
+viral strain,strain,"none - mock, a/swine/alberta/25/2009, a/swine/iowa/15/1930, a/ca/04/2009"
+strain type,strain,"nontypeable haemophilus influenzae (nthi), e, wild, type, mutant, enological strain"
+cell strain,strain,"normal human astrocytes (nha), mc3t3, 20d17"
+strain (mouse),strain,"nu/nu, c57bl/6"
+virus strain,strain,"pandemic influenza (a/h1n1 new subtype), sars-cov (tor2), none, a/california/07/2009 (h1n1), towne/e"
+parental strains,strain,pax7-creer
+pythium strain,strain,pb912 132
+strain(s),strain,"pbclop11, pbclop10, pbclop17, cf1, cf2, cf3, cf4, cfcz"
+strain/cell line background,strain,pmid 17311920
+infection (influenza strain),strain,"pr8, vn62, x31, mock, none"
+b.bifidum strain,strain,prl2010
+strain for c57bl/6,strain,rag-2-ko
+immune strain/background,strain,"rag2, fvb"
+strain jlrela,strain,rela kockout
+pathogen strain,strain,"s. aureus usa300, tt01"
+background strains,strain,"s96 and yjm 789, c57bl/6 female mouse and a sb/le male"
+bacterial strain,strain,"sanger476, -, o18k1h7, usa300, imdo 130201"
+strain/model,strain,scid beige mouse
+recipient strain,strain,"scid, cb-17 scid/scid, c57bl6_h-2b, na, lethally irradiated syngeneic mice"
+siv strain,strain,"sivsm, sivmac239, uninfected control (sivsm), uninfected control (sivmac239)"
+strain/genotype,strain,"strain dp1, mtb1254 rv3662c-3665c ko, wt, pol1-3flag strain congenic to w303-1a in which the weak rad5 mutant allele in the original w303 has been corrected., __sml1, pol1-3flag strain congenic to w303-1a in which the weak rad5 mutant allele in the original w303 has been corrected., __mec1 __sml1, pol1-3flag strain congenic to w303-1a in which the weak rad5 mutant allele in the original w303 has been corrected."
+bacteria strain,strain,streptcoccus suis 2 strain sc19
+infected with bacterial strain,strain,streptcoccus suis 2 strain sc19
+strain phenotype,strain,"thiamethoxam-resistant (th-r), thiamethoxam-susceptible (th-s), biofilm-negative, biofilm-positive, causing sheep abortion"
+hcmv strain,strain,towne/e
+human cytomegalovirus strain,strain,towne/e
+strain of mouse,strain,"vm, cd1"
+strain crl,strain,wi
+strain/condition,strain,wild type + empty vector in xylose
+donor strain,strain,"wild-type j1 strain sv/129 es cells, 129"
+strain (rat),strain,wistar
+rat strain,strain,"wistar, da (dark agouti) inbred"
+autoimmune strain,strain,"yes, no"
+fish strain,strain,"zebrafish tab strain, ab tubingen, abc"
+1996). strain cd4ko (rrp6,strain,
+ehec strain,strain,
+fibroblast cell strain,strain,
+strain (e. coli),strain,
+strain (yeast),strain,
+strain 877 = mata wpl-9pk,strain,
+strain by4741 ptc3,strain,
+strain by4741 ptc5,strain,
+strain by4741 ptc51,strain,
+strain with gal,strain,
+strain y2197,strain,
+strain y2460,strain,
+strain y2468,strain,
+strain y2699,strain,
+strain y3071,strain,
+strain y3272,strain,
+strain y3351,strain,
+strain y3403,strain,
+strain y3586,strain,
+strain y3650,strain,
+strain y3724,strain,
+test strain,strain,
+vaccine strain,strain,
+age (1#pfu_1),time,21
+age (1#pvu_1),time,26
+sampling age,time,38
+gestational age at delivery,time,40
+age (1#pfu_2),time,42
+average age (days after birth),time,47
+age at rc,time,51.33
+cell line source age,time,56
+age (at specimen collection),time,67.73
+age_dx,time,68
+sac age (wks),time,12/16/17
+age of diagnosis (year),time,"""--"", 34, 57, 32, 35"
+age at onset (years),time,"""-"", na, 47, 48, 78"
+age of onset,time,"""=-n/a"", 20yr, -, 17 yr, 25 yr"
+age at diagnosis (months),time,"<18m, 1, >18m, 6, 4"
+age of trees,time,">30, 3, 9, 2, 1"
+infant age,time,0 day
+ageing at 29 c in days,time,"2000, 2, 14"
+culture age (days),time,"0, 40, 20, 7, 42"
+age (year),time,"0, 68, 55, 59, 54"
+donor age (years),time,"0.35, 54, 50, 82, 92"
+host age (yr),time,"0.50-0.66, 24, 26, 25, 55"
+age in vitro,time,"0h, 24h, 48h, 72h"
+age of the mice,time,1 month old
+age at vaccination,time,"1 month, newborn"
+age (bin),time,"1, 0, na"
+age bin,time,"1, 0, na"
+agebin,time,"1, 0, na"
+age (postnatal days),time,"1, 14, 2007"
+age (day),time,"1, 15, 5, 50, 30"
+agegrp,time,"1, 2"
+agestatus,time,"1, 2, na"
+age and tissue,time,10 days-old seedlings.
+age at start of experiment,time,"10 wks, 8 wks"
+age (days old),time,"10, 52, 66, 68, 57"
+age of ffpe block (years),time,"11, 10, 12, 13"
+age of ffpe tissue,time,"11, 10, 12, 21, 19"
+conidial age,time,12 days
+age months,time,"12, 1.5, 6, 3, 20"
+vitis (41528 population) - age,time,13 month
+age (at the end of treatment),time,13 wks
+estimated age,time,130 days gestation
+age harvested (days),time,"14, 12, 16, 17, 24"
+age of mice (wk),time,"14, 15, 12"
+age at surgery,time,"14, 8, 6-8 weeks, 71, 65"
+age in days at diagnosis,time,"1429, 6306, 6733"
+age of sampling,time,15 years
+mean age in days,time,"150, 141.5, 77.25"
+fetus age,time,"16.1 weeks, 13.6 weeks, 13.9 weeks, 11 weeks, 9.6 weeks"
+age (weeks of gestation),time,"17, 16, 19"
+age/weight,time,170g
+gestional age,time,"18 weeks, 17 weeks"
+serum culture age,time,"180 days, 40 days, 60 days"
+age post partum,time,"19 days + 24 hrs, 8 days, 3 days, 19 days, 13 days"
+age at sacrifice,time,19 weeks old
+mother's age (years),time,"19, 18, 20, 22, 26"
+postnatal age,time,"2 months, 17 days, 20-38 years, 25 years, 31 years"
+gender and age,time,2 year old caucasian female
+plant age,time,"2-year old vine, 19 days, 28 days old, 20 days, 30 days"
+age (in days post-partum),time,"20 dpp, 17 dpp"
+age at harvest,time,20 weeks
+proband age,time,"20-38 years, 25 years, 31 years, 22 years"
+age_at_blooddraw,time,"20, 19, 18, 21, 22"
+cell culture age,time,"21 days, week 27, week 53, week 4, week 8"
+culture age,time,"21 days, week 27, week 53, week 4, week 8"
+biofilm age,time,"21 hours, 30 hours, 34 hours, 24 hours"
+age of epilepsy duration (yr),time,"21, 29"
+hoechst- (viable) cells. age,time,22 days of age
+age of plants,time,"23 months, 3 years"
+age of mouse,time,"23 weeks, 35 days, na"
+age (in years),time,"23, 26, 28, 21, 25"
+age at collection months,time,"24, 13, 12, 49, 37"
+donor age (y),time,"24, 28, 23, 30"
+age (weeks),time,"26, 12, 6, 8/12/2017, 9"
+age at examination,time,"26, 29, 46, 30, 28"
+maternal age (year),time,"27, 22, 23, 24, 32"
+age of gestation,time,"28 weeks, 25 weeks"
+ageatdraw,time,"28, 27, 38, 29, 36"
+age of the clone,time,"29 months, 24 months"
+paternal age,time,"29, 32, n/a, 31, 26"
+gestational age (w+d),time,"29+6, 29+2, 40+2"
+age group (years),time,"3 (>15 yrs), 2 (5-14 yrs), 1 (0-4 yrs), n/a"
+treatment age,time,3 days post-germination
+age of rat,time,"3 months, 30 months"
+mouse age,time,"3 weeks, p56, 2 days, xenograft cells injected at 6-10 weeks, 8 weeks"
+age at biopsy,time,"3 years, 42, 52, 76, 7 years"
+animal age,time,"30 days embryo, 2 yr, 8-12 weeks, 2-months"
+age in years,time,"30, 25, 23, 43, 32"
+current age (2007),time,"30, 40, 24, 29, 66"
+maternal age (yrs),time,"32, 29, 28, 35, 33"
+age at sacrifice (days),time,"35, 50"
+gestational age (wk),time,"37, 38, 36, 34, 32"
+gestational age,time,"37, 38, 39, 14wk, e16"
+age at collection,time,"38 weeks, 53, 58, 65, 54"
+age of woman [years],time,"38, 34, 35, 27, 32"
+gestational age (wks),time,"39, 39, 38, 39.43, 39.71"
+age at 1st diagnosis,time,"39, 44, 52, 47, 36"
+diagnosis age,time,"39, 45, 47, 49, 54"
+age time point,time,"4 hours, 12 hours, 2 hours, 28 hours after nutrient removal, 14h timepoint"
+mouse model age,time,4 weeks
+taqman pool by age,time,"4, 5, 2, 6, 3"
+age of epilepsy onset (yr),time,"4, 7, 13, 14, 2"
+age at infection,time,"4.6, 11.5, 8.1, 5 weeks, 9.5"
+age at tumor,time,40 days
+gestational age (weeks),time,"40, 39, 38, 41, 26"
+age diagnosis,time,"405, 348, 188, 709, 231"
+age at disease onset,time,"41, 35, 30, 37, 32"
+average age,time,"41.42 _± 9.72, 43.17 _± 8.66, 64.7, 49, 29.7"
+age (postnatal day),time,"42, 3, 10, pnd 0 (<24 hrs), 0"
+donor's age,time,"43 years old, 53 years old, 56 years old, 16 years old, 6 years old"
+age_tx,time,"43, 26, 41, 42, 55.2"
+age at sample (months),time,"43, 67, 19, 22, 37"
+agedx,time,"44, 34"
+cell age,time,"44, 50, 31, 34"
+age_years,time,"46, 51, 42, 47, 58"
+age range,time,"48-92 years old, 18-25 yr old, pediatric patient"
+patient age (yrs),time,"48, 46, 56, 53, 50"
+age at blood sample collection,time,"48, 49, 55, 47, 46"
+age-at-biopsy-years,time,"49, 39, 41"
+subject age,time,"49, 9, na, 4, 52"
+age of ipi (yr/mo),time,"4yr, 2yr, 13yr, 3yr"
+age at sampling,time,"4yr, 6yr, 3yr, 8yr, 5yr"
+mutant age,time,"5 week-old tissue48 hpi with pst dc3000(avrrpt2) leaves, 5 week-old tissueuninoculated leaves"
+wild-type (col-0) age,time,"5 week-old tissueuninoculated leaves, 5 week-old tissue48 hpi with pst dc3000(avrrpt2) leaves"
+in a diurnal environment. age,time,5 weeks old
+age (month),time,"5, 10, 3, 17, 2"
+age at diagonosis (years),time,"5.2, 5.6, 15.7, 5.3, 6.4"
+median age,time,"51, 33, 42, 30"
+age on study,time,"51, 33, 59, 38, 22"
+age at surgery (yrs),time,"51, 75, 78, 39, 40"
+donor age,time,"52, 40, 53, 23, adult"
+recipient age,time,"52, 50, 48, 43, 30"
+age at death,time,"52, 87 years, 44, 57, 61"
+age of patient,time,"53, 45, 47 years, 34 years, 40 years"
+age in 1986,time,"54, 17, 22, 15, 24"
+age at 2nd diagnosis,time,"54, 57, 49, 44, 42"
+age(yrs.),time,"54, 76, 55, 81, 39"
+gallus gallus - age,time,"55 week dev. stage (boyes et al. plant cell 2001), 55weekdev.stage (boyes et al"
+age at excision (years),time,"55, 52, 69, 56, 64"
+age(years),time,"55, 56, 58, na, 61"
+age of human sera,time,"56, 44, 54, 58, 63"
+age at dx,time,"57, 49, 61, 54, 73"
+age (at diagnosis),time,"58, 61, 65, 46, 50"
+mean age,time,"58.5 years, 38.25yrs., 31.5 years old, 41.3, 29.68yrs"
+ageatrecruitment,time,"59, 73, 63, 70, 58"
+age at start of treatment,time,"6-8 d, 2 d"
+age of plant,time,6-leaf-old
+agedecade,time,"60-69, n/a, 70-79, 68, 78"
+age at death (in years),time,"60, 53, 57, 62, 55"
+age (yr-old),time,"60, 65, 74, 58, 67"
+age of blood draw,time,"60, 66, 71, 63, 75"
+age at time of resection,time,"60y 5m, 34y 2m, 59y 7m, 31y 3m, 57y 11m"
+patient age,time,"61, 60, 57, 37, 54"
+age at op,time,"61, 64, 63, 65, 67"
+age(yrs),time,"62, 26.6, 30, 64, 72"
+age quit smoking,time,"62, 40, 65, 56, 68"
+age@dx,time,"62, 58, 44, 75, 65"
+ageatdiagnosis,time,"63, 67, 59, 12, 52"
+age_diag,time,"63, 78, 74, 66, 71"
+ageofoperation,time,"64, 54, 60, 27, 48"
+age of diagnosis,time,"65, 57, 49, 59, 46"
+age [y],time,"65, 66, 61, 76, 70"
+age (yrs) at dasatinib start,time,"65, 66, 63, 59, 39"
+age.at.surgery,time,"65, 67, 69, 63, 70"
+age at radiation,time,"66, 57, 47, 65, 54"
+age_at_diagnosis,time,"66, 58, 62, 73, 64"
+age at the time of surgery,time,"67, 76, 71, 72, 63"
+age at time of surgery,time,"67, 76, 71, 72, 63"
+age.year,time,"67.5, 75.3, 74.5, 71.3"
+ctl bone age,time,"68 years sexfemale, 72 years sexfemale, 83 years sexfemale, 71 years sexmale"
+age at onset,time,"68 years, 60 years, 48 years, 71 years, 62 years"
+age-at-examination,time,"68, 47, 48, 54, 69"
+age at primary diagnosis,time,"68, 54, 49, 58, 72"
+age at metastases,time,"68, 61, 59, 76, 74"
+age at diagnosis,time,"68, 61, 71, 73, 51"
+age (yrs) at rrp,time,"68, 66, 67, 70, 71"
+age_at_prostatectomy_(years),time,"68, 67, 64, 58, 59"
+age at diagnosis (y),time,"68, 73, 64, 72, 82"
+age_enroll,time,"68.4, 59.9, 69.9, 65.4, 66.3"
+age (yrs),time,"69, 66, na, 67, 51, 50"
+age (years at surgery),time,"69, 70, 56, 67, 59"
+age (days),time,"69, 70, 56, 9, 74"
+age diet commenced,time,7 weeks
+age high salt diet commenced,time,7 weeks
+age put on diet,time,7 weeks
+age at irradiation,time,"7 weeks, 3 weeks, non-irradiated"
+age at start,time,"7 weeks, 9 weeks, 10 weeks"
+age (month) at surgery,time,"7, 8, 6, 3, 23"
+age induced (days),time,"7, 8, 9, 5"
+agegroupatsampledraw,time,"70 to 75, 55 to 60, 60 to 65, 65 to 70, over 75"
+onset of age,time,"71, 65, 64, 76, 60"
+age at operation (yrs),time,"71.1, 70.5, 69.8, 56, 68.1"
+age seedlings,time,"72 hag, 78 hag, 74 hag"
+age at presentation,time,"72, 50, 70, 69, 66"
+baseline age (years),time,"72, 67, 57, 76, 50"
+age (years),time,"74, 62, 76, 83, 45"
+age [years / days],time,76 / 197
+age at start therapy,time,"76, 54, 64, 80, 51"
+age (yr),time,"76, 74, 75, 28, 77"
+op bone age,time,"78 years sexfemale, 74 years sexfemale, 87 years sexfemale"
+subject age (years),time,"78, 68, 73, 48, 80"
+age at death (years),time,"78, 70, 69, 88, 81"
+age at enrollment (years),time,"79, 83, 73, 71, 77"
+age at baseline,time,"7m, 6.9m, 5m, 4m, 5.9m"
+age,time,"8 weeks, approximately 14 days, 6 to 8 weeks, 6-8 weeks, adult"
+age (y),time,"8 weeks, na, 48, 53, 49"
+starting age,time,8-week old
+patient age at diagnosis,time,"8-yrs, 8, 2-yrs, 9, 9-yrs"
+age(weeks),time,"8, 32, 16, 72, 15"
+age at infection (yrs),time,"8.1, 9.5, 6.1, 10.1, 12"
+age (mos),time,"8.5, 10.5"
+age at collection (months),time,"87, 71, 140, 97, 161"
+age at death (y),time,"89, 80, 81, 87, 76"
+age at sacrafice,time,92-114 weeks postinoculation
+age(month),time,"96, 60, 48, 72, 13"
+age at blood drawing (months),time,"96, 72, 36, 60, 84"
+age of subjects,time,"about 60 years, about 25 years"
+age description,time,"adult 8 weeks, immortal cells, embryonic day 0 (stem cell), embryonic day 14.5, embryonic day 11.5"
+age/gender,time,"adult male, 77/m, 60/m, 54/f, 2-3 month old males"
+agegroup,time,"adult, old, young, [53,58), [58,63]"
+final age at death,time,approximately 18 weeks old
+cycle phase/ gestational age,time,"cycling endometrium secretory phase, first trimester"
+age/disease timepoint,time,"day 100, end-stage, day 65, day 130, day 150"
+age of embryo,time,day 19
+neuron age,time,day 5 in vitro
+age of culture,time,"day 5, day 21, day 7"
+age (after birth),time,"day6, day0, day24"
+age of culture,time,"day7, day 7, day 5, day 6, day 2"
+embryonic age,time,"e10.5, e14.5, 10 weeks"
+age of source,time,e12.5
+source age,time,"e13.5, e11.5, 8-week, e3.5, e12.5"
+embryo age,time,"e14.5, tissue whole embryo excluding head and organs, week 11 of gestation, e17, 1 hour post fertilization, 7 hour post fertilization"
+gestational age of pups,time,"e17.5, e14"
+initial age (infection day),time,eight weeks old
+tissue & age,time,"fiber 2 dpa, fiber 10 dpa, fiber 20 dpa, npcs of neocortex from 3 littermates wild-type mouse embryos at e14, npcs of neocortex from 3 littermates ts1cje mouse embryos at e14"
+pig age,time,"gestation day 75, gestation day 90, 30 days"
+age_at_onset,time,"gte6, lt6"
+tissue age,time,"heads after mid-anthesis, five weeks after grafting seven day-old seedlings"
+agenotype,time,"homozygous knockout (sirt1-/-), wild type (sirt1+/+), heterozygous knockout (sirt1+/-)"
+agender,time,male
+age of onset (years),time,"n/a, 25, 22, 14, 17"
+age at first birth,time,"n/a, 26, 25, 28, 23"
+maternal age,time,"n/a, 27 ,29, 24, 30"
+treatment start age,time,"n/a, 44 days"
+age at dx (years),time,"n/a, 5, 6.6, 6.4, 3.9"
+mean age years (range),time,"n/a, 62.75 (56-68)"
+age-at-onset,time,"n/a, 65, 45, 48"
+age at diagnosis (years),time,"na, 12, 5, 3, 14"
+age at incident,time,"na, 24, 17, 54, 15"
+age (months),time,"na, 28, 12, 8, 11"
+age (months),time,"na, 28, 12, 8, 11"
+ageyear,time,"na, 49, 48, 46, 42"
+ageatsampling,time,"na, 66, 42, 38, 62"
+age.at.diagnosis,time,"na, 68, 70, 78, 73"
+age of biopsy,time,"na, 73 days, 75 days, 54 days, 3 years"
+age at operation,time,"na, 74 years, 70 years, 28, 64"
+age.brain,time,"na, 80, 90, 86, 88"
+age.blood,time,"na, 89, 80, 79, 82"
+age at blood draw,time,"not available, 58, 61, 68, 59"
+sample age,time,"null, 7.416666667, 12.16666667, 7.916666667, 9.833333333"
+age category,time,"old, young, adult"
+developmental age,time,"p1, 120 days of fetal age, 1 day of life, 130 days of fetal age, 145 days of fetal age"
+development age,time,"p30.5, e18.5"
+age (pn postnatal days),time,"pn14, pn1, pn7"
+age (at weaning),time,pnd 22
+age sacrificed,time,pnd 8
+age (pup),time,pnd70
+age unit,time,"week, day"
+ageunit,time,"week, day, weeks"
+units of age,time,"weeks, pnd, days, weeks at start of exposure, years"
+age (mouse),time,"xenograft cells injected at 6-10 weeks, 4 months"
+age group,time,"young, adult, old, nonagenarian, ped"
+age_group,time,"young, aged"
+sample age group,time,"young, middle-age, old"
+age ___ 65,time,
+age 4-7 years,time,
+age at blood withdrawal,time,
+age at dx in days,time,
+age(years)/gender,time,
+age/sex,time,
+control case age,time,
+ma1 age,time,
+ma2 age,time,
+ma3 age,time,
+ma4 age,time,
+ma5 age,time,
+ma6 age,time,
+mc1 age,time,
+mc2 age,time,
+mc3 age,time,
+mc4 age,time,
+mc5 age,time,
+mc6 age,time,
+medicago (truncatula) - age,time,
+not current age,time,
+incubation time (hours),time,0
+time in meiosis (hr),time,0
+time under flooding (h),time,0
+time_to_relapse (years),time,1.3
+time pi (weeks),time,3
+time to recurrence (years),time,15.75
+induction time (h),time,24
+time to hcc recurrence (days),time,1097
+collection time,time,"less than 72 hour after symptoms, 3 to 7 dys after symptoms, 2 to 5 weeks after symptoms, 0 hr, 24 hr"
+time.to.recurrence (years),time,"., 2.16, 0.83, 2.08, 1.82"
+pfs time,time,"., 288, 178, 388, 104"
+time.to.ok,time,"., 4.99, 5.3, 5.16, 5.07"
+treatment time (rhgaa),time,"""--"", 00 weeks, 12 weeks, 52 weeks"
+evolution time (years),time,"""--"", 7, 13, 3, 8"
+time until recurrence (years),time,"""-"", 2.4"
+dsn time,time,"""-"", 5h"
+time (weeks of treatment),time,"""-4"", 11, 27, 23, 17"
+timepoint (wks),time,"""-5"", 12, 4"
+time quit (@ initial consult),time,">10yrs, 6-10yrs, 0, 1-6mos, unk"
+tissue collection time,time,"0 h (control), 6 h post pgf2ï± administration, 18 h post pgf2ï± administration, 3 h post pgf2ï± administration"
+time before sampling,time,"0 h, 24 h, 72 h"
+time of exercise,time,"0 hour (pre), 6 hour, 24 hour, 3 hour"
+time post-perforation,time,"0 hours, 12 hours, 144 hours, 36 hours, 24 hours"
+post serum time point,time,"0 hours, 6 hours"
+time differentiated,time,"0 hr, 24 hr, 72 hr"
+time in fr light,time,"0 hr, 3 hr, 1 hr, 24 hr"
+hcg treatment time,time,"0 hr, 3 hr, 14 hr, 9 hr"
+time in constant white light,time,"0 hrs, 8 hrs, 32 hrs, 4 hrs, 12 hrs"
+time(absolute),time,"0 months, 1 months"
+post-exposure time,time,0 weeks
+time_to_metastasis (years),time,"0, 1.6, 2.1, 2.4, 1.7"
+zt time,time,"0, 12, 18, 6, 3"
+time (minutes),time,"0, 12, 6, 15, 20"
+time (days post-infection),time,"0, 2"
+timepoint (weeks),time,"0, 2"
+induction time (hours),time,"0, 24"
+time after injury (hours),time,"0, 288, 528, 3, 6"
+time (d),time,"0, 3, 10, 1, 7"
+time in spo (hours),time,"2000, 3, 5"
+time (h),time,"0, 4, 6, 24, 8"
+time point (hours),time,"0, 72, 2, 4, 12"
+time post surgery,time,"0, 8 weeks, 2 weeks, 4 weeks, 12h"
+dfs time (months),time,"0, 8.51, 54.7, 20.7, 91.93"
+time since sample1 months,time,"0, 9.93, 21.41, 19.21, 35.74"
+time period of attachment,time,"0.25 h, 1 h, logarithmic aerobic growing cells"
+time pre_post surgery (years),time,"0.28, 0.15, 0.53, 0.25, 0.14"
+time after injury,time,"0.5 h, 72 h, 7 d, 24 h, 28 d"
+time (hours after pollination),time,"0.5, 8, 3.5"
+post-infection time points,time,"0.5hpi, 16hpi, 18hpi, 1hpi, 2hpi"
+rna degradation time,time,"000 h, 315 h, 145 h, 230 h"
+time post-stimulation,time,"008hr, 024hr, 072hr, 000min, 720min"
+extraction time,time,"0h after bru labeling, 6h after bru labeling"
+time (post amputation),time,"0h, 12h, 48h, 24h"
+time after induction,time,"0h, 24 hours, 1 days, 5 days, 0 days"
+pos-harvest time,time,"0h, 24h, 5h"
+differentiation timepoint,time,"0h, 72h, 48h, 24h, t0"
+time,time,"1 d, 3 d, 5 d, 24h, 0.25 d"
+time after treatment,time,"1 day, 6h, 12h, 24h, 72h"
+4-thiouracil labeling time,time,"1 h, fourth h post-n-addition, first h post-n-addition"
+post radiation time (hour),time,"1, 12, 24, 4, 0"
+time point (day),time,"1, 28, 0, 3, 4"
+lps exposure time,time,"1, 3, 0, 5"
+time after es/ga (days),time,"1, 7, 3, n/a"
+follow up time (months),time,"1.2, 29.9, 48.7, 68.8, 51"
+pfs time (years),time,"1.33881, 3.96715, 0.780287"
+time_rec (years),time,"1.58, 2.08, 2.3, 0.92, 5.17"
+time to outcome,time,"1.624 years, 0.035 years, 0.684 years, 2.315 years, 2.846 years"
+developmental time,time,"1.75 - 2.75 hrs, 2 - 3 hrs, 0 h, 2 h, 1 h"
+time (hpi),time,"10 hr, 20 hr, control, 72, 96"
+time(weeks),time,10 weeks
+dfs time (yrs),time,"10, 10.66666667, 10.5, 10.75, 9.91666667"
+time sacrificed,time,"1130, 1505, 1230, 1439, 1105"
+time to meta or recurrence,time,"1175, 446"
+transfection time,time,"12 hrs, 48h, 7 hours, 12 hours, 25 hours"
+time on diet,time,"12 weeks, 11 weeks"
+feeding time,time,"12 weeks, 9 weeks"
+circadian time (ct),time,"12, 18, 0, 6"
+time in hrs,time,"12, 24, 3, 0.5, 6"
+time (hrs),time,"12, 24, 8, 4, 0.5"
+treatment time(minutes),time,"120, 480, 0, 20, 40"
+10years followup time (months),time,"120, 51.49, 50.48, 52.51, 73.48"
+time inject,time,"1230, 1110, 1100, 1130, 1200"
+time post infection,time,"12h, 24h, 14 days, n/a, 3 day dpi"
+stress time,time,"12h, 24h, 48h"
+time of pseudo-pregnancy,time,"13 days, 15 days"
+survival time (month),time,"13.86138614, 29.07590759, 16.46864686, 12.07920792, 18.15181518"
+collected time,time,14 days after inoculation
+time after lights on,time,"14 hr;, 6 hr;, 11 hr;, 23.75 hr;, 18 hr;"
+time point (months),time,"14, 2, 0, 12, 0.5"
+survival time (months),time,"14, 88, 25, 108, 19"
+time after vaccination,time,"14d, 0h, 2h, 24h, 4h"
+fermentation time,time,"15 hours of fermentation, 17h, 21h, 30h, 12 hours of fermentation"
+time post-copulation,time,"15-minutes, 2-hours, 6-hours"
+time point (minutes),time,"15, 30, 60, 5, 45"
+time (post-protocol),time,"16 weeks, 4 weeks, 8 weeks, 2 weeks, baseline"
+time stimulated with anti-igm,time,"16h, 8h, unstimulated, 3h"
+post-infection time,time,"16hr, 1hr"
+time os (months),time,"17, 35, 13, 14, 21"
+time_to_dod_(months),time,"17.68767123, 55.03561644, 6.575342466, 69.50136986, 67.92328767"
+hybridization time,time,"18 hours, 16 hrs, 65 hours, 140 hours, 40 hrs"
+time (hours),time,"18, 24, 4, 0, 6"
+timesampletaken,time,"1815, 1745, 1515, 1700, 2115"
+sirna treatment time point,time,"18hr, 8hr, 4hr, 12hr"
+cold ischemia time (hours),time,"19, 16, 20, 30, 24"
+time of embryo collection,time,"196 hpf (hours post-in-vitro fertilization), 7 dpi (days post-in-vivo insemination), 7 dpscnt (days post-somatic cell nuclear transfer), 170 hpf (hours post-in-vitro fertilization), 180 hpf (hours post-in-vitro fertilization)"
+time post mcao before sample,time,"1h, 6h"
+sampling timepoint,time,"1hr after glucose ingestion, before glucose ingestion (baseline), 2hr after glucose ingesion, 8 h, 72 h"
+tnfa treatment time point,time,"1hr, 2hr, 3hr, 6hr, untreatment"
+time extraction,time,"2 days post graft, 7 days post graft, na"
+time in continuous light,time,"2 days, 3 days, 4 hrs, 8 hrs, 12 hrs"
+ex vivo challenge time,time,2 hours
+time_after_resection,time,2 hours
+injected timepoint,time,2-cell stage
+injection timepoint,time,2-cell stage
+time after infection (h),time,"2, 0, 24, 12, 6"
+time (days of dss treatment),time,"2, 0, 7"
+time point (hrs),time,"2, 10, 14, 18, 22"
+time [hours],time,"2, 24, 12, 6, 0.5"
+time point (week end),time,"2, 4, 6, 8, 20"
+ischemic time (days),time,"2, 5, 1207, 1886, 9"
+kcl treatment time (hours),time,"2, 6, 2001"
+time (min.),time,"20, 10, 5, 40, 0"
+sporulation timepoint,time,20h
+time post transfection,time,"20h, 120h"
+time to harvest,time,21 days
+time (days),time,"21, 9, 7, 0, 14"
+time sac,time,"210, 200, 100, 240, 330"
+time sample taken,time,"2110, 1710, 1845, 910, 2215"
+time rfs,time,"2189, 2280, 5029, 3162, 3648"
+time post bloodmeal,time,22-26 hrs
+harvested at what time,time,"24 h, 96 h, 192 h"
+time after stimulation,time,"24 h, t30 (minutes), 0 hours, t0 (minutes)"
+time post injury,time,24 hours after injury
+culture time,time,"24 hours, 3 days, 32 days, 18 h, 2 days"
+time post treatment,time,"24 hours, 4 hours, 2 hours, 6 hours, 0 hour"
+time of exposure,time,"24 hours, 6 hours, 48 hours, 3 day, 24hrs"
+time after isolation,time,"24 hr, 48 hr, 0 hr"
+time point (h),time,"24, 1, 0, 8, 0.5"
+time point (hr),time,"24, 1, 3, 6, 0.25"
+sampling time (hours),time,"24, 336"
+time recovery (hour),time,"24, 48, 72"
+time [h],time,"24, 6, 2, 0, 8"
+harvest time after exposure,time,"24h, 0h, 4h, 1h"
+exposure time,time,"24h, 24 h, 96 hours, 24 hrs, 72h"
+time point,time,"24h, 6h, 12h, 0h, 0"
+treatment time-point,time,"24h, 8h, ctrl, 15h, 2h"
+time post-injection,time,"24hr, 48hr"
+time of harvest,time,"24hr, 6hr, 2hr"
+cell collection time,time,"24hrs after last dose, control, 6hrs after last dose, 2hrs after last dose"
+time exposure,time,"24hrs, 2 h, 24+8hrs, 24+6hrs, 32hrs"
+treatment time (hours),time,"24hrs, 8, 6hrs, 4, control"
+time point in batch cycle,time,"254 hrs after the addition of tce, 313 days after the addition of tce, 127 hrs after the addition of tce"
+time period,time,"25d, 8h, 3d, 1d, 38d"
+harvested time after dose,time,"26hr, 2hr"
+doubling time (hrs),time,"29.5, 32.3, 35.1, 34.7, 39"
+time since lif removal,time,"2d, 0d, 6d, 4d, 8d"
+timepoints,time,"2h, 8h, 24h after induction of sexual development, 72h after induction of sexual development, 144h induction of sexual development"
+diet intervention time,time,2wks
+time post-mrsa infection,time,"3 day, 1 day"
+cell sorting time,time,"3 days after transfection, 7 days after transfection"
+time post-wound,time,"3 days, 10 days, 6 hrs, 12 hrs, 24 hrs"
+time post-infection,time,"3 days, 2 days, 1 day, 10 days, day 1"
+time post exposure,time,"3 days, 4 h, 5 days, 3 h, 24 h"
+virus replication time,time,"3 hours, 7 hours, none"
+induction time,time,"3 hours, 8 hours, 7 hours, 0 hours, 6 hours"
+time in meiosis,time,"3 hr in meiosis, 2.5 hr in meiosis, 0 hr in meiosis, 2 hr in meiosis, 3.5 hr in meiosis"
+treatment time point,time,"3 hr, 24 hr, 10 minutes, 30 minutes, 350h"
+elapsed time,time,"3 hr, 6 hr, 1 hr, 15 min, 30 min"
+time post-immunization,time,3 weeks
+time point (days),time,"3, 28, 1, 2, 0"
+timepoint (dpa),time,"3, 28, 35, 7, 21"
+time after induction [days],time,"3, 6, 12, 9, n/a"
+time since meiosis started,time,"3.5 hours, 5 hours"
+time post transplant,time,"3.5 years, 9 years, 4 years, 3 years"
+time (days post-treatment),time,"30 days, 1 day, 15 days, 7 days, 3 days"
+cell harvest time,time,"30 hrs post infection, 56 hrs post infection"
+post-injury time,time,"30 minutes, 3 days, 7 days, no injury"
+time (min),time,"30, 0, 60, 75, 45"
+infection time (min),time,"30, 120, 60, 0"
+time (dpi),time,"30, 6, 15, 8, 0"
+time biopsy to surgery (days),time,"31, 35, 18, 23, 42"
+survival time (days),time,"3183, 3309, 1680, 1604, 5128"
+time post-induction,time,"32 hours, 48 hours, 24 hours, 6h, 0h"
+time_in_freezer,time,"3277, 3892, 3618, 3365, 3001"
+time pfs (months),time,"35, 25, 14, 16, 12"
+cultivated time,time,36h
+time after plating,time,36h
+post-mixing time,time,3h
+time (post-treatment),time,"3h, 6h, 0h, 21h, 18h"
+timepoint/developmental stage,time,"3hr after lights are on, 0hr, 4hr, 2hr"
+time (post-infection),time,"4 day, 2 day, 1 day, 7 day, day 14"
+stimulation time,time,"4 days, 24h, 2h, 0h, 120 minutes"
+time (duration),time,4 h
+time after media shift,time,"4 hours, 1 hour"
+age time point,time,"4 hours, 12 hours, 2 hours, 28 hours after nutrient removal, 14h timepoint"
+incubation time,time,"4 hours, 280-288 degree days post fertilisation, 24, 8 hours, 2 hours"
+meiotic timepoint,time,"4 hours, 3 hours, 6 hours"
+treatement time,time,"4 hours, 40 hours, 10, 0, 40"
+infection time,time,"4 hours, 48h, 4h, 18h, 6hr"
+time after infection,time,"4 hours, 7 days, 10 days, 14 days, 21 days"
+time of euthanasia,time,"4 hr, 12 hr, 20 hr, 0 hr, 8 hr"
+stimulation time and condition,time,"4 hrs bcg stimulated, 4 hrs unstimulated, 12 hrs bcg stimulated, 12 hrs unstimulated"
+time after exposure,time,"4 weeks, 1 hour, 12 weeks, 3 weeks, 6 weeks"
+differentiation time days,time,"4, 0"
+time class,time,"4, 0, 24"
+time trial,time,"4, 1, 2, 3, 0"
+time (wpi),time,"4, 8, 2, 9, 10"
+survival time (year),time,"4.5, 4.25, 4.58, 4.17, 4.33"
+time of gut bacteria,time,"42 days prior, 1 day prior, 2 days prior, 14 days prior, 35 days prior"
+time after feeding,time,42h
+time (post-injection),time,"44 hours, 20 hours"
+4su labeling time,time,45 min
+doubling time,time,"45.5, 39, 29.5, 23.8, 32.3"
+developmental time point,time,"48, 15 days of age, 6 weeks of age, gestational day 15, 19 days of age"
+time_hr_post_hypoxia,time,"48, 6, 168, 1, 12"
+time_point,time,"48h, 24h, early, late, 16h"
+collection timepoint,time,"48hr, 10hr"
+time after h2o2 treatment,time,4h
+sk-mel-103 time,time,"4h, 10h"
+il4 stimulation time,time,"4h, 18h, none"
+recovery time,time,"4h, 28 days, 28d, 16 weeks, 0 hours"
+reperfusion time,time,4hr
+sample time after surgery,time,5 days
+mnase digestion time,time,"5 min, 25 min"
+time.to.death (years),time,"5.36, 3.93"
+dmfs time,time,"5.58, 5.83, 4, na, 4.83"
+survival time,time,"56, 726, 173, 302, 71"
+bddm followup time (months),time,"59.9917864, 60, 39.3264887, 38.8336756, 59.5975359"
+differentiation time,time,"6 days, 4 weeks, 0 days, 2 days, day 3.5"
+sulfur deprivation time,time,6 hours
+time post injection,time,"6 hours post infection, 10 days post infection"
+sacrifice time,time,"6 hours, 1344, 1300, 1326, 1629"
+growth time,time,"6 hours, 2 hours, 16 hour culture, three days, 4hr"
+time point [c],time,"6 hours, 2 hours, 24 hours, 12 hours, 0 hours"
+time of progression,time,"6 wks, 7 wks, 9 wks, 13 wks, 12 wks"
+time(wpi),time,"6 wpi, 2 wpi, 4 wpi, 8 wpi, 10 wpi"
+time after induction[days],time,"6, 0, 9, 12, 3"
+time-to-progession (months),time,"6, 11, 8, 3, 10"
+time (hr),time,"6, 48, 0, 30, 24"
+brain ph at time of freezing,time,"6.6, 6.76, 6.3, 6.93, 6.59"
+age at time of resection,time,"60y 5m, 34y 2m, 59y 7m, 73y 4m, 31y 3m"
+age at time of surgery,time,"67, 76, 71, 72, 63"
+culture doubling time,time,"69 hours, 4.6 hours"
+time submerged,time,"6d, 1d"
+treatment time,time,"6hr, 2hr, 0hr, 24h, 14 days"
+time (doxorubicin),time,"6hrs, 1hrs, 9hrs, 0hrs, 3hrs"
+time in entraining conditions,time,7 d
+time of biopsy,time,"7 days after the putative luteinizing hormone surge, biopsy at baseline, 6 days after the putative luteinizing hormone surge, biopsy at 3 months after inclusion, 8 days after the putative luteinizing hormone surge"
+time in culture,time,"7 days, 14 days, 48 hours, 6, 72"
+time (incubation),time,"7 hrs, control, 24 hrs"
+time of tamoxifen treatment,time,"7 months of tamoxifen treatment in vivo, 8 months of tamoxifen treatment in vivo, from, 7 to 8 months of tamoxifen treatment in vivo, 9 months of tamoxifen treatment in vivo, 10 months of tamoxifen treatment in vivo"
+expression time hours,time,"7, 10"
+time after lesion (days),time,"7, 3, 21, 40, 0"
+metastasis time (month),time,"7.121661721, 26.50840752, 11.53972964, 27.4975272, 1.153972964"
+os time,time,"7.94, 2.86, 271, 1.18, 7.43"
+fu time,time,"70.08, 62.85, 6.54"
+culture time (hrs),time,"72, 12, 6, 192, 0"
+time after transfection (hr),time,"72, 48, 96, 24"
+time since wetting,time,"73.9 hr, 35.5 hr, 11.5 hr, 9 hr, 22 hr"
+time (post-inoculation),time,"78 h, 174 h, 198 h, 6 h, 102 h"
+harvest time point,time,"7d post-surgery, 12, at the end of the 6 hour exposure period, 18 hours after the 6 hour exposure period on the 2nd day, at the end of the of the 2nd day 6 hour exposure period"
+time post-surgery,time,"7d, 4d, 14d, 1d, 0h"
+handling time,time,8 hours
+cross-linking time,time,"8 min, 12 min"
+timesincemating,time,"8 weeks, 1 weeks"
+time after surgery,time,"8 weeks, 2 weeks, 10 weeks"
+time (h) post-infection,time,"8, 1, 2, 4, 0"
+fermentation time point,time,"80hr, 60hr, 102hr, 8hr, 30hr"
+time [days of culture],time,"9, 0"
+event time (years),time,"9.4, 9.483333333, 9.45, 14.43333333, 7.133333333"
+post-treatment time,time,"90 hours, 1 week"
+time after actd,time,"90 min, 45 min, 0 min"
+time point after stress,time,"90 min, 7 min, 45 min"
+seizure time,time,"917, 1021, 1123, 1106, 1104"
+time injected,time,"931, 1017, 1355, 954, 1050"
+time aed,time,"96 hrs, 60 hrs, 72 hrs"
+relapse free survival time,time,"96.82 month, 36.10 month, 36.36 month"
+time (after crossing),time,"96hr, 72hr, 24hr, 120hr, 144hr"
+meiotic time point,time,"9h, 0h, 5h, 11h, 7h"
+growth time points,time,"9h, 2h, start control, 7h"
+time graft,time,"acute, delayed, na"
+postnatal time-point,time,adult
+donation time,time,"after brain death, after cardiac death"
+time of treatment,time,"after disease establishment, zt24, zt36, 6h, time of grafting"
+time of specimen collection,time,"after transplant, before transplant"
+time of collection,time,"am, day 7.5 of culture (post fertilization), pm, 48 hour, day 7.0 post insemination"
+sampling time,time,"at diagnosis, at remission, daytime 1200, nighttime 2400, 30 minutes after oda600 0.75"
+time-point,time,"baseline, post-deployment, pre-deployment, pre-infection, post-infection"
+time of growth,time,cells were grown for 72 hrs
+time course,time,"constant stress, recovery, early log phase, mid log phase, 8 days"
+dark timepoint,time,"control, 1 h, 2 h, 15 min, 4 h"
+harvest time,time,"control, 20, 26, 14, day 3"
+light timepoint,time,"control, 8 h, 30 min, 1 h, 4 h"
+timecollected,time,"ct12, ct16, ct24, ct28, ct32"
+sample time point,time,"ct23.5, ct11.5, ct17.5, ct0.5, ct5.5"
+time point post-infection,time,d8
+time (relative to induction),time,"day -2, day 0, day 9, day 7, day 3"
+time-points collected,time,"day 0 (immediately after sorting), day 7"
+time post vbg,time,"day 0, 4 months, 12 months"
+age/disease timepoint,time,"day 100, end-stage, day 65, day 130, day 150"
+time of differentiation,time,"day 12, day 8, day 4/5, 3 days, 2 days"
+sampling time point,time,"day 140, day 28, day 0, day 14, week 12"
+time point (visit),time,"day 2 (v1), baseline (v3), day 6 (v2)"
+time after scale removal,time,"day 3, day 7"
+time of transfection,time,"day 4, day 0"
+time after adoptive transfer,time,"day 5, day 15, day 0"
+time of death,time,"day 6 of illness, day 17 of illness"
+time of sample collection,time,"day 7 post-infection, day 4 post-infection, day 2 post-infection, 48h post-infection, 12h post-infection"
+time (post virus infection),time,"day 7, day 4, day 2, day1, 0h"
+time p.i.,time,"day 8, day 3, day 5"
+time points,time,"day7 post stimulation, day7 p.i., 24 hours, 12 hours, 48 hours"
+units of treatment time,time,"days/wk, 6 hr/day, hr/day"
+time of atoh1 expression,time,"e13.5, e10.5"
+harvest timepoint,time,"e17.5, zt12, zt16, zt20, zt4"
+relapse time,time,"early (less than 36 months), late (greater than 36 months)"
+injection time,time,embryonic day 14
+secondary time course,time,final 24 hours of 8 day treatment
+sample time,time,"five weeks after grafting, before ebv acquisition, mid-exponential phase, following resolution of infectious mononucelosis, day 10"
+infection_control time,time,for 7 days
+time_hpi,time,"hour 00, hour 005, hour 045, hour 012, hour 060"
+time [post-infection],time,"hour 72, hour 8, hour 24, hour 0, hour 48"
+time of relapse,time,"late, very early, early"
+time reference,time,"longitudinal, enrollment"
+sampling time group,time,"mid, early"
+sampling date and time,time,n/a
+time interval fromc (months),time,n/a
+time measured post wounding,time,"n/a, two hours, 30 min"
+survival time (years),time,na
+survival time in months,time,na
+time to treatment (days),time,"na, 0, 31, 230, 1624"
+timetofirstszmin,time,"na, 0, 330, 57, 115"
+time post-treatment,time,"na, 1 day, 7 day, 0 day, control"
+time2lr,time,"na, 2.2, 4.6, 3.1, 4.2"
+overall survival time_days,time,"na, 2211, 2225"
+recurrence free time (months),time,"na, 25, 32.13, 31.97, 38.3"
+overall survival time,time,"na, 40, 20, 37, 36"
+dfs time,time,"na, 5.58, 4, 5.83, 4.67"
+dss time,time,"na, 5.58, 5, 5.83, 1.96"
+time of followup (mo),time,"na, 81, 83, 71, 53"
+ph<7.30 at time of diagnosis,time,"no, yes, n/a"
+time to next relapse(days),time,norelapse
+time to survival,time,not aplicable
+time to distant metastasis,time,"not applicable, 6 months, 16 months, 19 months, 13 months"
+timepoint 4h treatment,time,"not same day, same end point, same start point"
+follow-up time (months),time,"ntl, 11, 14, 12, na"
+time of sorting,time,on day 5 of culture
+full time pregancy,time,"parous, nulliparous"
+training timepoint,time,"post, pre"
+time of surgery,time,"post;, pre;"
+time post-vaccination,time,"pre-challenge, 51-53 hours, 76-78 hours, 4-6 hours, 26-28 hours"
+sample collection time,time,"pre-treatment, post-treatment, follow up, 8 months post-vaccination (pre-siv challenge), 10 days post-siv challenge"
+timepoint,time,"prior to artemisinin combination therapy (act), pre-treatment, 24h, 2h, baseline"
+time of sample harvesting,time,"reperfusion, normoxia, ischemia"
+time point after hepatectomy,time,"s48h, 2h, 48h, 0h, 6h"
+hatching time,time,"sept, dec"
+nitrogen starvation time,time,"st2d, st10d, t0, st10d+1h"
+explant timepoint,time,stage 9/10
+partial hepatectomy time point,time,"t=0, t=1h, t=6h, t=12h, t=24h"
+timepoint (hrs),time,"t=42, t=18, t=0, 3"
+biopsy time,time,"t1, 3month, 0month, ts, t2"
+time point (min),time,"t60, t90, t390, t210"
+time of sampling,time,"taken relapse after treatment, taken at diagnosis, diagnosis, relapse"
+time and stimulation,time,"tref, t1sa, t1sp, t5sa, t5sp"
+time clin rec,time,"unknown, 0, 16, 151, 18"
+time met rec,time,"unknown, 0, 16, 55, 151"
+time bcr,time,"unknown, 0, 2, 16, 17"
+time clinical recurrence,time,"unknown, 0, n/a, 55.06849315, 12"
+time metastatic recurrence,time,"unknown, 0, n/a, 55.06849315, 81.10684932"
+time no bcr,time,"unknown, 16, 17, 2, n/a"
+time f/u,time,"unknown, 164, 12, 16, 65"
+drug treatment time point,time,"untreated, 4hr, 6hr, 8hr, 2hr"
+agent time,time,"weaning - 8 weeks, 10 hr, 6 hr, 16 hr, 3 hr"
+units of harvest time point,time,"week, weeks, hr, days, h past seeding"
+timeunit,time,years
+time (of harvest),time,zt1
+time of day,time,"zt10, zt6, leaves collected in the hour before lights were turned on (pre-dawn), leaves collected in the hour in the middle of the photoperiod (pm), leaves collected in the hour before lights were turned on (am)"
+time of cacrifice,time,zt12 on 3.5 days post copulation
+circadian time,time,"zt14, 4, 8, 16, 20"
+time of sacrifice,time,"zt14, zt16, zt18, zt20, zt10"
+age at the time of surgery,time,
+circadian time point,time,
+cold ischemia time,time,
+conjugation time,time,
+continuous light time,time,
+drug treatment time,time,
+os time (years),time,
+split ratio time 1,time,
+time (months) overall survival,time,
+time after inoculation,time,
+time at 4__c,time,
+time fter actd,time,
+time of hcmv infection,time,
+time of treatment with fk866,time,
+time point (post-inoculation),time,
+time post-dox,time,
+time post-inoculation,time,
+time sampled,time,
+time to death (mos),time,
+time to outcomel,time,
+time_to_death (yr),time,
+time_to_progression,time,
+time_to_relapse (yr),time,
+tissue harvest,tissue,", 9/24/03. 9/17/03, embryonic day 6 (h&h stage 26 -28)"
+tissue collection time,tissue,"0 h (control), 18 h post pgf2_ administration, 6 h post pgf2_ administration, 3 h post pgf2_ administration"
+number of pooled tissues,tissue,"1, 4, 2003"
+age and tissue,tissue,10 days-old seedlings.
+day of tissue dissection,tissue,"10, 15, 12, 18"
+age of ffpe tissue,tissue,"11, 10, 12, 21, 34"
+tissue_mg,tissue,"31, 33, 26"
+tissue/treatment id,tissue,"4, 2, 3, 1, 7"
+tissue ph,tissue,"6.46, 6.43, 6.28, 6.38, 6.06"
+tissue diagnosis,tissue,"adenocarcinoma, carcinoma large cell, carcinoma squamous cell, carcinoma non-small cell"
+tissue derivation,tissue,"adenoid cystic carinoma of the parotid gland, pancreatic tumor, tongue, breast cancer, hodgkin lymphoma"
+original tissue,tissue,"adult dermal fidroblast, breast, peripheral blood"
+fetal vs adult tissue,tissue,"adult, fetal"
+tissue provider,tissue,"alberta-pacific, alberta, canada, agriculture and agri-food canada, prairie farm, rehabilitation administration (aafc-pfra), shelterbelt centre, indian head, sk, alberta- pacific forest industries inc., al-pac, grasslands, ab, l.a. quality products ltd., portage la prairie, mb"
+tissue preserve method,tissue,"allprotect, frozen, n/a, rnalater"
+tissue/source,tissue,"amniotic fluid, blastocyst-derived embryonic stem cells"
+tissue/tumor subtype,tissue,"basal-like adjacent tissue, basal-like tumor, erbb2+ adjacent tissue, luminal b adjacent tissue, luminal b tumor"
+tissuer type,tissue,"benign, tumor"
+sample tissue type,tissue,"blood, skin"
+tissue-cy5,tissue,bovine reference rna
+origin tissue,tissue,"breast epithelial, peripheral lymph nodes and spleen, breast cancer, lymph node, porcine kidney"
+tissue-type,tissue,"breast epithlieum, lung, articular cartilage, cholangiocarcinoma, growth plate cartilage"
+tissue origin of cancer cell,tissue,"breast, cervix"
+tissue preparation,tissue,"bulk, microscope dissected, antibody purified, cell line, laser capture microdissected"
+tissue collection,tissue,"bulk, whole blood drawn in edta tubes, day 7, on day 15, the mice were sacrificed and half of the, cerebellum was harvested for purification of mitochondria, with the left half snap-frozen, homogenized, and aliquoted for western blotting, microarray, and detection of atp and nad+., embryos dissected from fully-developed green seeds"
+# of tissue = 36 tissue,tissue,carotid body
+# of tissue = 40 tissue,tissue,carotid body
+# of tissue = 42 tissue,tissue,carotid body
+# of tissue = 38 tissue,tissue,carotid body
+tumor tissue source,tissue,"cell line established, cell line1st deg. Culture"
+original tissue source,tissue,colon
+tissue treatment,tissue,"control luteal day 10, hcg (simulated early pregnancy) luteal day 15, hcg (simulated early pregnancy) luteal day 10, hcg (simulated early pregnancy) luteal day 15+trl+r5020, hcg (simulated early pregnancy) luteal day 10+trl+r5020"
+source tissue,tissue,"cutaneous metastasis of melanoma, cerebellum, frontal cortex, superior temporal gyrus, entorhinal cortex"
+source tissue,tissue,"cutaneous metastasis of melanoma, cerebellum, frontal cortex, superior temporal gyrus, entorhinal cortex"
+gingival tissue phenotype,tissue,"diseased (bop + interproximal ppd of>3 mm + concomitant cal of>2 mm), healthy (no bop + ppd of<5 mm + cal of<3 2 mm"
+tissue-cy3,tissue,"distal ileum, inoculated with bmel"
+tissue/development stage,tissue,"e4-8, adultmale, adultfemale, l3, e12-16"
+cell line tissue source,tissue,"embyronic hypothalamus, adult hypothalamus"
+tissue_biological,tissue,"epithelial, endothelial"
+tissue compartment,tissue,"epithelium, stroma, epithelial, stromal"
+source tissue type,tissue,ex vivo e__-myc lymphoma
+tissue/developmental stage,tissue,"explant tissue subjected to se induction, the advanced phase of embryogenesis related to somatic embryo formation, freshly isolated explants competent to undergo embryogenic transition"
+pig tissue,tissue,"fetal placenta, spleen"
+tissue_type,tissue,"ffpe tissue sample, smooth muscle, fetal lung, mucosa, fetal intestine, large"
+tissue archive method,tissue,"ffpe, fresh, fresh frozen"
+tissue status,tissue,"ffpe, freshly resected tissue sample, involved, juvenile, mature"
+harvested tissue type,tissue,fiber
+tissue & age,tissue,"fiber 2 dpa, fiber 10 dpa, fiber 20 dpa, npcs of neocortex from 3 littermates wild-type mouse embryos at e14, npcs of neocortex from 3 littermates ts1cje mouse embryos at e14"
+thyroid tissue type,tissue,"follicular thyroid carcinoma, follicular thyroid adenoma"
+tissue processing,tissue,"formalin-fixed paraffin-embedded (ffpe), frozen"
+tissue archive,tissue,fresh frozen
+tissue state,tissue,"fresh frozen tissue, basal state, ffpe, ovarian cancer tissue after treatment, ovarian cancer tissue before treatment"
+tissue (brain region),tissue,"frontal cortex, temporal cortex, cerebellum"
+tissue storage,tissue,"frozen, ffpe"
+tissue preservation,tissue,"frozen, fixed"
+tissue subregion,tissue,"glomerulus, tubules, tubulus"
+tissue (group),tissue,"gonadotrope tumor, normal pituitary"
+tissue sample,tissue,"hcv positive, hcv negative"
+tissue age,tissue,"heads after mid-anthesis, five weeks after grafting seven day-old seedlings"
+tissue histology,tissue,"idc-nst, grade 3, na"
+tissue_grade,tissue,"iii, iv, ii,v"
+tissue and developmental stage,tissue,immature seed coats dissected from seeds of 50-75 mg fresh weight
+tissue grade,tissue,"iv, iii, ii, v"
+landrace tissue,tissue,jejunum
+tissue/cell,tissue,"kidney, testis, cerebellum, heart, brain"
+tissue harvested,tissue,"leaf, root, tramp-c2re3 prostate orthotopic tumors, ts/a tumors 21 days after tumor challenge"
+a.thaliana tissue,tissue,leaves
+cell tissue,tissue,liver
+tissue,tissue,"liver, blood, whole blood, peripheral blood, lung"
+tissue derived,tissue,"liver, skin, peripheral blood"
+tissue enriched for,tissue,"ls1-np-ncr, ls1-np-t, ls1-np-cr"
+# of tissue = 1 tissue,tissue,"lung, liver"
+tissue_surgery,tissue,"lymph_node, liver"
+tissue origination,tissue,"mammary gland, breast"
+tissue-of-origin,tissue,"melanoma, colon, renal, non-small cell lung, ovarian"
+tissues,tissue,"microdissected dental tissues from lower incisors, spleen and head kidney, spleen, normal spleen, cultured callus"
+tissue stage,tissue,"mid-late/late luteal phase, fresh frozen tissue, basal state, ffpe, ovarian cancer tissue after treatment"
+tissue part,tissue,middle region
+tissue morphology,tissue,"mucosa, colonic crypt epithelial cells"
+tissue/cell line [c],tissue,"myometrium, mda-mb231 cells, prostate gland, endometrium, endometrium/ovary"
+tissue_code,tissue,"na, f, a h, e"
+tissue type,tissue,"neuronal, tumor, breast cancer cell line, bone marrow, normal"
+somatic tissue,tissue,"no, yes"
+tumor tissue,tissue,"no, yes, pcc, primary tumor, high grade glioblastoma, low grade anaplastic mixed glioma"
+tissue harvest site,tissue,"none, metastatic site, lymph node, leaf, root"
+tissue/origin,tissue,"normal prostate, prostate cancer, normal urinary bladder"
+tissue typ,tissue,"normal skin, b16-ova grown in cell culture, normal skin inflamed by treatment with oxazolone, b16-ova melanoma tissue from 6 day tumors, b16-ova melanoma tissue from 11 day tumors"
+connective tissue type,tissue,"normal, trabecular, papillary"
+tissuetype,tissue,"normal, tumor, resistanttumor"
+brain tissue,tissue,"ob, dp, white matter, cortex"
+tissue or cell type,tissue,"oocyte, embryo, embryoid body, liver, embryonics stem cell"
+primary tissue,tissue,"ovary, colon, blood, fat, muscle"
+tissue (donor),tissue,"p53null mammary fragments, trp53-null mammary fragments"
+tissue source,tissue,"peripheral blood, nci-edrn, r lower, liver, kidney"
+cell line source tissue,tissue,"peripheral blood, primary human hypopharyngeal squamous cell carcinoma"
+tissue of origin,tissue,"pineal gland, melanoma, onl of both obs, non-small cell lung, renal"
+tissue (pup),tissue,"pituitary, hypothalamus"
+tissue id,tissue,"placenta 3.1, placenta 1.1, placenta 3.2, placenta 1.2, placenta 1.3"
+tissue region,tissue,"posterior right site of the cerebrum, layer 3, layer 6, layer 2, layer 5"
+tissue subtype,tissue,"primary hepatocellular carcinoma, non-tumor cirrhosis, micro-dissected for >80% tumor cell content, micro-dissected for >80% non-malignant cell content, tumor (t)"
+donor tissue,tissue,"primary human breast cancer, caucasion male foreskin"
+tissue site,tissue,"prostate, lymph node, bone, liver, ge junction"
+tissue/sector,tissue,"purple, red"
+tissue section,tissue,"region 3, region 2, region 4, region 1, region 5"
+tissue condition,tissue,"resting (uninjured) muscle, 48h after barium chloride-induced muscle injury, 12h after barium chloride-induced muscle injury"
+tissue location,tissue,"right, tongue, left, unknown, internode"
+tissue collection method,tissue,"rnalater, snap frozen, dnagard, laser capture microdissection"
+8 weeks. tissue,tissue,scraped off oxyntic mucosa.
+tissue lineage,tissue,"skin, blood"
+tissue.origin,tissue,"skin, lung"
+tissue harvest methods,tissue,"slices from each of the lobes were pooled together for microarray analysis, the organ was longitudinally bisected, a slice was removed for histology and the remainder of the organ was minced and used for microarray analysis, the gland was transversely sectioned and the bottom portion was used for microarray analysis, lung samples were obtained by placing a suture loosely around the left bronchus at the site where the bronchus enters the left lung lobe. a second suture was placed around the right bronchus and pulled tightly to tie off the right lung lobes. the right lung lobes were removed and placed in rnalater, and the left lung infused under hydrostatic pressure (~30 cm) with neutral buffered formalin. samples placed in rnalater were incubated overnight at 4_c and frozen the next day at < 70_c., the nose was dissected to isolate the level ii region of both nostrils. the maxillo turbinate and olfactory epithelium were discarded and the lateral meatus and nasoturbinate were retained for cell isolation. the dissected nasal sections were rinsed with cold phosphate buffered saline to remove the blood. after rinsing, a 5 ml buffered mixture of proteases (collagenase, 80 u/ml, sigma-aldrich"
+tissue/cell type,tissue,"soybean root/hypocotyls - p.sojae mycelium from minimal medium, peripheral blood leucocytes (pbl), osteosarcoma, ovarian somatic cells (osc), testicular germ cells, macs-sorted"
+4 months tissue,tissue,spinal cord
+secondary lymphoid tissue,tissue,spleen and lymph nodes
+fresh tissue,tissue,splenocytes
+tissue region enriched for,tissue,"starch, lipid"
+host tissue,tissue,"stomach, root, hind foot pads, hyphae, serum"
+mammary tissue,tissue,"stroma (fat pad), parenchyma"
+tissue_source,tissue,"surgical specimen, chtn specimen"
+tissuet type,tissue,testis
+tissue extraction,tissue,the entire region from just above the eye to below pharyngeal arch 6 was dissected out and subjected to facs and yfp+ cells were pooled from 10 embryos
+tissue source site,tissue,"the ontario tumor bank network,canada, the groene hart hospital,the neterlands"
+tissue (organ),tissue,"thymus, cord blood"
+tissue/cell line,tissue,"tissue, cell line, hek293, monolayer cells, fibroblast"
+tissue or cells,tissue,"tissue, cells, homogenized retina, facs sorted retina, cultured retinal progenitor cells"
+tissue isolated,tissue,tumor developed in recipient mice
+tissue sub-type,tissue,"tumor whole tissue, normal whole tissue, normal stroma, tumor stroma, normal epithelium"
+treated tissue,tissue,"two fully expanded leaves, root (soil surrounding the root system)"
+tissue bank,tissue,"umary, blsa"
+tissuebank,tissue,"umary, blsa, shri, mrc, jhu"
+tissue estradiol conc.,tissue,"under detection limit, 550pg/g, 9pg/g, 10.5pg/g, 300pg/g"
+tissue/cell type,tissue,"undifferentiated es (cell culture), embryonic bodies (cell culture), cardiac bodies (cell culture), whole heart"
+tissue separation,tissue,"unfractionated peripheral blood dna, lymphoid peripheral blood dna, myeloid peripheral blood dna"
+tissue origin,tissue,"uninvolved lung, lung adenocarcinoma, bone marrow, peripheral blood, breast"
+tissue_depot,tissue,"uw, n/a, brain, na, abdomen"
+prostate tissue,tissue,"vp lobe, dlp lobe"
+tissue_detail,tissue,"whole blood, muscle - skeletal, lung, artery - tibial, thyroid"
+tissue [transplant],tissue,"wt fetal liver cells engrafted in bm of an irradiated mice, pax5ko fetal liver cells engrafted in bm of an irradiated mice"
+tissue genotype/variation,tissue,"wt, p53 mutant"
+sample tissue of origin,tissue,"xenograft splenocyte, bone marrow, peripheral blood"
+tissue factor,tissue,
+tissue pair,tissue,
+tissue weigth,tissue,
+tissue/cell lines,tissue,
+tissue/cell preparation,tissue,
+treatment_time[hr],treatment,6
+euthanasia day post treatment,treatment,42
+dht treatment,treatment,"""-"", na, 1 nm, 100nm,"
+treatment adchem,treatment,": adchemanthracycline, : adhtamoxifen, : no treatment"
+treatment time (rhgaa),treatment,"""--"", 00 weeks, 12 weeks, 52 weeks"
+ms treatment,treatment,"""-"", copaxone, betaferon, tysabri, rebif44"
+response to tzd treatment,treatment,"""=+ (responder)"", ""=- (non responder)"""
+treatment amount [c],treatment,"(not applicable), 50 ug/ml"
+treatment [c],treatment,"(not applicable), oxidized ldl"
+days after treatment,treatment,"0 d, 1 d, 23 d, 3, 7"
+duration of il-6 treatment,treatment,"0 h, 12 h, 1 h, 6 h, 3 h"
+hcg treatment time,treatment,"0 hr, 3 hr, 9 hr, 14 hr"
+treatment response in vivo,treatment,"0, 1"
+treatment_dose_u/ml,treatment,"0, 1000"
+rai stage before treatment,treatment,"0, 2, 4, 3, 1"
+hours treatment,treatment,"0.5, 4, 0"
+h2o2 treatment level,treatment,"0mm, 1mm, 50mm, 5mm, 25mm"
+b12 treatment,treatment,"0nm, 500nm, 50um"
+folate treatment,treatment,"0nm, 6um, 30um, 60um"
+days of treatment,treatment,"1 day, 3 days"
+time after treatment,treatment,"1 day, 6h, 12h, 24h, 48h"
+treatment duration,treatment,"1 days, 3 days, 5 days, .25 days, 24h"
+order of treatment,treatment,"1, 2"
+treatment repeat,treatment,"1, 5, 2006"
+weeks after treatment,treatment,"1, 8"
+testosterone treatment,treatment,"100 nm testosterone, none"
+treatment dose u/ml,treatment,"100, 0"
+treatment_dose,treatment,"1000 u/ml, none"
+time (weeks of treatment),treatment,"11, 27, -4, 23, 17"
+period of treatment,treatment,"12 weeks, 4 weeks"
+treatment time(minutes),treatment,"120, 480, 0, 20, 40"
+sirna treatment time point,treatment,"12hr, 4hr, 8hr, 18hr"
+age (at the end of treatment),treatment,13 wks
+treatment-time,treatment,"14 days, none, 24 hours, 3 hours, 9 hours"
+duration of treatment,treatment,"15 min, 5 days, 30 min, 60 min, 6 hr"
+tnfa treatment time point,treatment,"1hr, 2hr, 3hr, 6hr, untreatment"
+chloride treatment,treatment,"1mm, none"
+bl treatment level,treatment,"1um, 0um"
+specific treatments,treatment,"2 h exposure to 12.5 _µg/ml gentamicin, 2h exposure to combined gentamicin ans surface acoustic waves, 2 h exposure to surface acoustic waves generated by a piezo element directly attached to the cathter. the frequency of the vibrations generated on the piezo element is 100 khz _± 10% and at on/off frequency of 30hz, none"
+time (days of dss treatment),treatment,"2, 0, 7"
+weeks of treatment,treatment,"2, 3, 5/6, 1, 4"
+kcl treatment time (hours),treatment,"2, 6, 2001"
+treatment length,treatment,"21 days, 48 hours, 96 hours, 14 days, 1 hour"
+day of dox treatment,treatment,"21, 14, 27, 0, 2"
+treatment 2,treatment,"22mm glucose, 5mm glucose, 20 nm insulin, equine chorionic gonadotropin, i.p. injection with scriptaid"
+treatment pairs,treatment,"23, 61, 94, 19, 20"
+time post treatment,treatment,"24 hours, 4 hours, 2 hours, 6 hours, 0 hour"
+length of treatment,treatment,"24 hours, 6w, 3w, 14hrs"
+secondary treatment duration,treatment,"24 hours, 6w, 3w, 14hrs"
+treatment time point,treatment,"24 hr, 3 hr, 10 minutes, 30 minutes, 350h"
+treatment duration (hours),treatment,"24, 6, 72"
+duration of treatment (hours),treatment,"24, 8"
+treatment_time,treatment,"24h, 4 h, 4h, 24 h, 0 hrs"
+treatment time-point,treatment,"24h, 8h, ctrl, 15h, 2h"
+treatment time (hours),treatment,"24hrs, 8, 6hrs, 4, control"
+growth factor treatment,treatment,"25ng/ml egf, 50ng/ml ngf, no treatment"
+treatment age,treatment,3 days post-germination
+treatment period,treatment,"3 h, 3 days, 7 days, 0, none"
+5-aza-c treatment,treatment,"3_m at 18 hrs post infection for 12 hrs, 5_m at 32 hrs post infection for 24 hrs"
+length of treatment (days),treatment,"3, 5, 7, 1.5, 9"
+days of ddc treatment,treatment,"3, 7, 14, 0"
+stress treatment,treatment,"38c for 3hrs, 100 mm nacl for 3hrs, 800 _µm photons m-2s-1 for 3hrs, 10c for 3hrs, 100 mm nacl + 38c for 3hrs"
+vernalization treatment,treatment,"4_c, short day (8 hours light/16 hours dark)"
+time after h2o2 treatment,treatment,4h
+h2o2 treatment,treatment,5 mm
+treatment dose,treatment,"5 ng/ml, 10 _µm, 10 u/ml, 3 um, 5 _µm"
+treatment batch,treatment,"5, 2, 1, 3, 4"
+treatment concentration,treatment,"500nm, 10 mm, 0.3mm h2o2, --"
+co2 treatment,treatment,"540 ppm co2, 1020 ppm co2,"
+period of salt treatment,treatment,"6 hours, 1 hour, 3 hours, 12 hours, 0 hour"
+treatment exposure,treatment,"6 hours, 1 hours"
+age at start of treatment,treatment,"6-8 d, 2 d"
+post-dac treatment,treatment,"6h etoh treatment, 6h e2 treatment"
+treatment time,treatment,"6hr, 2hr, 0hr, 24h, 14 days"
+time of tamoxifen treatment,treatment,"7 months of tamoxifen treatment in vivo, 8 months of tamoxifen treatment in vivo, from 7 to 8 months of tamoxifen treatment in vivo, 9 months of tamoxifen treatment in vivo, 10 months of tamoxifen treatment in vivo"
+day of dss treatment,treatment,"7, 0"
+dac treatment,treatment,"72h no treatment, 72h 1__m dac treatment"
+treatment name,treatment,"a_euteiches_6dpi - inoculation - pathogen infection,ae 6dpi, a_euteiches_1dpi - time course study - pathogen infection,ae 1dpi, water_a_euteiches - with euteiches,inoculation - mock infiltration,ae 6d, water - inoculation - mock infiltration,mock_water"
+treatment_schedule,treatment,"a, b, c, untreated"
+post surgical treatment,treatment,"act, obs"
+hygromycin treatment,treatment,"added, added, then removed"
+time of treatment,treatment,"after disease establishment, zt24, zt36, 6h, time of grafting"
+cactus host treatment,treatment,"agria, organpipe"
+bioremediation treatment,treatment,alert (ex situ)
+treatment type,treatment,"anastrozole, tamoxifen, lps, letrozole, none"
+inducer treatment,treatment,"ap21967, vehicle"
+treatment stage,treatment,"baseline (prior infliximab infusion), vitellogenic, preablation, elongated cortical rod, 24hrs postablation (previtellogenic)"
+treatment protocol,treatment,"biweekly with high dose of peg30-fgf21 q108 (biw, 2.5mpk), twice daily with wild-type fgf21 (bid, 1.25mpk), biweekly with low dose of peg30-fgf21 q108 (biw, 0.75mpk), twice daily with vehicle (saline), hypoxia, followed by variable-length normoxia"
+chamber treatment,treatment,"clean air, diesel exhaust inhalation"
+treatment regimen,treatment,cog 9404
+myo-inositol treatment,treatment,"complete response, progressive disease, partial response, unknown response"
+treatment gp,treatment,control adenoviral recombinant
+tissue treatment,treatment,"control luteal day 10, hcg (simulated early pregnancy) luteal day 15, hcg (simulated early pregnancy) luteal day 10+trl+r5020, hcg (simulated early pregnancy) luteal day 10+trl, hcg (simulated early pregnancy) luteal day 15+trl+r5020"
+environmental treatment group,treatment,"control, collected on the day of landing emerged during the flight and within 4 hours of, landing"
+treatment 1,treatment,"control, laser treated, steroids 0mg/kg, 10 ng/ml tnf, antide on days 1 and 4"
+transfection or treatment,treatment,"control, no treatment, dmso"
+sirna treatment group,treatment,"control, sisteap1, itm2a, dkk2"
+in vivo treatment,treatment,"corn oil, propylene glycol mono-t-butyl ether, methylene chloride, 1,2,3-trichloropropane, naphthalene"
+light treatment,treatment,"dark, light, white light 1h, white light 6h"
+units of treatment time,treatment,"days/wk, 6 hr/day, hr/day"
+sample treatment,treatment,"dep, fap, dnase digestion, sonication"
+treatment result,treatment,"developed lipodystrophy, nonlipodystrophic"
+dsrna treatment (knockdown),treatment,"dicer-1 dsrna, argonaute 1 dsrna, argonaute 2 dsrna, dicer-2 dsrna, drosha dsrna"
+cardioglycoside treatment,treatment,"digoxin, strophanthidin, peruvoside, control"
+dnase treatment,treatment,"dnase i treated, no, 1.2u-12u per 132 ul, yes"
+plant treatment,treatment,"etoh, dexamethasone"
+treatment/growth condition,treatment,"expose 0.1% ethanol for 4days between day2 and day6, expose 10-7m retinoic acid for 4days between day2 and day6, expose 10-8m retinoic acid for 4days between day2 and day6"
+treatments,treatment,"exposed to mq water, ut-untreated, ra-al-trans retinoic acid induced, 10 min 1mm h2o2, exposed to raw wastewater"
+treatment/exposure,treatment,"exposed toa ir, exposed to smoke"
+treatment.type,treatment,"fec/tx, fec/tx+h"
+treatment route,treatment,gavage
+in vivo treatment with,treatment,"gdc-0941 alone, gdc-0941 + pd0325901"
+heat treatment,treatment,"heating at 95c for 30 min, heating at 95c for 60 min, heating at 95c for 0 min, heating at 95c for 10 min"
+treatment dosage,treatment,"high, low, 0.7 ppm, 60mg/kg/d, 100 nm"
+treatments prior to dasatinib,treatment,"hu, ifn, im, hu, ifn, arac, im, hu, ifn, arac, asct, im"
+tzd treatment,treatment,"hu, ifn, im, hu, ifn, arac, im, hu, ifn, arac, asct, im"
+oxygen treatment,treatment,"hypoxia, normoxia (mock)"
+patient treatment plan,treatment,"ic+surgery, crt, ic+crt, ic+rt"
+cytokine treatment,treatment,"il13, il13 + il4, media, il-33, il-25"
+nature of treatment,treatment,"in vivo, in vitro con, in vivo con (age-matched), in vitro"
+treatment_category,treatment,"ivig responder_acute, ivig responder_after, ivig healthy controls, ivig non responder_acute, ivig non responder_after ivig"
+treatment drug,treatment,"jq1, dmso, --"
+maternal treatment group,treatment,"leptin, control, restricted"
+treatment (short label),treatment,"lis.dil, er.char 40%, lis 40%, mdl.diel, mdl.phen"
+pbmc treatment,treatment,"lps, conditioned, untreated, conditioned"
+treatment condition,treatment,"lps, control, oxpapc, na, constant dark conditions"
+secondary treatment,treatment,"macrophage conditioned medium, thesc conditioned medium serum starved, serum starvation"
+peptide treatment,treatment,"metastin-10, control peptide"
+antibody treatment,treatment,"mouse igg, 228b/c, 228b/c + 11h4, none, 11h4"
+vaccine or treatment,treatment,"mrkad5/hiv, mrkad5 at 20000 virus particles/cell, mock"
+rnai treatment,treatment,"msl2 rnai, control gfp rnai, xrn-1, mes-4, tspan-17 shrna"
+transcription factor treatment,treatment,"myocd, nkx2.5, hand2, gata4, no tf"
+treatment start age,treatment,"n/a, 44 days"
+c systemic treatment,treatment,"n/a, chemotherapy - tamoxifen, chemotherapy, tamoxifen, no"
+c local treatment,treatment,"n/a, mastectomy, breast conserving surgery"
+lithium treatment,treatment,"n/a, no, yes"
+valproate treatment,treatment,"n/a, no, yes"
+treatment response,treatment,"na ,responder, nonresponder, fl_responder, partial response"
+treatment response in vitro,treatment,"na, 0, 1"
+time to treatment (days),treatment,"na, 1624, 31, 230, 0"
+treatment compound,treatment,"na, indomethacin, sildenafil, valproic acid, rofecoxib"
+treatment agent,treatment,"na, macrophage differentiation medium, acd3/acd28, il15, lps"
+intrusion treatment,treatment,"na, simulated territorial intrusion, control"
+gefitinib treatment,treatment,"na, y"
+hormone treatment,treatment,"na, y"
+treatment of mouse,treatment,"neu+ tumor bearing, normal"
+sirna or shrna treatment,treatment,no
+treatment of estrogen,treatment,no
+treatment (chemo),treatment,"no chemo, chemo"
+il-2 treatment,treatment,"no il-2, 50 u/ml il-2 (added at day0+16h)"
+imatinib treatment,treatment,"no im, im"
+treatment_2,treatment,"no loading, passive loading, fenofibrate, 1_µm 5z-7-oxozeaenol for 1 h, none"
+msc treatment,treatment,"no msc, msc"
+treatment description,treatment,"no special treatment or protocol applies, 1 h with 0.02% ethanol (myers), 60 h with 2.0% equine serum and insulin (wold), transmits 90.0% of vis, blocks 99.9% of all uv below 390 nm, transmits 90.0% of vis, uva, and uvb radiation"
+treatment before sampling,treatment,"no treatment, anastrozole 1mg/d for 10 days, before anastrozole treatment"
+chemical treatment condition,treatment,"no treatment, vc6tfmb+z, vc6tf+z, vc6tf"
+chemical treatment conditon,treatment,"no treatment, vc6tfmps+z, vc6tf+z, f"
+dopamine-agonists treatment,treatment,"no, ""-"", yes"
+chx treatment,treatment,"no, chx treated, yes, solvent only, 380 ppm co2"
+amykor treatment,treatment,"no, yes"
+anti-cd8 treatment,treatment,"no, yes"
+tap treatment,treatment,"no, yes"
+drb treatment,treatment,"no, yes, last 16 hours"
+treatment_1,treatment,"non-depolarizing neuromuscular blocking agent (nmba), pioglitazone, aleglitazar, tesaglitazar, 10ng/ml il-1alpha for 1 h"
+treatment class,treatment,none
+iodine treatment,treatment,"none, 1mm"
+ecdysone treatment,treatment,"none, 3 hours, 48 hours"
+sirna treatment,treatment,"none, bmal1 sirna, n/a, neg ctr, sirna myb"
+treatment,treatment,"none, control, untreated, wild-type, dmso"
+compound based treatment,treatment,"none, ima, rap"
+dsrna treatment,treatment,"none, pc dsrna, trx dsrna, gst drna, nsl1 dsrna"
+probiotic treatment,treatment,"none, probiotic treated (1x10^6 cfu/chick), treated one h later with probiotic (1x10^6 cfu/chick)"
+treatment_molecule,treatment,"none, roferon"
+animal treatment,treatment,"none, temodal (tmz) in orange juice, orange juice, continuous growth hormone treatment"
+shrna treatment,treatment,"none, tet1 shrna2863, luc shrna, s6k1 shrna lentivirus, control shrna-treated"
+prior treatment,treatment,"none, unknown, --, rad, radiation"
+uv treatment,treatment,"none, uvb, uva"
+ligand treatment,treatment,"none, vehicle, r5020, ngf, ngf-bdnf"
+experimental treatment,treatment,"normal, untreated, dmso, 30min, benomyl, 25 mcg/ml, 30min, left atrial ligation"
+patient treatment,treatment,"not applicable, mtx+et, mtx"
+adjuvant treatment,treatment,"not known, no, yes"
+enrichment treatment,treatment,"np ratio of 151 (1.5 _µm nano3 and 0.1 _µm kh2po4), np ratio of 751 (1.5 _µm nano3 and 0.02 _µm kh2po4)"
+treatment_protocol,treatment,"od600 0.5 exposed to benzalkonium chloride 2 _µg/ml for 0 min, od600 0.5 exposed to hydrogen peroxide 0.05mm for 0 min, od600 0.5 exposed to peracetic acid 10_µg/ml for 0 min, od600 0.5 exposed to hydrogen peroxide 0.2mm for 0 min, od600 0.5 exposed to benzalkonium chloride 1 _µg/ml for 0 min"
+route of treatment,treatment,oral treatment-drug added to drinking water
+response to treatment,treatment,"partial response, stable disease, er stress, control"
+ca04 or pbs treatment,treatment,"pbs, ca04 virus"
+units of treatment repeat,treatment,"per day, hr/day, days/week, day/wk"
+acidification treatment,treatment,"ph 7.6-7.7, ph 8.0-8.2, ph 7.8-7.9"
+treatment/sample type,treatment,"pooled rna from c. neoformans grown under 9 different culture conditions, harvested from h99-inoculated rabbit at day7, harvested from h99-inoculated rabbit at day1"
+treatment state,treatment,"post-deep brain stimulation on electrical stimulation, pre-deep brain stimulation, post-deep brain stimulation following 1 hour off electrical stimulation, none"
+treatment_response,treatment,"pr, cr, vgpr, cured, not cured"
+dasatinib treatment,treatment,"pre-treatment, post-treatment"
+treatment status,treatment,"pre-treatment, previously treated, pre-interferon, post-interferon, unknown"
+treatment arm,treatment,"prostvac, control, ixabepilone, paclitaxel, 13-cis-retinoic acid"
+cancer treatment,treatment,"pt dxed in 2002, pt dxed in 2007"
+growth condition and treatment,treatment,"radish sprout seeds were sterilized (5 min 70% ethanol, 10 min 1% naocl with 0.1% tween), then washed five times with sterile water and subsequently incubated in sterile ms medium without glucose in sterile plastic boxes (1 l total volume, passively aerated). after germination, seedlings were tested for sterility by plating a sample on lb agar. after 5 days of growth, the shoots were inoculated 10 min with 1 l __ concentrated ringer solution containing 103 cfu/ml ehec. the superfluous medium was decanted and cfu/g was periodically determined as followsinfected shoots were washed and bacterial numbers of the washing liquid were determined by serial dilution platings. after 120 hours, the transition from exponential to stationary phase could be determined. bacteria were harvested by gently shaking the seedlings in cold __-concentrated ringer (+1% tween-20
+ tenfold diluted lysogeny broth was used as reference medium. cells were harvested after 3.5 h at about 3.1 x 108 cfu/ml.
+ for nitrite, we added 200 mg/l sodium nitrite to 10-fold diluted lb and adjusted it to ph 6. harvest was after 6.5 h at 2.9 x 108 cfu/ml.
+ for spinach medium, whole spinach leaves were homogenized (agienda agricola pistelle, kaufland, germany) on ice using an ultraturrax d50. the mush was centrifuged (1 h, 30,000_g, 5_c), decanted, filtered (2.5 _µm pore size), centrifuged (2 h, 30,000_g, 5_c), decanted and sterile filtered (0.2 _µm). after 5 h of growth, we harvested the cells at 6.0 x 108 cfu/ml."
+chip dna treatment,treatment,"recjf, exoi"
+small molecule treatment,treatment,"repsox at 24 hours, repsox at 48 hours, repsox at 1 week, repsox at 10 hours, repsox during derivation"
+rna treatment,treatment,"rrna depleted, tobacco acid pyrophosphatase (tap), no rna treatment, none, oxidised"
+treatment_given,treatment,"rt, --, rt + rt"
+treatment*,treatment,"s, rt, s, s, crt, ic, s, rt, surgery"
+b240 or saline treatment,treatment,"saline, lactobacillus pentosus b240"
+timepoint 4h treatment,treatment,"same end point, not same day, same start point"
+oligo treatment,treatment,scrambled control
+immunogen treatment,treatment,"sea water, pic, mdp"
+cell treatment,treatment,"shrna infected cells, cultured with anticd3 cd28 beads and collected at various time points, purified by cell sorting (cd4+ gfp+), purified by cell sorting (cd4+ gfp-), lmna knock-down (cultured)"
+treatment2_in vivo treatment,treatment,"silica, air control, iraqi sand"
+vaccine treatment,treatment,"siv dna vaccine, no vaccine (control), siv dna vaccine with rantes adjuvant"
+dna treatment,treatment,"sonicated and immunoprecipitated with anti-5-methyl cytidine antibody (diagnode, li©ge, belgium), sonicated, sonicated and immunoprecipitated with anti-5-methyl cytidine antibody (diagenode, li©ge, belgium)"
+rnase treatment,treatment,"ssrnase (rnase one), dsrnase (rnase v1), none"
+treatment group,treatment,"statin alone, fenofibric acid+statin, control, fenofibric acid, untreated"
+treatment delivery,treatment,"subcutaneous with osmotic pump, untreated"
+adjuvant patient treatment,treatment,tamoxifen
+preoperative treatment,treatment,"taxol x 12 fac x 4, fac x 6, fec x 6, paclitaxel x(12 ) + fec x(4 ), fec x(6 )"
+treatments comments,treatment,"taxol x 12 fac x 4, paclitaxel x 12, fac x 4, taxol x 12 fec x 4, paclitaxel x 12, fec x 4, taxol 80 mg/m2 x12 , fec x4"
+treatment category,treatment,test sample
+hormonal treatment,treatment,"testosterone supplementation by implant, none, 11-ketotestosterone supplementation by implant"
+tet1/tet2 treatment,treatment,"tet1 and tet2 knocked out, wt, tet1, tet2 and tet3 knocked out, heterozygous / tet1 and tet2 knocked out on one chromosome"
+treatment code,treatment,"tfac, tfec, txfac, th/fac, fac"
+treatment of the mice,treatment,treated with ecg for 48h and hcg for 12h
+lps treatment (time),treatment,"untreated, 24 hours, 2 hours, 6 hours, 30 mins"
+drug treatment time point,treatment,"untreated, 8hr, 2hr, 4hr, 6hr"
+ddc treatment,treatment,"untreated, ddc-treated"
+globin treatment,treatment,"untreated, globinclear"
+hnf4 si rna treatment,treatment,"untreated, treated"
+lenolidamide treatment,treatment,"untreated, treated"
+in vitro treatment,treatment,"vehicle control, estradiol + progesterone (e2p4), estradiol (e2), none, il-7/il-25/il-33 5 days+ etoh 2 days"
+drug treatment,treatment,"vehicle, chronic low levodopa, chronic high levodopa, dmso, jq1"
+art treatment,treatment,"with, without"
+ntg treatment,treatment,yes
+tamoxifen-citrate treatment,treatment,yes
+l-dopa treatment,treatment,"yes, -, no"
+bisulfite treatment of rna,treatment,"yes, no"
+nrti treatment status,treatment,"yes, no"
+doxycycline treatment,treatment,"yes, no, false, true"
+dox treatment,treatment,"yes, no, untreated, treated, dox+"
+drug treatment time,treatment,
+ionizing radiation treatment,treatment,
+s2 treatment,treatment,
+tamoxifen treatment,treatment,
+time of treatment with fk866,treatment,
+treatment variable,treatment,

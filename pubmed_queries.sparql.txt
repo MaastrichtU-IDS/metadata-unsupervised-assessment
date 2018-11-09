@@ -1,0 +1,16 @@
+#describe <http://purl.org/spar/fabio/hasPubMedId>
+ 
+## Samples with a given property value and type, and external links
+## This version doesn't exploit any ontology for sample properties.
+
+#Endeavour is the domain of hasPubMedId
+SELECT ?s WHERE
+	?s a <http://purl.org/vocab/frbr/core#Endeavour> .
+}
+limit 100
+
+#Get all triples where hasPubMedId is the predicate
+SELECT ?s ?o WHERE
+	?s  <http://purl.org/spar/fabio/hasPubMedId> ?o .
+}
+limit 100
