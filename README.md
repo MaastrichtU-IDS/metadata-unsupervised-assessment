@@ -20,7 +20,7 @@ git clone https://github.com/MaastrichtU-IDS/metadata-unsupervised-assessment.gi
 cd metadata-unsupervised-assessment
 
 ```
-2. Build a Docker image and run
+2. Build a Docker image and run (Linux and macOS)
 ```shell
 docker build -t turi_mua .
 docker run -it -p 8888:8888 -v "$PWD":/home/jovyan --name=meta_turi turi_mua
